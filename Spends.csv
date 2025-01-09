@@ -1,0 +1,3001 @@
+customer_id,month,category,payment_type,spend
+CUST075,August,Groceries,Credit Card,3405.41
+CUST181,October,Entertainment,UPI,5523.04
+CUST067,May,Entertainment,Debit Card,16508.78
+CUST054,July,Electronics,Credit Card,15618.32
+CUST033,August,Groceries,Net Banking,6465.98
+CUST065,September,Groceries,UPI,8314.14
+CUST142,October,Entertainment,Credit Card,12395.55
+CUST056,September,Electronics,Debit Card,2047.7
+CUST132,October,Travel,Net Banking,5376.84
+CUST083,July,Apparel,Credit Card,5854.96
+CUST100,October,Electronics,UPI,4841.25
+CUST156,October,Entertainment,Debit Card,9410.32
+CUST190,May,Electronics,Net Banking,11364.42
+CUST037,October,Groceries,UPI,12968.14
+CUST157,July,Electronics,Net Banking,2343.85
+CUST029,May,Groceries,Credit Card,3945.07
+CUST068,July,Travel,Credit Card,17567.48
+CUST027,June,Travel,Credit Card,5652.23
+CUST094,September,Electronics,Credit Card,8762.85
+CUST190,August,Entertainment,Debit Card,15258.24
+CUST087,May,Entertainment,UPI,7143.99
+CUST143,May,Travel,Credit Card,12248.47
+CUST115,May,Apparel,Net Banking,16852.29
+CUST172,August,Apparel,Debit Card,3991.97
+CUST079,October,Electronics,Credit Card,3651.06
+CUST006,August,Entertainment,UPI,17285.89
+CUST023,September,Apparel,Credit Card,5930.11
+CUST103,August,Travel,Credit Card,17672.64
+CUST171,September,Travel,Debit Card,3423.48
+CUST081,August,Groceries,UPI,2321.01
+CUST177,May,Entertainment,Debit Card,10323.63
+CUST138,June,Electronics,Net Banking,16708.95
+CUST188,October,Groceries,UPI,17279.87
+CUST148,June,Apparel,Net Banking,8071.18
+CUST127,October,Entertainment,UPI,7645.68
+CUST096,August,Apparel,Debit Card,12860.17
+CUST193,September,Travel,Credit Card,1565.44
+CUST144,May,Apparel,Credit Card,3526.31
+CUST034,May,Electronics,Net Banking,11750.66
+CUST144,October,Apparel,Credit Card,1799.36
+CUST024,June,Apparel,Credit Card,18986.92
+CUST079,October,Entertainment,Credit Card,8854.18
+CUST182,September,Groceries,Debit Card,12858.59
+CUST006,May,Electronics,Debit Card,19251.21
+CUST037,May,Entertainment,Credit Card,12937.47
+CUST169,May,Apparel,Net Banking,1992.6
+CUST057,August,Apparel,Debit Card,14705.55
+CUST158,June,Entertainment,UPI,2984.95
+CUST142,July,Travel,UPI,2586.44
+CUST004,July,Entertainment,Debit Card,11833.16
+CUST092,July,Apparel,Debit Card,2400.36
+CUST083,October,Entertainment,Net Banking,19185.78
+CUST181,October,Travel,Debit Card,10108.11
+CUST172,May,Groceries,UPI,9992.65
+CUST011,July,Apparel,Credit Card,13011.27
+CUST052,July,Groceries,UPI,4613.15
+CUST100,June,Electronics,Credit Card,13985.1
+CUST059,October,Apparel,UPI,13225.53
+CUST165,September,Entertainment,Credit Card,5300.01
+CUST048,October,Entertainment,UPI,14079.71
+CUST141,June,Entertainment,Credit Card,8008.06
+CUST109,August,Groceries,Debit Card,16801.42
+CUST008,May,Groceries,Debit Card,6524.85
+CUST126,September,Apparel,Net Banking,17404.32
+CUST177,October,Apparel,Net Banking,17567.63
+CUST011,August,Entertainment,Debit Card,15355.52
+CUST143,October,Apparel,UPI,7274.65
+CUST029,September,Entertainment,Debit Card,7956.77
+CUST067,June,Apparel,Debit Card,10524.25
+CUST069,June,Groceries,Net Banking,1090.36
+CUST010,May,Apparel,Credit Card,14487.72
+CUST158,August,Apparel,Debit Card,11693.43
+CUST018,August,Groceries,Net Banking,6718.83
+CUST063,October,Groceries,Net Banking,11375.86
+CUST049,October,Travel,Net Banking,13627.16
+CUST014,October,Electronics,Credit Card,8071.04
+CUST059,October,Entertainment,Credit Card,8856.87
+CUST175,June,Electronics,Credit Card,5913.76
+CUST078,July,Entertainment,Net Banking,4932.8
+CUST132,October,Entertainment,Net Banking,1745.21
+CUST070,June,Groceries,Net Banking,10336.96
+CUST145,May,Groceries,Credit Card,6694.31
+CUST176,May,Travel,Credit Card,10854.79
+CUST068,May,Groceries,UPI,2437.55
+CUST017,July,Electronics,Debit Card,5640.61
+CUST047,July,Electronics,Credit Card,15598.2
+CUST017,May,Groceries,Debit Card,4369.32
+CUST181,August,Entertainment,Net Banking,10090.56
+CUST189,October,Travel,Credit Card,18781.48
+CUST016,September,Groceries,UPI,8514.91
+CUST099,September,Electronics,Net Banking,3967.65
+CUST174,May,Apparel,UPI,9549.57
+CUST088,August,Entertainment,UPI,16138.78
+CUST188,June,Travel,Net Banking,18433.08
+CUST019,May,Groceries,Debit Card,8789.37
+CUST053,May,Electronics,Debit Card,18716.85
+CUST164,August,Travel,UPI,1934.65
+CUST072,July,Entertainment,Net Banking,13108.03
+CUST104,September,Groceries,Net Banking,7213.51
+CUST135,June,Electronics,Credit Card,11215.34
+CUST061,June,Groceries,Credit Card,4141.36
+CUST119,July,Electronics,Net Banking,17268.84
+CUST064,September,Apparel,Credit Card,14181.14
+CUST188,July,Electronics,Net Banking,659.68
+CUST022,June,Entertainment,UPI,5856.81
+CUST197,May,Groceries,UPI,2929.65
+CUST054,May,Apparel,Credit Card,16376.55
+CUST043,August,Travel,Credit Card,12157.44
+CUST140,August,Travel,Net Banking,559.58
+CUST130,July,Entertainment,Credit Card,15532.12
+CUST161,July,Entertainment,Net Banking,1137.94
+CUST058,July,Electronics,Credit Card,5140.77
+CUST195,September,Travel,UPI,16460.65
+CUST023,August,Apparel,Net Banking,1760.25
+CUST003,May,Electronics,Debit Card,13010.69
+CUST117,August,Electronics,UPI,7211.88
+CUST063,August,Travel,Debit Card,17840.4
+CUST129,May,Electronics,Debit Card,4853.03
+CUST059,August,Groceries,Credit Card,18481.76
+CUST189,September,Electronics,Net Banking,15691.59
+CUST014,August,Entertainment,UPI,6780.82
+CUST074,October,Groceries,Net Banking,19544.42
+CUST069,July,Entertainment,Net Banking,5781.9
+CUST095,May,Electronics,UPI,835.57
+CUST059,October,Entertainment,Net Banking,11594.12
+CUST173,July,Electronics,Net Banking,10178.12
+CUST116,August,Travel,UPI,9815.8
+CUST199,September,Entertainment,Net Banking,6618.0
+CUST112,July,Apparel,Debit Card,7905.26
+CUST045,August,Apparel,Credit Card,13897.79
+CUST137,June,Travel,Debit Card,4750.84
+CUST030,September,Entertainment,Credit Card,975.74
+CUST162,October,Groceries,UPI,8611.0
+CUST157,September,Entertainment,Net Banking,13400.88
+CUST178,May,Apparel,Debit Card,3818.87
+CUST123,June,Groceries,UPI,12161.1
+CUST188,October,Apparel,UPI,1501.03
+CUST063,August,Groceries,Debit Card,9950.45
+CUST084,September,Groceries,Credit Card,7732.08
+CUST124,August,Groceries,Credit Card,7796.64
+CUST195,May,Travel,Credit Card,18311.4
+CUST021,August,Apparel,Net Banking,8862.55
+CUST012,June,Entertainment,Credit Card,7309.47
+CUST111,June,Groceries,Net Banking,3445.08
+CUST171,August,Entertainment,Credit Card,5555.57
+CUST059,June,Apparel,UPI,7161.15
+CUST130,October,Apparel,Net Banking,17300.0
+CUST051,September,Travel,Credit Card,2283.43
+CUST126,September,Apparel,Debit Card,7445.9
+CUST131,June,Travel,Credit Card,13046.77
+CUST118,September,Electronics,Net Banking,2540.15
+CUST158,August,Apparel,Debit Card,19007.75
+CUST141,October,Travel,Credit Card,13094.96
+CUST123,October,Apparel,Debit Card,8577.99
+CUST072,September,Groceries,UPI,7825.77
+CUST084,June,Entertainment,UPI,10831.12
+CUST050,May,Travel,Debit Card,17742.12
+CUST064,September,Entertainment,Credit Card,14331.02
+CUST082,July,Entertainment,Net Banking,11516.91
+CUST169,July,Entertainment,UPI,17824.67
+CUST173,September,Electronics,Credit Card,9419.67
+CUST075,May,Electronics,UPI,19566.24
+CUST009,June,Entertainment,UPI,12576.95
+CUST003,July,Groceries,Net Banking,10951.22
+CUST179,July,Entertainment,Credit Card,10655.97
+CUST095,July,Groceries,UPI,8916.31
+CUST019,October,Apparel,Debit Card,15693.14
+CUST121,June,Travel,Debit Card,7499.27
+CUST165,May,Travel,UPI,13769.24
+CUST016,August,Electronics,Net Banking,8817.62
+CUST028,August,Electronics,UPI,5833.98
+CUST149,June,Entertainment,Credit Card,6463.14
+CUST059,October,Entertainment,UPI,14710.18
+CUST052,May,Travel,Net Banking,17014.05
+CUST147,September,Electronics,Net Banking,3110.87
+CUST102,May,Groceries,UPI,19370.83
+CUST094,September,Apparel,Net Banking,2012.49
+CUST147,October,Entertainment,Net Banking,12508.66
+CUST053,May,Travel,Debit Card,16985.11
+CUST172,May,Electronics,Debit Card,19686.32
+CUST175,October,Travel,Debit Card,14998.6
+CUST179,August,Electronics,Debit Card,14366.57
+CUST143,August,Entertainment,Credit Card,3223.87
+CUST023,May,Groceries,Credit Card,11956.5
+CUST191,June,Travel,UPI,549.31
+CUST109,August,Groceries,Net Banking,6712.71
+CUST080,September,Travel,Debit Card,16739.01
+CUST098,July,Groceries,Debit Card,14691.1
+CUST005,September,Electronics,UPI,9205.31
+CUST189,May,Travel,Debit Card,10250.86
+CUST178,October,Electronics,Net Banking,2417.77
+CUST184,August,Electronics,UPI,8597.04
+CUST058,June,Entertainment,UPI,7864.32
+CUST098,August,Travel,UPI,8067.68
+CUST132,September,Electronics,Credit Card,11402.44
+CUST053,June,Apparel,Credit Card,13882.81
+CUST078,October,Electronics,Credit Card,4162.72
+CUST160,September,Entertainment,UPI,895.62
+CUST068,October,Apparel,UPI,1053.33
+CUST173,September,Apparel,Debit Card,13692.71
+CUST105,October,Apparel,Credit Card,16360.85
+CUST103,May,Groceries,Credit Card,13059.79
+CUST069,May,Electronics,UPI,13980.65
+CUST127,August,Apparel,Credit Card,19442.61
+CUST123,May,Travel,UPI,3434.84
+CUST101,August,Apparel,Credit Card,13965.13
+CUST107,September,Groceries,Debit Card,11210.06
+CUST060,July,Groceries,Credit Card,16424.01
+CUST047,July,Groceries,Net Banking,2560.15
+CUST196,September,Travel,Credit Card,4850.08
+CUST056,May,Travel,Net Banking,2286.74
+CUST043,August,Travel,Net Banking,18732.59
+CUST122,August,Groceries,Net Banking,699.66
+CUST193,June,Groceries,Net Banking,4506.34
+CUST045,May,Entertainment,Debit Card,15488.54
+CUST027,August,Apparel,UPI,10388.93
+CUST171,July,Entertainment,UPI,12469.04
+CUST074,September,Travel,Debit Card,4189.47
+CUST149,July,Entertainment,Net Banking,10304.27
+CUST098,June,Groceries,UPI,11897.23
+CUST131,August,Groceries,Credit Card,4686.21
+CUST196,July,Apparel,Debit Card,1494.38
+CUST140,August,Apparel,Net Banking,18091.68
+CUST088,July,Entertainment,Debit Card,5421.36
+CUST008,June,Travel,UPI,13900.61
+CUST170,July,Apparel,UPI,11978.82
+CUST107,May,Travel,Debit Card,19998.0
+CUST140,September,Electronics,Debit Card,10852.98
+CUST005,June,Entertainment,Net Banking,5600.13
+CUST141,May,Apparel,UPI,12671.8
+CUST134,August,Electronics,Debit Card,8035.07
+CUST073,July,Groceries,UPI,10164.56
+CUST135,September,Travel,Net Banking,17039.81
+CUST027,October,Apparel,Net Banking,16033.06
+CUST123,July,Apparel,Net Banking,15174.29
+CUST112,September,Travel,Net Banking,11702.41
+CUST013,July,Groceries,Debit Card,2299.35
+CUST189,October,Groceries,UPI,4189.66
+CUST172,August,Travel,Debit Card,19674.1
+CUST019,October,Groceries,Credit Card,11415.12
+CUST022,September,Electronics,Net Banking,2836.52
+CUST003,October,Groceries,Debit Card,10674.73
+CUST151,September,Travel,UPI,922.17
+CUST093,May,Entertainment,Credit Card,12406.49
+CUST088,June,Entertainment,Credit Card,14902.75
+CUST127,October,Apparel,Debit Card,539.26
+CUST140,May,Apparel,UPI,6945.02
+CUST010,June,Entertainment,Credit Card,4535.68
+CUST134,September,Apparel,UPI,10030.98
+CUST042,September,Electronics,Net Banking,14266.13
+CUST081,September,Groceries,Net Banking,924.75
+CUST133,May,Electronics,Debit Card,15001.35
+CUST186,July,Electronics,UPI,1239.17
+CUST178,June,Travel,UPI,11517.87
+CUST055,September,Entertainment,Debit Card,17271.97
+CUST053,August,Groceries,UPI,7056.62
+CUST038,May,Electronics,Debit Card,13584.17
+CUST126,July,Travel,UPI,8716.23
+CUST045,September,Entertainment,UPI,14219.17
+CUST064,June,Electronics,Credit Card,10684.07
+CUST109,May,Travel,UPI,9174.54
+CUST177,October,Groceries,Net Banking,6486.27
+CUST041,May,Entertainment,Credit Card,14968.51
+CUST107,May,Groceries,Net Banking,19671.0
+CUST148,October,Travel,Net Banking,8422.02
+CUST194,August,Entertainment,Debit Card,9968.97
+CUST067,August,Entertainment,Credit Card,16223.97
+CUST152,August,Apparel,Credit Card,19929.64
+CUST054,August,Apparel,Net Banking,10368.6
+CUST056,June,Entertainment,UPI,12532.49
+CUST181,October,Electronics,Net Banking,10451.96
+CUST112,June,Groceries,Credit Card,12221.55
+CUST091,June,Apparel,UPI,9601.92
+CUST153,May,Entertainment,Debit Card,989.72
+CUST192,June,Apparel,UPI,4562.77
+CUST124,August,Groceries,Credit Card,9072.34
+CUST122,August,Travel,Debit Card,8469.47
+CUST061,July,Groceries,Net Banking,10416.5
+CUST150,September,Groceries,Credit Card,3099.34
+CUST008,July,Entertainment,Credit Card,17399.18
+CUST161,October,Entertainment,Credit Card,11368.92
+CUST089,October,Apparel,Credit Card,13785.35
+CUST144,June,Groceries,Net Banking,19520.2
+CUST046,August,Entertainment,Net Banking,3798.43
+CUST096,July,Apparel,UPI,11270.0
+CUST135,June,Electronics,Credit Card,6254.33
+CUST031,October,Electronics,Net Banking,4802.56
+CUST034,July,Groceries,Debit Card,1803.49
+CUST032,October,Travel,Net Banking,14701.43
+CUST150,September,Entertainment,Debit Card,4168.04
+CUST146,June,Groceries,UPI,12812.06
+CUST095,October,Groceries,Debit Card,8997.5
+CUST131,June,Travel,Credit Card,12674.1
+CUST087,October,Apparel,Credit Card,4945.48
+CUST116,October,Groceries,Debit Card,14077.81
+CUST152,May,Groceries,Net Banking,3565.81
+CUST027,October,Travel,Debit Card,16184.45
+CUST063,September,Apparel,UPI,9457.73
+CUST003,June,Groceries,Credit Card,3484.75
+CUST052,September,Travel,Debit Card,19956.65
+CUST099,October,Entertainment,Net Banking,12105.67
+CUST181,July,Groceries,Credit Card,891.14
+CUST106,September,Travel,UPI,18873.39
+CUST179,June,Apparel,UPI,10524.8
+CUST154,September,Apparel,Net Banking,5993.48
+CUST059,May,Electronics,Credit Card,13268.79
+CUST079,May,Groceries,Net Banking,1954.94
+CUST031,June,Entertainment,Debit Card,1199.3
+CUST194,October,Electronics,UPI,7792.42
+CUST136,October,Travel,Credit Card,4646.5
+CUST181,May,Entertainment,UPI,6069.44
+CUST114,June,Apparel,Net Banking,12333.83
+CUST073,June,Travel,UPI,16522.51
+CUST185,October,Entertainment,Credit Card,11534.01
+CUST143,June,Travel,Net Banking,10332.83
+CUST172,October,Entertainment,Credit Card,3103.45
+CUST027,June,Travel,Credit Card,6786.94
+CUST076,October,Travel,Net Banking,4958.18
+CUST118,June,Electronics,UPI,1626.27
+CUST198,May,Apparel,Net Banking,14851.31
+CUST046,July,Entertainment,Debit Card,6852.88
+CUST169,June,Groceries,Credit Card,10223.58
+CUST072,May,Entertainment,Debit Card,5192.15
+CUST129,July,Entertainment,UPI,15226.54
+CUST015,May,Entertainment,Debit Card,3028.58
+CUST017,July,Electronics,Net Banking,6528.16
+CUST135,June,Entertainment,Net Banking,15674.69
+CUST185,October,Electronics,Net Banking,8296.78
+CUST074,October,Entertainment,UPI,1533.62
+CUST024,June,Entertainment,UPI,17311.61
+CUST152,May,Entertainment,Net Banking,3117.74
+CUST064,August,Travel,Credit Card,7556.56
+CUST024,September,Apparel,UPI,18791.26
+CUST179,August,Travel,UPI,1944.33
+CUST113,July,Travel,Credit Card,4766.76
+CUST111,August,Apparel,UPI,3033.25
+CUST053,July,Apparel,Debit Card,1449.51
+CUST014,June,Electronics,Debit Card,4962.35
+CUST157,September,Apparel,Credit Card,15917.78
+CUST107,July,Apparel,Credit Card,17846.69
+CUST137,July,Groceries,Net Banking,4107.13
+CUST008,May,Electronics,Credit Card,16215.0
+CUST039,May,Entertainment,UPI,8332.05
+CUST075,July,Electronics,Credit Card,8836.18
+CUST120,September,Entertainment,Net Banking,4472.29
+CUST167,October,Electronics,Debit Card,8695.51
+CUST177,August,Electronics,Debit Card,1351.23
+CUST183,July,Groceries,Debit Card,18536.45
+CUST170,September,Electronics,UPI,8224.26
+CUST162,May,Apparel,UPI,1951.03
+CUST191,October,Travel,UPI,16463.75
+CUST132,September,Entertainment,UPI,8609.07
+CUST122,June,Groceries,Net Banking,1506.58
+CUST051,October,Apparel,Debit Card,18053.43
+CUST045,June,Travel,Net Banking,2219.64
+CUST123,August,Electronics,Net Banking,15047.77
+CUST150,May,Apparel,Net Banking,2885.21
+CUST085,May,Apparel,UPI,13281.65
+CUST168,May,Apparel,Debit Card,19537.29
+CUST070,October,Travel,Debit Card,11788.6
+CUST115,May,Apparel,Net Banking,2486.52
+CUST053,August,Entertainment,Credit Card,10717.19
+CUST115,October,Electronics,Credit Card,6992.78
+CUST102,October,Travel,Net Banking,14465.46
+CUST088,August,Entertainment,Debit Card,12513.76
+CUST180,October,Apparel,UPI,12312.1
+CUST124,May,Apparel,Credit Card,5381.68
+CUST156,October,Entertainment,Credit Card,18878.19
+CUST049,July,Travel,Net Banking,13797.4
+CUST014,August,Travel,Net Banking,18346.3
+CUST179,July,Apparel,Debit Card,10754.71
+CUST032,May,Entertainment,UPI,16889.89
+CUST172,September,Entertainment,Net Banking,11018.86
+CUST192,June,Apparel,Net Banking,1729.63
+CUST042,August,Apparel,UPI,14224.47
+CUST086,June,Apparel,Net Banking,2977.46
+CUST059,June,Travel,Net Banking,2603.55
+CUST125,June,Electronics,Debit Card,15524.68
+CUST048,July,Electronics,UPI,664.3
+CUST042,August,Entertainment,Credit Card,11094.29
+CUST101,July,Groceries,UPI,17585.43
+CUST163,May,Travel,Credit Card,1011.27
+CUST134,August,Electronics,Net Banking,17432.16
+CUST016,July,Entertainment,Credit Card,16712.05
+CUST152,June,Electronics,Debit Card,6357.7
+CUST162,August,Entertainment,Net Banking,898.77
+CUST161,September,Apparel,Net Banking,3830.84
+CUST067,May,Travel,UPI,11924.58
+CUST041,July,Travel,UPI,16385.77
+CUST017,May,Apparel,Net Banking,9488.58
+CUST095,October,Apparel,Credit Card,1000.61
+CUST085,July,Travel,Debit Card,2392.36
+CUST190,August,Electronics,UPI,1323.96
+CUST089,July,Apparel,Debit Card,19625.45
+CUST010,June,Electronics,Net Banking,12153.2
+CUST078,June,Electronics,Debit Card,560.94
+CUST100,August,Groceries,Net Banking,10348.37
+CUST180,September,Groceries,Debit Card,8391.89
+CUST019,June,Travel,Debit Card,11614.47
+CUST180,October,Travel,Debit Card,13535.15
+CUST098,August,Travel,Debit Card,9543.05
+CUST150,May,Entertainment,UPI,13399.34
+CUST073,August,Travel,UPI,12796.48
+CUST094,September,Entertainment,Credit Card,15578.48
+CUST118,July,Entertainment,Credit Card,19608.16
+CUST024,June,Apparel,Debit Card,7444.28
+CUST047,May,Electronics,UPI,1439.18
+CUST150,June,Entertainment,Net Banking,11373.3
+CUST144,August,Groceries,UPI,16777.1
+CUST100,September,Entertainment,Credit Card,10108.26
+CUST127,October,Travel,Debit Card,6098.83
+CUST188,September,Groceries,Net Banking,14126.22
+CUST103,May,Entertainment,Net Banking,3049.13
+CUST163,August,Electronics,Credit Card,6231.18
+CUST171,August,Apparel,Net Banking,18109.88
+CUST125,June,Entertainment,Credit Card,8235.3
+CUST020,August,Travel,Debit Card,19178.17
+CUST071,July,Entertainment,Net Banking,5377.66
+CUST101,August,Apparel,Net Banking,16189.8
+CUST171,July,Electronics,Net Banking,927.89
+CUST111,August,Apparel,UPI,9078.47
+CUST051,May,Electronics,Net Banking,10897.15
+CUST004,September,Travel,Debit Card,12747.17
+CUST082,September,Travel,Credit Card,8998.97
+CUST028,August,Travel,Debit Card,9260.49
+CUST150,June,Apparel,UPI,2198.28
+CUST065,July,Electronics,Debit Card,8243.5
+CUST047,July,Entertainment,Debit Card,2862.79
+CUST010,September,Electronics,UPI,19679.23
+CUST032,September,Entertainment,UPI,14835.78
+CUST133,October,Travel,Credit Card,13106.76
+CUST068,May,Groceries,Credit Card,17551.36
+CUST060,September,Travel,Credit Card,13079.17
+CUST010,September,Groceries,Credit Card,17179.35
+CUST091,September,Groceries,Credit Card,1463.69
+CUST124,September,Entertainment,Credit Card,4703.08
+CUST074,June,Entertainment,UPI,5108.61
+CUST107,October,Travel,Credit Card,12560.2
+CUST134,May,Apparel,Net Banking,12488.54
+CUST200,June,Entertainment,Net Banking,15034.19
+CUST010,October,Travel,UPI,10271.22
+CUST128,June,Apparel,Debit Card,2079.07
+CUST099,August,Electronics,Debit Card,14831.24
+CUST065,October,Electronics,UPI,2960.74
+CUST014,September,Apparel,Credit Card,17184.53
+CUST107,October,Travel,Credit Card,5200.74
+CUST007,July,Apparel,Debit Card,9815.25
+CUST054,May,Entertainment,Net Banking,6530.28
+CUST160,June,Groceries,UPI,11290.95
+CUST053,June,Travel,Debit Card,3731.37
+CUST129,September,Electronics,Debit Card,14618.83
+CUST034,October,Travel,Credit Card,7181.19
+CUST080,October,Electronics,Net Banking,782.89
+CUST193,September,Apparel,UPI,558.64
+CUST068,August,Travel,Net Banking,12329.4
+CUST123,June,Travel,Debit Card,16504.77
+CUST055,October,Electronics,UPI,6843.2
+CUST145,July,Groceries,UPI,13129.26
+CUST179,September,Apparel,Net Banking,13301.68
+CUST056,September,Electronics,Net Banking,14865.94
+CUST162,September,Electronics,Net Banking,12971.0
+CUST091,August,Apparel,Debit Card,1529.48
+CUST030,July,Entertainment,UPI,18225.21
+CUST055,July,Groceries,Debit Card,17605.67
+CUST194,July,Travel,Net Banking,18247.79
+CUST045,July,Electronics,Debit Card,5224.31
+CUST004,May,Travel,UPI,5196.71
+CUST112,May,Travel,Credit Card,12155.63
+CUST004,August,Apparel,UPI,18343.06
+CUST028,June,Travel,UPI,17303.63
+CUST195,July,Apparel,Credit Card,14914.06
+CUST064,June,Entertainment,UPI,18929.69
+CUST098,June,Entertainment,Debit Card,8949.65
+CUST010,June,Apparel,Credit Card,7914.24
+CUST107,September,Groceries,UPI,15364.51
+CUST070,July,Groceries,Credit Card,19987.18
+CUST065,September,Apparel,Debit Card,12686.53
+CUST093,June,Entertainment,Debit Card,14136.57
+CUST063,June,Entertainment,Credit Card,11781.83
+CUST039,September,Apparel,UPI,19693.9
+CUST018,July,Groceries,UPI,6761.14
+CUST082,July,Apparel,UPI,1055.23
+CUST184,October,Groceries,Debit Card,9186.08
+CUST017,October,Entertainment,Net Banking,11395.63
+CUST070,September,Groceries,Net Banking,17650.14
+CUST119,May,Apparel,Debit Card,17488.1
+CUST083,June,Travel,UPI,4413.62
+CUST127,July,Apparel,Net Banking,4314.17
+CUST173,May,Apparel,Debit Card,16819.62
+CUST195,May,Electronics,UPI,14830.4
+CUST122,October,Entertainment,UPI,17143.43
+CUST008,August,Travel,Debit Card,13088.19
+CUST121,July,Electronics,UPI,6000.91
+CUST073,August,Travel,Debit Card,12071.1
+CUST002,October,Groceries,Debit Card,10459.78
+CUST041,June,Electronics,UPI,16507.87
+CUST016,June,Apparel,Net Banking,15740.59
+CUST071,October,Entertainment,Credit Card,4944.13
+CUST097,June,Travel,Debit Card,11637.23
+CUST197,July,Entertainment,Debit Card,8335.96
+CUST045,August,Electronics,UPI,13838.21
+CUST093,June,Entertainment,UPI,2329.23
+CUST117,August,Electronics,Credit Card,12185.23
+CUST097,September,Apparel,Debit Card,17684.09
+CUST043,May,Travel,Debit Card,18014.86
+CUST119,July,Travel,Debit Card,13777.32
+CUST016,October,Travel,Debit Card,4033.38
+CUST019,August,Entertainment,Credit Card,16824.33
+CUST115,August,Groceries,Net Banking,12589.26
+CUST133,September,Apparel,Net Banking,11178.3
+CUST115,August,Entertainment,UPI,11139.87
+CUST013,July,Apparel,UPI,6214.46
+CUST025,August,Electronics,UPI,7448.65
+CUST001,June,Travel,Credit Card,2089.68
+CUST102,July,Travel,Debit Card,4177.46
+CUST035,May,Electronics,UPI,7645.21
+CUST141,September,Groceries,UPI,12438.18
+CUST135,September,Travel,UPI,12153.58
+CUST187,September,Travel,Debit Card,3847.58
+CUST036,September,Travel,Net Banking,10572.5
+CUST033,May,Entertainment,UPI,17276.89
+CUST180,August,Electronics,Debit Card,5808.95
+CUST102,August,Apparel,Debit Card,17077.5
+CUST155,July,Apparel,Debit Card,2246.98
+CUST024,May,Entertainment,Credit Card,11714.28
+CUST017,October,Electronics,Net Banking,11579.46
+CUST149,May,Travel,Debit Card,16616.54
+CUST081,July,Entertainment,UPI,17636.68
+CUST055,June,Groceries,Debit Card,1973.14
+CUST178,September,Travel,Credit Card,15725.82
+CUST057,June,Travel,Debit Card,10640.57
+CUST122,May,Electronics,UPI,19931.79
+CUST163,September,Travel,UPI,11141.39
+CUST123,September,Entertainment,Net Banking,11887.75
+CUST047,September,Apparel,UPI,2770.29
+CUST037,September,Travel,Net Banking,8662.24
+CUST172,September,Groceries,UPI,8772.74
+CUST048,October,Apparel,Net Banking,16631.84
+CUST022,July,Apparel,UPI,2803.94
+CUST059,July,Electronics,Credit Card,3232.05
+CUST110,June,Entertainment,Debit Card,11570.22
+CUST016,July,Travel,Net Banking,12877.69
+CUST190,September,Apparel,Credit Card,2617.33
+CUST166,May,Electronics,Credit Card,7397.05
+CUST180,September,Entertainment,Debit Card,996.5
+CUST140,October,Apparel,UPI,12037.73
+CUST177,September,Entertainment,Debit Card,715.31
+CUST082,May,Groceries,Net Banking,6955.46
+CUST093,May,Travel,Debit Card,17284.94
+CUST118,August,Travel,Debit Card,5712.84
+CUST003,June,Travel,Debit Card,12075.69
+CUST136,May,Entertainment,Net Banking,10935.32
+CUST007,August,Entertainment,UPI,5138.17
+CUST007,September,Travel,Net Banking,10441.44
+CUST022,August,Apparel,UPI,16528.47
+CUST042,September,Groceries,Net Banking,17575.25
+CUST001,May,Groceries,UPI,16091.13
+CUST043,September,Groceries,Debit Card,16852.28
+CUST197,September,Electronics,Debit Card,18542.63
+CUST027,August,Groceries,Credit Card,922.06
+CUST113,July,Travel,Credit Card,2053.07
+CUST028,October,Apparel,Credit Card,7594.44
+CUST155,June,Groceries,Net Banking,7459.62
+CUST141,June,Travel,UPI,15201.16
+CUST101,October,Groceries,Debit Card,13725.36
+CUST128,September,Apparel,Credit Card,11381.25
+CUST004,October,Apparel,Net Banking,12830.36
+CUST141,May,Apparel,Credit Card,13160.21
+CUST170,July,Apparel,Net Banking,11941.14
+CUST182,October,Travel,Debit Card,8318.3
+CUST131,May,Travel,Debit Card,621.69
+CUST006,August,Electronics,Net Banking,12004.35
+CUST059,August,Travel,Debit Card,8202.86
+CUST052,June,Travel,Debit Card,14252.6
+CUST181,May,Travel,Debit Card,15188.21
+CUST147,August,Apparel,UPI,19627.34
+CUST024,June,Groceries,Debit Card,11066.2
+CUST074,May,Travel,Net Banking,4833.2
+CUST149,July,Groceries,UPI,16237.0
+CUST182,August,Groceries,Debit Card,4935.87
+CUST059,June,Electronics,UPI,18684.39
+CUST122,August,Apparel,UPI,3740.75
+CUST159,May,Groceries,Net Banking,10042.07
+CUST017,October,Apparel,Credit Card,14816.56
+CUST149,May,Travel,UPI,16122.65
+CUST066,July,Travel,Credit Card,19319.52
+CUST132,September,Apparel,Debit Card,2749.12
+CUST047,June,Electronics,Debit Card,19431.26
+CUST132,May,Apparel,Debit Card,12644.97
+CUST060,October,Entertainment,Credit Card,10762.74
+CUST189,May,Apparel,Debit Card,4239.13
+CUST033,July,Entertainment,Debit Card,19630.68
+CUST015,May,Apparel,Net Banking,14553.49
+CUST003,July,Travel,Net Banking,8241.67
+CUST136,October,Entertainment,Debit Card,14918.39
+CUST095,July,Entertainment,Net Banking,16011.07
+CUST115,July,Apparel,Credit Card,5336.18
+CUST193,May,Travel,Credit Card,12170.92
+CUST002,September,Electronics,Credit Card,12251.71
+CUST160,September,Electronics,UPI,14782.27
+CUST064,October,Electronics,Net Banking,19795.8
+CUST010,May,Electronics,Net Banking,4224.54
+CUST113,August,Entertainment,Credit Card,9545.91
+CUST175,July,Electronics,UPI,15353.71
+CUST177,July,Travel,UPI,9237.11
+CUST118,July,Travel,UPI,11929.83
+CUST154,August,Apparel,UPI,2180.24
+CUST024,September,Electronics,UPI,5309.38
+CUST064,May,Groceries,UPI,17017.89
+CUST060,June,Electronics,Debit Card,7939.99
+CUST106,July,Electronics,Net Banking,19576.65
+CUST195,October,Travel,UPI,3908.57
+CUST027,October,Entertainment,Debit Card,9611.06
+CUST057,October,Electronics,Net Banking,898.21
+CUST055,September,Groceries,UPI,7308.88
+CUST094,September,Entertainment,Credit Card,15862.04
+CUST016,September,Travel,UPI,15125.03
+CUST150,May,Electronics,UPI,3877.96
+CUST192,May,Apparel,UPI,12218.14
+CUST099,May,Groceries,Credit Card,12918.21
+CUST195,October,Entertainment,Net Banking,15681.67
+CUST181,July,Electronics,Net Banking,11798.98
+CUST132,October,Electronics,UPI,11747.05
+CUST170,May,Entertainment,Credit Card,1398.9
+CUST007,September,Electronics,Credit Card,11788.23
+CUST060,September,Entertainment,UPI,14570.4
+CUST157,June,Apparel,Net Banking,735.47
+CUST066,June,Entertainment,Credit Card,4996.05
+CUST107,September,Electronics,UPI,11673.92
+CUST123,September,Apparel,Net Banking,15316.21
+CUST022,October,Groceries,Net Banking,1300.26
+CUST009,May,Electronics,Net Banking,7475.95
+CUST124,May,Apparel,Credit Card,5017.65
+CUST065,October,Apparel,UPI,17924.17
+CUST027,August,Groceries,Credit Card,1088.54
+CUST066,September,Entertainment,Net Banking,5112.19
+CUST068,September,Entertainment,Credit Card,3612.15
+CUST151,October,Groceries,UPI,16278.35
+CUST194,September,Apparel,Debit Card,10369.79
+CUST153,July,Entertainment,Debit Card,14911.8
+CUST079,July,Electronics,Credit Card,6931.71
+CUST031,August,Electronics,Credit Card,12547.3
+CUST001,August,Apparel,Debit Card,2199.46
+CUST082,June,Entertainment,UPI,2116.13
+CUST086,August,Electronics,Net Banking,17709.51
+CUST011,July,Travel,Net Banking,5427.21
+CUST016,May,Electronics,Debit Card,902.92
+CUST164,October,Electronics,Net Banking,14866.22
+CUST002,August,Groceries,Net Banking,5940.94
+CUST046,October,Electronics,Credit Card,12625.68
+CUST093,October,Entertainment,Net Banking,17078.53
+CUST111,July,Travel,Net Banking,2358.24
+CUST071,September,Travel,Credit Card,3310.51
+CUST136,May,Travel,Debit Card,13052.19
+CUST105,July,Apparel,Net Banking,3689.98
+CUST051,June,Travel,Debit Card,12472.73
+CUST016,October,Electronics,Credit Card,15368.67
+CUST174,June,Electronics,Credit Card,1495.07
+CUST055,August,Groceries,Net Banking,17020.48
+CUST039,October,Entertainment,Debit Card,12191.92
+CUST073,October,Apparel,Debit Card,11780.71
+CUST198,October,Electronics,Net Banking,3968.67
+CUST027,August,Entertainment,UPI,7706.11
+CUST112,September,Apparel,Debit Card,5957.28
+CUST121,July,Electronics,Net Banking,9284.87
+CUST063,May,Groceries,Net Banking,12484.48
+CUST160,May,Apparel,UPI,17679.32
+CUST020,June,Travel,Net Banking,15568.21
+CUST013,May,Entertainment,UPI,13720.23
+CUST004,October,Entertainment,Net Banking,10931.75
+CUST061,May,Electronics,Debit Card,1338.66
+CUST138,July,Electronics,Net Banking,9785.09
+CUST107,June,Electronics,Credit Card,12735.73
+CUST151,September,Entertainment,Credit Card,10284.06
+CUST101,June,Apparel,Debit Card,19548.15
+CUST198,July,Entertainment,Credit Card,12872.56
+CUST185,September,Entertainment,UPI,2245.14
+CUST167,June,Travel,Credit Card,2844.43
+CUST036,October,Apparel,Net Banking,8534.79
+CUST095,June,Apparel,UPI,3793.59
+CUST109,June,Apparel,Credit Card,16232.29
+CUST044,August,Travel,Credit Card,11141.02
+CUST082,July,Travel,Credit Card,16524.84
+CUST142,September,Electronics,Credit Card,10011.96
+CUST144,May,Apparel,Credit Card,4510.65
+CUST082,July,Apparel,UPI,7428.25
+CUST084,May,Travel,Net Banking,19229.54
+CUST127,July,Travel,Credit Card,11511.16
+CUST045,June,Entertainment,Credit Card,17372.19
+CUST078,October,Groceries,UPI,2908.33
+CUST117,September,Travel,UPI,3205.4
+CUST160,May,Apparel,Credit Card,2017.68
+CUST143,October,Travel,UPI,16156.78
+CUST035,September,Travel,Credit Card,13608.76
+CUST186,August,Groceries,Debit Card,8994.14
+CUST059,June,Travel,UPI,4550.05
+CUST141,October,Travel,Net Banking,1903.36
+CUST162,October,Electronics,UPI,3786.37
+CUST161,July,Travel,Net Banking,7266.93
+CUST161,May,Electronics,Credit Card,4462.87
+CUST134,August,Entertainment,Net Banking,8557.13
+CUST073,September,Groceries,Net Banking,9505.75
+CUST163,July,Electronics,Net Banking,12154.16
+CUST100,October,Entertainment,UPI,9706.55
+CUST025,October,Travel,Credit Card,12578.36
+CUST093,June,Groceries,Net Banking,2397.44
+CUST093,September,Groceries,UPI,11660.67
+CUST032,October,Electronics,Debit Card,3156.32
+CUST084,June,Electronics,Debit Card,11824.88
+CUST069,October,Apparel,UPI,7786.39
+CUST086,July,Electronics,UPI,5921.13
+CUST066,September,Electronics,UPI,17031.6
+CUST083,June,Electronics,Debit Card,2746.32
+CUST128,July,Groceries,Credit Card,4553.77
+CUST079,June,Electronics,UPI,5719.91
+CUST181,October,Electronics,UPI,15011.05
+CUST118,July,Travel,UPI,18380.84
+CUST114,October,Apparel,Net Banking,2656.38
+CUST195,July,Entertainment,Net Banking,5092.23
+CUST198,October,Electronics,Credit Card,15999.22
+CUST032,May,Groceries,Credit Card,2061.02
+CUST141,September,Electronics,Credit Card,7940.33
+CUST052,July,Entertainment,UPI,8820.88
+CUST176,September,Electronics,Debit Card,19392.94
+CUST180,July,Apparel,Debit Card,930.08
+CUST191,June,Apparel,Credit Card,3657.99
+CUST162,September,Travel,UPI,18895.33
+CUST139,May,Apparel,Debit Card,8657.75
+CUST125,October,Apparel,Credit Card,14133.25
+CUST047,July,Travel,Debit Card,7232.25
+CUST133,June,Electronics,Debit Card,15830.87
+CUST043,August,Travel,UPI,3633.97
+CUST039,October,Apparel,Debit Card,4361.26
+CUST041,September,Travel,Debit Card,1709.39
+CUST076,June,Travel,Credit Card,18489.88
+CUST053,June,Entertainment,UPI,1661.13
+CUST193,July,Apparel,Credit Card,14344.11
+CUST023,July,Electronics,Net Banking,18029.98
+CUST043,June,Groceries,Debit Card,7682.03
+CUST079,September,Groceries,Debit Card,6629.92
+CUST116,August,Travel,Net Banking,3027.68
+CUST149,September,Entertainment,Credit Card,14257.28
+CUST022,June,Travel,Net Banking,16127.49
+CUST072,September,Electronics,Debit Card,10511.81
+CUST112,June,Apparel,Credit Card,6801.83
+CUST022,October,Travel,Credit Card,12486.42
+CUST119,August,Travel,Credit Card,16362.09
+CUST062,June,Travel,Net Banking,13067.69
+CUST153,October,Entertainment,Debit Card,5927.37
+CUST126,September,Travel,Debit Card,18041.06
+CUST020,June,Groceries,Net Banking,5759.28
+CUST124,June,Groceries,Credit Card,16718.16
+CUST118,May,Groceries,Debit Card,7250.31
+CUST048,August,Apparel,Credit Card,12150.75
+CUST069,July,Entertainment,Debit Card,17778.04
+CUST169,October,Apparel,UPI,13126.45
+CUST108,September,Electronics,Credit Card,2077.88
+CUST157,August,Apparel,Net Banking,2700.84
+CUST149,October,Entertainment,Net Banking,12255.02
+CUST171,July,Apparel,Debit Card,10670.21
+CUST035,July,Travel,Debit Card,15436.89
+CUST200,September,Electronics,Credit Card,19176.57
+CUST187,October,Electronics,Credit Card,2559.81
+CUST068,May,Electronics,UPI,8873.66
+CUST199,May,Entertainment,UPI,9199.59
+CUST037,July,Apparel,Net Banking,18850.36
+CUST088,July,Electronics,UPI,10842.01
+CUST181,May,Electronics,UPI,8424.87
+CUST122,June,Travel,Net Banking,18073.33
+CUST134,September,Travel,Debit Card,11006.95
+CUST111,October,Travel,Debit Card,9316.71
+CUST124,July,Apparel,Debit Card,17092.87
+CUST038,June,Groceries,Net Banking,16122.27
+CUST060,July,Groceries,Debit Card,583.72
+CUST070,October,Entertainment,Credit Card,15129.55
+CUST112,October,Electronics,UPI,16985.39
+CUST102,May,Electronics,UPI,16128.75
+CUST181,June,Electronics,Net Banking,9092.55
+CUST107,May,Travel,Net Banking,19309.22
+CUST056,August,Electronics,Debit Card,3380.24
+CUST141,June,Electronics,Debit Card,11432.53
+CUST036,July,Groceries,Credit Card,1670.43
+CUST128,May,Electronics,Net Banking,7904.14
+CUST071,June,Electronics,Credit Card,17838.87
+CUST033,May,Groceries,Credit Card,12829.97
+CUST104,August,Entertainment,Debit Card,5294.12
+CUST164,September,Apparel,UPI,12728.16
+CUST162,August,Entertainment,Debit Card,9018.56
+CUST178,July,Travel,Net Banking,16544.88
+CUST186,October,Electronics,Credit Card,17408.64
+CUST047,October,Groceries,UPI,6014.96
+CUST174,October,Electronics,UPI,8488.17
+CUST064,September,Travel,UPI,10994.38
+CUST034,June,Entertainment,Debit Card,12439.59
+CUST085,August,Groceries,UPI,763.28
+CUST138,October,Electronics,Net Banking,806.33
+CUST011,June,Travel,Net Banking,12134.94
+CUST002,September,Apparel,UPI,17228.48
+CUST063,June,Travel,UPI,15571.05
+CUST053,August,Entertainment,Credit Card,5070.53
+CUST135,May,Electronics,Debit Card,11084.07
+CUST097,August,Apparel,Credit Card,15888.73
+CUST021,October,Electronics,Net Banking,8644.44
+CUST083,October,Entertainment,Credit Card,11978.85
+CUST175,June,Groceries,Net Banking,17563.91
+CUST124,May,Groceries,UPI,19420.27
+CUST030,May,Apparel,Net Banking,15334.94
+CUST123,June,Travel,Credit Card,2638.73
+CUST027,June,Groceries,Debit Card,2807.66
+CUST113,September,Electronics,UPI,11493.54
+CUST057,July,Electronics,UPI,17061.46
+CUST005,August,Travel,Credit Card,9616.88
+CUST060,May,Electronics,Credit Card,11630.45
+CUST011,September,Travel,Net Banking,14545.7
+CUST037,May,Entertainment,UPI,14499.92
+CUST056,June,Entertainment,Net Banking,7049.81
+CUST082,September,Travel,Debit Card,15620.79
+CUST003,August,Entertainment,Debit Card,5830.92
+CUST098,July,Travel,Debit Card,2318.79
+CUST076,June,Apparel,Debit Card,6187.17
+CUST181,June,Entertainment,Credit Card,14542.63
+CUST147,May,Groceries,Net Banking,18855.71
+CUST015,June,Electronics,UPI,19512.9
+CUST034,September,Travel,UPI,6154.76
+CUST009,October,Entertainment,Credit Card,11703.24
+CUST018,May,Apparel,UPI,5940.88
+CUST166,June,Electronics,Credit Card,10784.35
+CUST072,September,Groceries,UPI,19963.39
+CUST006,October,Groceries,Credit Card,10031.72
+CUST074,October,Entertainment,Credit Card,16323.66
+CUST070,September,Apparel,Credit Card,10510.22
+CUST050,September,Apparel,Debit Card,4447.08
+CUST067,October,Apparel,Credit Card,17194.18
+CUST091,October,Groceries,Net Banking,2772.02
+CUST179,September,Travel,Net Banking,13505.6
+CUST010,September,Electronics,Debit Card,2233.95
+CUST175,May,Groceries,UPI,622.22
+CUST115,August,Entertainment,Credit Card,7157.74
+CUST058,June,Electronics,Credit Card,19242.83
+CUST070,June,Groceries,Credit Card,8755.38
+CUST068,August,Apparel,UPI,10349.53
+CUST170,May,Electronics,Net Banking,7308.66
+CUST099,May,Electronics,UPI,6081.12
+CUST181,October,Entertainment,Debit Card,7460.71
+CUST091,July,Apparel,Net Banking,1565.68
+CUST084,September,Electronics,Credit Card,727.85
+CUST180,September,Entertainment,Net Banking,5405.62
+CUST057,October,Entertainment,Net Banking,963.05
+CUST138,June,Entertainment,Debit Card,16722.93
+CUST160,May,Groceries,Debit Card,10428.61
+CUST076,May,Electronics,Net Banking,13263.65
+CUST131,May,Groceries,Debit Card,14495.95
+CUST055,August,Travel,UPI,12707.32
+CUST192,May,Entertainment,Net Banking,2319.06
+CUST076,September,Electronics,Credit Card,19808.08
+CUST072,October,Apparel,Net Banking,12394.21
+CUST086,May,Electronics,UPI,9982.41
+CUST055,June,Electronics,Net Banking,19328.96
+CUST042,June,Apparel,UPI,11555.34
+CUST009,May,Apparel,Credit Card,6686.5
+CUST040,August,Electronics,Net Banking,6219.1
+CUST190,May,Entertainment,UPI,16782.37
+CUST040,October,Apparel,Net Banking,18486.56
+CUST120,August,Entertainment,Net Banking,6201.59
+CUST003,August,Entertainment,Debit Card,14547.31
+CUST073,October,Travel,UPI,18726.33
+CUST052,May,Groceries,UPI,12399.66
+CUST194,September,Groceries,Credit Card,4960.01
+CUST031,May,Travel,UPI,6443.64
+CUST125,August,Entertainment,Debit Card,5492.01
+CUST155,August,Apparel,Credit Card,19586.39
+CUST059,August,Electronics,Debit Card,10541.44
+CUST008,June,Entertainment,Credit Card,14795.06
+CUST129,July,Travel,UPI,9725.37
+CUST192,August,Groceries,Credit Card,2604.37
+CUST191,June,Travel,Net Banking,14581.45
+CUST197,July,Apparel,Credit Card,8954.35
+CUST039,June,Apparel,Credit Card,14535.94
+CUST195,August,Electronics,Net Banking,15493.28
+CUST143,September,Electronics,Debit Card,6121.83
+CUST179,July,Apparel,Debit Card,17439.22
+CUST069,August,Electronics,UPI,11984.32
+CUST039,August,Groceries,UPI,3441.54
+CUST087,September,Apparel,Credit Card,1788.8
+CUST032,August,Groceries,Credit Card,13041.65
+CUST092,September,Apparel,Debit Card,16861.86
+CUST180,August,Apparel,Net Banking,16281.41
+CUST027,September,Entertainment,Credit Card,3341.6
+CUST151,July,Electronics,UPI,16810.55
+CUST125,May,Entertainment,Debit Card,18880.2
+CUST059,August,Groceries,Credit Card,5160.64
+CUST193,August,Travel,UPI,7587.73
+CUST030,May,Apparel,Net Banking,8829.33
+CUST072,July,Groceries,Net Banking,2851.39
+CUST033,October,Electronics,Debit Card,14888.68
+CUST123,May,Apparel,UPI,13894.02
+CUST004,August,Groceries,Net Banking,5269.72
+CUST035,May,Electronics,Net Banking,6708.63
+CUST035,June,Travel,Debit Card,11169.83
+CUST095,September,Groceries,Net Banking,4632.19
+CUST018,June,Electronics,Net Banking,10732.25
+CUST142,May,Apparel,Credit Card,17499.66
+CUST104,June,Entertainment,Credit Card,17380.15
+CUST092,August,Groceries,Debit Card,14288.03
+CUST077,July,Apparel,Credit Card,1766.82
+CUST112,May,Entertainment,Credit Card,15881.81
+CUST137,October,Apparel,UPI,16665.63
+CUST060,August,Electronics,Debit Card,2779.02
+CUST006,May,Apparel,UPI,13005.38
+CUST128,September,Groceries,Net Banking,17865.85
+CUST036,July,Apparel,Net Banking,1140.95
+CUST002,July,Electronics,UPI,11552.72
+CUST049,August,Groceries,UPI,15181.99
+CUST141,May,Electronics,Credit Card,10353.91
+CUST041,June,Apparel,Debit Card,7405.77
+CUST085,September,Travel,Debit Card,3922.81
+CUST070,September,Groceries,UPI,17646.71
+CUST119,June,Travel,Debit Card,14963.81
+CUST113,October,Entertainment,Debit Card,945.13
+CUST158,October,Electronics,Debit Card,1331.92
+CUST021,May,Apparel,UPI,11393.45
+CUST007,August,Apparel,Debit Card,12352.15
+CUST081,May,Groceries,Net Banking,9864.21
+CUST181,June,Groceries,Debit Card,6503.31
+CUST029,October,Electronics,Net Banking,6877.71
+CUST187,May,Electronics,UPI,19563.79
+CUST118,July,Apparel,Debit Card,10631.58
+CUST011,September,Entertainment,Net Banking,11800.68
+CUST108,September,Electronics,Net Banking,17662.24
+CUST148,July,Electronics,Debit Card,11084.37
+CUST083,September,Entertainment,Net Banking,16518.46
+CUST067,May,Entertainment,Net Banking,14488.11
+CUST103,July,Travel,Debit Card,4291.87
+CUST013,August,Entertainment,Net Banking,4350.68
+CUST158,May,Electronics,Credit Card,8650.82
+CUST120,May,Travel,UPI,16831.81
+CUST170,June,Electronics,UPI,4889.81
+CUST061,September,Electronics,Credit Card,2517.63
+CUST128,June,Travel,Net Banking,12966.9
+CUST168,July,Electronics,Debit Card,13607.07
+CUST075,May,Electronics,UPI,2799.71
+CUST037,August,Groceries,Net Banking,6756.36
+CUST038,June,Electronics,Credit Card,2375.49
+CUST142,May,Travel,Net Banking,551.78
+CUST190,September,Groceries,Debit Card,2439.83
+CUST139,October,Travel,Net Banking,7487.1
+CUST011,June,Travel,Debit Card,18742.66
+CUST105,May,Apparel,Net Banking,10345.33
+CUST127,September,Entertainment,Debit Card,6740.51
+CUST163,May,Travel,Net Banking,2915.83
+CUST011,July,Entertainment,UPI,14336.64
+CUST167,July,Apparel,UPI,11066.01
+CUST025,May,Travel,Credit Card,1612.92
+CUST148,May,Travel,Credit Card,17218.04
+CUST065,July,Groceries,UPI,5298.7
+CUST024,July,Entertainment,Debit Card,12608.91
+CUST053,August,Travel,Net Banking,10636.4
+CUST092,June,Entertainment,UPI,19771.08
+CUST173,October,Travel,Debit Card,15739.25
+CUST068,August,Entertainment,UPI,10609.11
+CUST103,July,Entertainment,Net Banking,2670.69
+CUST112,May,Electronics,Net Banking,3826.86
+CUST171,July,Electronics,Debit Card,8341.69
+CUST012,May,Groceries,Credit Card,891.9
+CUST154,September,Entertainment,UPI,19435.1
+CUST134,May,Apparel,Debit Card,12041.12
+CUST052,July,Apparel,Net Banking,16812.8
+CUST133,October,Travel,Net Banking,9211.05
+CUST115,October,Entertainment,UPI,9624.02
+CUST050,September,Apparel,Debit Card,1408.24
+CUST087,October,Electronics,Credit Card,6916.91
+CUST125,May,Apparel,UPI,4274.14
+CUST138,May,Entertainment,Net Banking,7034.7
+CUST088,May,Electronics,UPI,6617.57
+CUST158,August,Groceries,Debit Card,17795.64
+CUST089,May,Travel,Credit Card,1687.02
+CUST091,June,Apparel,UPI,14898.26
+CUST073,July,Electronics,UPI,3554.12
+CUST189,August,Entertainment,Debit Card,16023.23
+CUST170,September,Travel,Credit Card,18552.71
+CUST019,July,Apparel,UPI,5619.24
+CUST015,July,Apparel,UPI,17630.28
+CUST145,August,Entertainment,Net Banking,16623.31
+CUST112,August,Electronics,UPI,8135.31
+CUST170,July,Apparel,Credit Card,9211.66
+CUST118,September,Groceries,UPI,14129.07
+CUST165,October,Electronics,Credit Card,4939.24
+CUST127,August,Groceries,Net Banking,13717.57
+CUST172,May,Apparel,UPI,15062.39
+CUST048,May,Apparel,Credit Card,6830.44
+CUST027,August,Groceries,Credit Card,14281.71
+CUST148,July,Groceries,Debit Card,16899.03
+CUST075,September,Apparel,Credit Card,17203.97
+CUST143,May,Travel,Debit Card,1649.53
+CUST108,October,Entertainment,UPI,5460.33
+CUST074,October,Apparel,Debit Card,2747.43
+CUST047,May,Apparel,UPI,4212.34
+CUST193,May,Travel,UPI,16486.63
+CUST072,August,Apparel,Debit Card,2277.25
+CUST158,May,Electronics,Credit Card,10093.76
+CUST328,May,Groceries,Net Banking,6620.15
+CUST228,October,Apparel,Credit Card,13074.43
+CUST344,May,Groceries,Debit Card,9183.29
+CUST015,July,Apparel,Credit Card,4163.74
+CUST099,May,Entertainment,Credit Card,17171.05
+CUST488,July,Travel,UPI,11233.12
+CUST051,May,Entertainment,Net Banking,13999.43
+CUST294,September,Electronics,UPI,12567.23
+CUST343,May,Electronics,UPI,4984.97
+CUST491,June,Apparel,Net Banking,11440.23
+CUST382,May,Apparel,Net Banking,5509.12
+CUST032,May,Travel,Credit Card,15594.33
+CUST353,August,Electronics,UPI,5311.19
+CUST398,June,Travel,UPI,13297.7
+CUST045,June,Groceries,Debit Card,3301.46
+CUST130,July,Entertainment,Credit Card,1079.07
+CUST022,May,Groceries,Net Banking,4556.7
+CUST453,October,Electronics,Net Banking,10518.17
+CUST360,May,Travel,Debit Card,12648.01
+CUST035,October,Travel,Credit Card,11451.86
+CUST004,May,Electronics,Debit Card,2843.66
+CUST233,August,Entertainment,UPI,1574.67
+CUST005,September,Entertainment,Credit Card,917.88
+CUST148,October,Electronics,Credit Card,19564.38
+CUST340,October,Electronics,Credit Card,13969.22
+CUST352,June,Apparel,Net Banking,9354.12
+CUST401,August,Groceries,Debit Card,10836.01
+CUST354,May,Apparel,Net Banking,11844.02
+CUST320,May,Apparel,Net Banking,11591.57
+CUST322,August,Apparel,Debit Card,15136.11
+CUST025,August,Travel,Credit Card,1179.62
+CUST092,July,Electronics,Debit Card,3255.19
+CUST242,October,Electronics,Debit Card,11052.18
+CUST125,May,Travel,Net Banking,2539.19
+CUST490,August,Groceries,Net Banking,18328.53
+CUST022,September,Entertainment,Debit Card,4786.71
+CUST347,October,Electronics,UPI,5219.8
+CUST022,October,Entertainment,Net Banking,591.11
+CUST456,June,Electronics,Credit Card,16817.33
+CUST052,October,Entertainment,Credit Card,18736.76
+CUST495,May,Travel,Credit Card,664.33
+CUST481,May,Travel,Credit Card,2120.33
+CUST299,May,Apparel,Credit Card,16162.13
+CUST377,October,Groceries,Credit Card,6601.1
+CUST014,May,Entertainment,UPI,7721.61
+CUST320,May,Entertainment,Debit Card,1524.55
+CUST294,July,Travel,Debit Card,1064.58
+CUST407,June,Groceries,Net Banking,17766.69
+CUST025,August,Electronics,Debit Card,19523.33
+CUST162,June,Travel,Net Banking,8854.15
+CUST079,July,Apparel,UPI,5565.3
+CUST151,June,Electronics,Credit Card,16702.86
+CUST416,May,Electronics,UPI,5217.34
+CUST145,August,Travel,Net Banking,13664.96
+CUST128,September,Apparel,Net Banking,5285.07
+CUST298,May,Travel,Net Banking,1974.7
+CUST490,June,Groceries,Credit Card,14122.58
+CUST151,June,Electronics,UPI,4433.73
+CUST075,July,Entertainment,Net Banking,16260.26
+CUST001,May,Travel,Debit Card,6224.67
+CUST356,July,Apparel,Net Banking,1405.09
+CUST214,May,Travel,Credit Card,8660.09
+CUST445,July,Entertainment,Debit Card,9600.86
+CUST283,June,Entertainment,UPI,10298.01
+CUST421,June,Electronics,Credit Card,4327.53
+CUST337,June,Apparel,Net Banking,9141.09
+CUST393,July,Apparel,UPI,9570.34
+CUST271,May,Electronics,Debit Card,17598.59
+CUST406,May,Entertainment,UPI,17386.13
+CUST435,August,Electronics,Net Banking,632.87
+CUST314,October,Electronics,Credit Card,676.11
+CUST486,May,Travel,Credit Card,12212.52
+CUST289,July,Apparel,Net Banking,9799.31
+CUST429,September,Travel,UPI,10514.87
+CUST367,July,Groceries,UPI,6382.42
+CUST142,May,Entertainment,Debit Card,10601.3
+CUST156,October,Electronics,Credit Card,13797.92
+CUST165,June,Groceries,UPI,12089.6
+CUST428,August,Entertainment,Credit Card,16357.84
+CUST012,July,Electronics,Debit Card,19950.53
+CUST420,July,Groceries,UPI,2180.04
+CUST264,September,Travel,Debit Card,14282.01
+CUST069,May,Groceries,Net Banking,2119.43
+CUST191,October,Travel,Debit Card,16793.16
+CUST036,July,Travel,Credit Card,18707.39
+CUST080,June,Travel,Credit Card,6359.39
+CUST338,July,Groceries,Credit Card,11008.51
+CUST097,May,Electronics,Debit Card,19146.87
+CUST161,May,Travel,Credit Card,8145.65
+CUST353,October,Entertainment,UPI,11237.08
+CUST077,June,Travel,Debit Card,14775.13
+CUST254,June,Groceries,Net Banking,7956.05
+CUST498,October,Travel,Net Banking,13865.26
+CUST277,June,Travel,Debit Card,5118.4
+CUST286,October,Apparel,UPI,19345.88
+CUST283,May,Electronics,Credit Card,11974.25
+CUST111,September,Groceries,Debit Card,18303.45
+CUST393,October,Electronics,UPI,2682.55
+CUST062,July,Entertainment,Debit Card,13374.46
+CUST247,June,Electronics,Debit Card,8712.64
+CUST037,July,Travel,Credit Card,1501.4
+CUST236,September,Entertainment,Credit Card,15217.38
+CUST419,June,Entertainment,Net Banking,7427.27
+CUST404,August,Entertainment,UPI,14720.32
+CUST434,October,Apparel,UPI,18636.48
+CUST430,May,Travel,Debit Card,5773.65
+CUST160,September,Electronics,Debit Card,6315.81
+CUST429,August,Apparel,Credit Card,7336.94
+CUST020,October,Electronics,Net Banking,18871.11
+CUST441,August,Travel,Credit Card,19044.68
+CUST205,June,Groceries,Net Banking,19417.65
+CUST310,August,Apparel,Debit Card,2498.7
+CUST471,October,Groceries,UPI,19031.03
+CUST080,June,Electronics,Credit Card,12835.81
+CUST254,May,Electronics,Credit Card,12038.96
+CUST219,October,Electronics,UPI,2872.07
+CUST432,June,Groceries,Debit Card,10103.64
+CUST213,August,Groceries,Net Banking,8411.43
+CUST255,May,Electronics,UPI,5639.91
+CUST020,May,Entertainment,Credit Card,15311.02
+CUST469,June,Entertainment,UPI,12262.39
+CUST064,October,Apparel,UPI,19064.63
+CUST035,July,Apparel,Debit Card,3934.47
+CUST399,September,Groceries,Net Banking,7151.29
+CUST153,May,Apparel,Debit Card,12902.97
+CUST005,June,Apparel,Net Banking,15075.36
+CUST141,August,Electronics,Credit Card,6387.05
+CUST081,September,Apparel,UPI,4363.66
+CUST132,July,Groceries,UPI,15147.12
+CUST239,May,Entertainment,Credit Card,10730.02
+CUST227,June,Entertainment,Credit Card,4040.43
+CUST208,October,Travel,Credit Card,2459.12
+CUST165,May,Entertainment,UPI,4038.41
+CUST025,August,Electronics,Debit Card,19605.26
+CUST417,June,Travel,Credit Card,6020.74
+CUST194,October,Travel,Credit Card,16322.99
+CUST090,June,Electronics,UPI,12028.61
+CUST277,August,Apparel,Debit Card,14804.97
+CUST080,October,Apparel,Debit Card,19978.8
+CUST152,September,Travel,UPI,18289.8
+CUST382,June,Apparel,UPI,5769.0
+CUST273,May,Travel,Net Banking,8722.81
+CUST123,August,Entertainment,Debit Card,11897.53
+CUST488,July,Entertainment,Net Banking,3250.58
+CUST160,May,Entertainment,Net Banking,5796.22
+CUST184,October,Apparel,Net Banking,8739.07
+CUST334,July,Electronics,Credit Card,19947.01
+CUST467,September,Apparel,UPI,6801.47
+CUST185,May,Travel,UPI,5853.4
+CUST285,August,Apparel,Credit Card,9084.63
+CUST140,August,Electronics,UPI,16939.05
+CUST389,August,Electronics,Net Banking,18728.61
+CUST292,August,Electronics,UPI,3578.37
+CUST300,May,Groceries,UPI,16794.03
+CUST494,August,Groceries,Net Banking,4980.58
+CUST005,October,Apparel,Debit Card,8898.6
+CUST070,July,Groceries,UPI,14390.89
+CUST315,August,Electronics,Net Banking,9890.19
+CUST060,October,Electronics,Credit Card,19559.16
+CUST279,July,Groceries,Debit Card,3858.06
+CUST323,August,Apparel,Net Banking,19108.03
+CUST145,October,Groceries,Credit Card,14158.38
+CUST231,September,Travel,UPI,4891.66
+CUST410,October,Travel,Net Banking,1915.8
+CUST014,September,Groceries,Net Banking,1257.79
+CUST303,August,Groceries,Net Banking,19625.29
+CUST006,September,Travel,Credit Card,4981.8
+CUST119,June,Groceries,UPI,13171.84
+CUST065,August,Apparel,Debit Card,18915.74
+CUST376,October,Electronics,Debit Card,10388.9
+CUST356,June,Groceries,Credit Card,2196.0
+CUST031,May,Apparel,Debit Card,13794.95
+CUST268,September,Electronics,Debit Card,3770.41
+CUST091,June,Groceries,Net Banking,1378.52
+CUST413,October,Electronics,Net Banking,17534.84
+CUST308,August,Entertainment,Debit Card,15728.36
+CUST248,May,Electronics,Debit Card,5278.25
+CUST040,August,Groceries,Debit Card,18295.75
+CUST026,August,Travel,Net Banking,4205.2
+CUST092,September,Travel,Credit Card,17073.68
+CUST407,September,Groceries,Debit Card,11613.09
+CUST149,May,Apparel,UPI,8524.49
+CUST158,September,Groceries,Net Banking,4487.46
+CUST477,September,Groceries,UPI,16022.0
+CUST349,August,Groceries,Credit Card,15794.82
+CUST433,July,Travel,UPI,16711.86
+CUST285,May,Apparel,Credit Card,13605.56
+CUST202,August,Entertainment,Credit Card,13225.44
+CUST456,October,Groceries,Credit Card,19081.46
+CUST111,July,Electronics,Credit Card,14896.87
+CUST118,June,Entertainment,UPI,14938.81
+CUST214,September,Entertainment,UPI,5907.59
+CUST113,August,Entertainment,Credit Card,18340.86
+CUST305,August,Electronics,UPI,14154.97
+CUST212,October,Entertainment,Net Banking,3163.9
+CUST049,July,Groceries,Debit Card,9508.06
+CUST316,July,Electronics,UPI,19768.32
+CUST276,August,Entertainment,Credit Card,2079.77
+CUST266,July,Entertainment,Credit Card,18383.66
+CUST119,August,Travel,Net Banking,3296.0
+CUST089,September,Apparel,Debit Card,622.83
+CUST368,September,Travel,Credit Card,1147.22
+CUST078,July,Groceries,Net Banking,18666.36
+CUST128,June,Groceries,UPI,9245.91
+CUST413,July,Electronics,Credit Card,19679.67
+CUST468,August,Travel,Debit Card,19056.35
+CUST294,May,Groceries,Debit Card,16124.22
+CUST325,July,Travel,UPI,18267.14
+CUST014,October,Apparel,UPI,8621.48
+CUST336,June,Travel,Net Banking,13652.66
+CUST094,September,Groceries,Debit Card,9316.83
+CUST081,May,Apparel,Net Banking,1198.37
+CUST181,October,Groceries,UPI,516.74
+CUST221,July,Travel,UPI,12450.21
+CUST439,May,Entertainment,Credit Card,9858.48
+CUST353,July,Entertainment,Net Banking,2055.64
+CUST291,September,Groceries,Net Banking,2460.59
+CUST338,May,Entertainment,UPI,6929.72
+CUST431,June,Electronics,UPI,19630.69
+CUST157,October,Electronics,Debit Card,5814.2
+CUST139,July,Electronics,Net Banking,895.82
+CUST268,August,Groceries,Debit Card,2402.11
+CUST439,October,Entertainment,Credit Card,8966.13
+CUST070,August,Apparel,Debit Card,10944.16
+CUST365,August,Entertainment,Net Banking,4827.85
+CUST124,May,Entertainment,Credit Card,2945.94
+CUST384,September,Travel,Net Banking,19918.72
+CUST448,July,Apparel,Credit Card,17807.29
+CUST035,September,Entertainment,Debit Card,14317.23
+CUST385,July,Groceries,Net Banking,2459.94
+CUST056,July,Entertainment,UPI,684.51
+CUST168,June,Electronics,UPI,753.19
+CUST344,September,Entertainment,UPI,1536.83
+CUST424,June,Groceries,Debit Card,12637.94
+CUST297,August,Entertainment,Debit Card,6757.6
+CUST046,July,Entertainment,Debit Card,17751.02
+CUST231,May,Groceries,Net Banking,4022.09
+CUST119,June,Electronics,Debit Card,14982.07
+CUST419,August,Entertainment,Net Banking,10575.55
+CUST085,July,Electronics,Debit Card,7094.93
+CUST217,September,Travel,Net Banking,12115.3
+CUST320,July,Apparel,Debit Card,1884.18
+CUST500,September,Entertainment,Credit Card,14552.69
+CUST395,May,Entertainment,Net Banking,8344.86
+CUST210,June,Entertainment,UPI,13338.75
+CUST456,July,Travel,UPI,7463.15
+CUST254,May,Entertainment,Credit Card,5714.2
+CUST076,May,Apparel,UPI,10731.46
+CUST347,June,Groceries,Debit Card,2277.57
+CUST374,August,Groceries,UPI,7763.97
+CUST371,May,Groceries,Net Banking,18997.25
+CUST334,July,Travel,Debit Card,13047.42
+CUST101,May,Entertainment,UPI,1567.15
+CUST190,May,Groceries,UPI,13623.46
+CUST334,July,Groceries,Credit Card,3588.75
+CUST348,August,Groceries,Debit Card,15390.15
+CUST273,October,Entertainment,UPI,5785.59
+CUST041,August,Groceries,Debit Card,18982.22
+CUST193,October,Entertainment,Net Banking,1945.83
+CUST412,September,Entertainment,Debit Card,14432.42
+CUST065,June,Entertainment,Net Banking,18311.8
+CUST463,July,Electronics,Debit Card,18547.91
+CUST358,May,Groceries,UPI,18308.14
+CUST263,October,Travel,Debit Card,2073.17
+CUST101,June,Travel,UPI,908.46
+CUST447,June,Entertainment,UPI,17242.83
+CUST231,October,Travel,Debit Card,7097.76
+CUST477,July,Electronics,UPI,12292.99
+CUST024,May,Electronics,Debit Card,3638.58
+CUST295,October,Travel,Credit Card,2572.14
+CUST281,September,Travel,Debit Card,3317.09
+CUST056,September,Travel,UPI,3985.16
+CUST220,July,Entertainment,Net Banking,2532.8
+CUST012,May,Travel,UPI,17280.0
+CUST044,October,Travel,Net Banking,7526.41
+CUST305,August,Entertainment,UPI,17439.03
+CUST454,August,Electronics,Credit Card,5435.63
+CUST046,June,Apparel,UPI,3057.79
+CUST130,September,Groceries,Debit Card,15688.08
+CUST454,July,Travel,Debit Card,7766.8
+CUST242,October,Electronics,Credit Card,10944.74
+CUST418,October,Entertainment,Credit Card,19217.68
+CUST019,October,Electronics,UPI,5552.96
+CUST340,June,Electronics,Debit Card,17049.62
+CUST107,September,Electronics,Credit Card,4626.71
+CUST171,June,Apparel,Net Banking,2371.81
+CUST433,August,Entertainment,Net Banking,7407.9
+CUST126,October,Travel,UPI,890.56
+CUST342,May,Travel,UPI,15007.95
+CUST117,August,Apparel,UPI,4707.31
+CUST197,May,Electronics,Credit Card,1630.44
+CUST015,September,Electronics,Debit Card,7374.28
+CUST033,May,Entertainment,UPI,19118.64
+CUST396,May,Apparel,Net Banking,1838.28
+CUST275,June,Groceries,Credit Card,19530.43
+CUST357,August,Apparel,UPI,8767.64
+CUST356,August,Electronics,Net Banking,10385.35
+CUST111,July,Entertainment,UPI,17082.14
+CUST462,June,Groceries,Net Banking,18360.71
+CUST239,August,Apparel,UPI,9368.79
+CUST001,May,Groceries,UPI,9946.09
+CUST474,October,Electronics,Debit Card,6751.93
+CUST495,August,Groceries,UPI,5546.64
+CUST407,May,Groceries,Credit Card,13890.91
+CUST271,May,Travel,UPI,8063.17
+CUST146,October,Apparel,Credit Card,17349.08
+CUST438,September,Travel,Credit Card,14019.18
+CUST053,June,Entertainment,Net Banking,8533.52
+CUST277,May,Electronics,Credit Card,18640.06
+CUST006,September,Travel,Net Banking,7954.13
+CUST439,August,Electronics,Credit Card,9877.0
+CUST038,May,Electronics,Credit Card,4040.34
+CUST227,May,Groceries,Debit Card,14620.51
+CUST087,July,Entertainment,UPI,8676.52
+CUST297,June,Travel,UPI,18716.67
+CUST225,June,Travel,UPI,16727.09
+CUST294,June,Groceries,Debit Card,10332.18
+CUST136,September,Travel,Credit Card,12039.1
+CUST050,May,Apparel,UPI,8474.9
+CUST030,June,Travel,UPI,10723.28
+CUST416,August,Apparel,Debit Card,4964.15
+CUST055,September,Groceries,Credit Card,14856.19
+CUST266,May,Travel,Debit Card,4764.14
+CUST458,June,Travel,Net Banking,6759.63
+CUST213,August,Electronics,Net Banking,9536.23
+CUST295,July,Electronics,Debit Card,4253.46
+CUST069,May,Travel,Net Banking,9323.0
+CUST489,October,Apparel,Credit Card,3298.51
+CUST015,July,Groceries,Debit Card,19504.57
+CUST389,August,Travel,Debit Card,11933.94
+CUST401,September,Apparel,Debit Card,10913.5
+CUST302,July,Electronics,Credit Card,19000.59
+CUST148,May,Electronics,Net Banking,12158.92
+CUST268,September,Electronics,Credit Card,6851.93
+CUST191,September,Groceries,Debit Card,15737.37
+CUST005,September,Electronics,Debit Card,584.13
+CUST393,May,Travel,UPI,2763.3
+CUST210,June,Electronics,Credit Card,5359.46
+CUST076,June,Travel,Net Banking,11760.35
+CUST417,July,Apparel,Credit Card,8845.02
+CUST045,May,Electronics,Debit Card,3583.3
+CUST297,October,Entertainment,Debit Card,16210.2
+CUST209,May,Entertainment,UPI,8410.21
+CUST312,May,Travel,Net Banking,2711.75
+CUST098,August,Entertainment,UPI,10761.3
+CUST057,June,Travel,UPI,19428.64
+CUST474,September,Apparel,UPI,10374.93
+CUST411,August,Groceries,Debit Card,611.37
+CUST117,September,Apparel,Credit Card,1929.07
+CUST166,August,Apparel,UPI,12694.17
+CUST320,May,Entertainment,Net Banking,11177.72
+CUST314,August,Groceries,Debit Card,4137.71
+CUST279,September,Electronics,UPI,12109.16
+CUST143,June,Apparel,Net Banking,13113.84
+CUST214,October,Electronics,Credit Card,1876.56
+CUST409,May,Groceries,Credit Card,12515.64
+CUST138,July,Travel,Credit Card,14014.18
+CUST470,May,Groceries,UPI,7547.83
+CUST105,September,Apparel,Debit Card,4255.33
+CUST428,July,Groceries,Credit Card,17547.74
+CUST260,October,Apparel,UPI,15133.3
+CUST086,October,Travel,UPI,8821.04
+CUST267,August,Groceries,UPI,6595.45
+CUST122,July,Travel,Net Banking,11965.02
+CUST208,July,Groceries,Credit Card,19376.86
+CUST402,May,Apparel,UPI,2443.1
+CUST100,October,Groceries,Debit Card,866.88
+CUST093,August,Electronics,Net Banking,19880.37
+CUST095,September,Entertainment,UPI,1446.14
+CUST180,May,Apparel,Debit Card,2425.58
+CUST272,August,Travel,Debit Card,11441.96
+CUST491,June,Entertainment,Credit Card,17011.98
+CUST375,June,Groceries,Net Banking,5760.89
+CUST141,August,Groceries,Debit Card,19732.92
+CUST086,July,Apparel,Net Banking,3050.78
+CUST254,September,Travel,Net Banking,12364.14
+CUST258,September,Groceries,Credit Card,11751.5
+CUST314,September,Groceries,Net Banking,8488.47
+CUST066,July,Groceries,Net Banking,18622.83
+CUST029,September,Apparel,Net Banking,15301.6
+CUST152,May,Apparel,Debit Card,8945.48
+CUST051,September,Travel,Debit Card,6475.54
+CUST206,July,Apparel,Credit Card,18682.95
+CUST449,May,Groceries,Net Banking,18528.93
+CUST109,July,Apparel,Credit Card,997.58
+CUST289,July,Apparel,Credit Card,9656.97
+CUST066,July,Travel,UPI,14372.05
+CUST081,July,Groceries,UPI,6791.37
+CUST092,September,Apparel,Debit Card,14999.07
+CUST049,June,Entertainment,UPI,5844.93
+CUST482,October,Electronics,UPI,17106.98
+CUST373,July,Entertainment,UPI,14404.94
+CUST407,September,Travel,Credit Card,8722.36
+CUST122,October,Groceries,Credit Card,2941.89
+CUST044,June,Entertainment,Net Banking,14424.47
+CUST076,May,Entertainment,Credit Card,1450.97
+CUST444,September,Groceries,Net Banking,2776.1
+CUST122,September,Travel,UPI,5089.0
+CUST272,October,Electronics,Debit Card,13647.16
+CUST089,October,Groceries,Net Banking,14971.89
+CUST198,July,Travel,Net Banking,2732.71
+CUST182,July,Electronics,Debit Card,16494.41
+CUST104,August,Groceries,Net Banking,2125.41
+CUST198,August,Electronics,Credit Card,5231.53
+CUST247,June,Electronics,UPI,15508.13
+CUST129,September,Electronics,Debit Card,13878.71
+CUST357,October,Groceries,Debit Card,1964.68
+CUST228,October,Travel,UPI,974.94
+CUST183,July,Electronics,Net Banking,15408.87
+CUST054,October,Travel,Credit Card,12944.32
+CUST439,September,Apparel,Debit Card,7911.16
+CUST377,September,Electronics,Debit Card,18021.84
+CUST027,August,Travel,Net Banking,3817.32
+CUST061,June,Travel,Net Banking,2396.3
+CUST306,October,Electronics,Debit Card,5879.77
+CUST104,September,Groceries,Debit Card,14245.31
+CUST354,October,Electronics,Net Banking,10615.61
+CUST148,August,Electronics,Debit Card,10081.3
+CUST364,May,Apparel,UPI,13478.23
+CUST273,August,Electronics,Net Banking,19033.72
+CUST400,June,Electronics,Debit Card,12514.38
+CUST269,July,Groceries,Net Banking,11692.98
+CUST041,August,Entertainment,Net Banking,6692.78
+CUST427,October,Electronics,Net Banking,1991.46
+CUST125,October,Travel,UPI,16434.74
+CUST165,October,Groceries,Credit Card,1077.7
+CUST319,June,Electronics,UPI,16510.65
+CUST237,September,Groceries,Credit Card,10060.72
+CUST262,June,Groceries,Debit Card,11461.48
+CUST453,June,Electronics,Credit Card,8338.98
+CUST297,May,Apparel,UPI,3819.88
+CUST340,July,Electronics,Net Banking,19672.66
+CUST293,September,Electronics,Debit Card,18829.13
+CUST309,August,Groceries,Net Banking,16500.39
+CUST433,August,Travel,UPI,19088.2
+CUST021,September,Apparel,Debit Card,3951.91
+CUST287,May,Apparel,Credit Card,18630.96
+CUST405,June,Electronics,Net Banking,5953.47
+CUST161,August,Electronics,Net Banking,7067.56
+CUST287,June,Groceries,UPI,8799.48
+CUST492,June,Entertainment,Net Banking,17438.97
+CUST496,August,Groceries,Credit Card,7456.03
+CUST301,June,Travel,UPI,15228.03
+CUST293,July,Electronics,Net Banking,18282.68
+CUST208,June,Apparel,Debit Card,1196.58
+CUST119,October,Apparel,UPI,10158.94
+CUST298,September,Travel,Credit Card,4571.71
+CUST219,July,Apparel,Net Banking,19236.69
+CUST154,August,Travel,UPI,7107.1
+CUST068,June,Entertainment,UPI,16836.18
+CUST456,June,Groceries,Credit Card,15753.43
+CUST247,July,Electronics,Credit Card,9804.62
+CUST112,July,Groceries,Net Banking,10970.82
+CUST253,October,Travel,UPI,8436.48
+CUST446,August,Entertainment,UPI,3441.01
+CUST229,May,Apparel,UPI,5830.53
+CUST001,May,Electronics,UPI,6681.46
+CUST028,September,Electronics,Debit Card,19800.96
+CUST062,August,Entertainment,UPI,3232.58
+CUST297,July,Apparel,UPI,6960.7
+CUST172,October,Travel,Credit Card,10922.86
+CUST047,September,Travel,UPI,15667.9
+CUST427,May,Groceries,UPI,15708.36
+CUST408,June,Groceries,Credit Card,2188.5
+CUST174,October,Entertainment,Credit Card,9255.79
+CUST368,August,Entertainment,UPI,9687.13
+CUST176,September,Travel,Debit Card,5271.88
+CUST070,August,Entertainment,Debit Card,9510.82
+CUST408,May,Apparel,Net Banking,2314.84
+CUST429,May,Travel,Debit Card,7321.91
+CUST049,June,Apparel,Net Banking,4964.62
+CUST147,August,Travel,Credit Card,18809.54
+CUST195,August,Groceries,UPI,3711.54
+CUST323,June,Electronics,Credit Card,12447.55
+CUST058,July,Entertainment,Net Banking,17936.52
+CUST268,July,Groceries,Debit Card,13360.49
+CUST351,May,Electronics,Credit Card,5729.06
+CUST042,June,Electronics,UPI,14875.25
+CUST302,July,Travel,Debit Card,17294.25
+CUST074,May,Groceries,Credit Card,17968.14
+CUST085,August,Electronics,UPI,17002.82
+CUST434,July,Entertainment,Net Banking,3174.63
+CUST233,August,Entertainment,Debit Card,11537.91
+CUST160,May,Apparel,Credit Card,12024.76
+CUST423,October,Apparel,UPI,12451.24
+CUST488,July,Electronics,Credit Card,2525.44
+CUST100,May,Apparel,UPI,19523.2
+CUST445,October,Electronics,UPI,3791.66
+CUST135,August,Travel,UPI,8296.04
+CUST376,July,Groceries,Credit Card,581.05
+CUST018,May,Travel,Net Banking,5035.35
+CUST499,October,Electronics,Credit Card,10501.44
+CUST211,October,Travel,Debit Card,1355.23
+CUST213,July,Electronics,UPI,12566.34
+CUST228,August,Travel,Credit Card,18681.25
+CUST243,October,Travel,Net Banking,7137.7
+CUST097,July,Groceries,Debit Card,7990.94
+CUST291,August,Apparel,Net Banking,10541.8
+CUST307,May,Apparel,Credit Card,10666.06
+CUST086,September,Groceries,UPI,5545.3
+CUST238,May,Apparel,UPI,17761.28
+CUST489,July,Travel,UPI,5366.66
+CUST374,September,Groceries,Net Banking,4732.56
+CUST348,July,Apparel,UPI,12684.07
+CUST486,May,Apparel,Credit Card,9166.87
+CUST199,June,Entertainment,UPI,8904.41
+CUST123,June,Entertainment,UPI,2067.1
+CUST296,May,Apparel,Debit Card,6016.84
+CUST349,June,Travel,Credit Card,11318.34
+CUST464,October,Electronics,Debit Card,2886.77
+CUST330,July,Electronics,UPI,8559.45
+CUST319,September,Apparel,Credit Card,4429.4
+CUST050,October,Apparel,Debit Card,14705.4
+CUST079,August,Entertainment,Net Banking,607.04
+CUST416,October,Travel,Debit Card,18474.45
+CUST125,June,Apparel,Debit Card,3097.7
+CUST262,August,Electronics,Credit Card,3906.54
+CUST080,September,Travel,Debit Card,3683.78
+CUST092,July,Electronics,Debit Card,8836.55
+CUST459,June,Apparel,Net Banking,13394.8
+CUST325,October,Entertainment,Debit Card,8079.76
+CUST461,July,Travel,UPI,10323.6
+CUST480,May,Apparel,Credit Card,10334.15
+CUST035,October,Entertainment,Debit Card,14041.58
+CUST285,July,Travel,UPI,8618.01
+CUST096,May,Travel,Debit Card,5113.76
+CUST255,October,Travel,UPI,9662.82
+CUST346,August,Travel,UPI,14880.13
+CUST022,October,Apparel,Credit Card,11462.44
+CUST119,August,Entertainment,Net Banking,7538.91
+CUST139,July,Travel,Debit Card,14588.46
+CUST192,June,Electronics,Debit Card,17861.91
+CUST099,July,Electronics,Credit Card,15380.84
+CUST212,October,Travel,Debit Card,15195.7
+CUST291,September,Travel,Credit Card,8720.6
+CUST356,July,Travel,Debit Card,1463.92
+CUST052,September,Electronics,Net Banking,4137.94
+CUST306,August,Electronics,Net Banking,15604.16
+CUST401,May,Travel,Debit Card,3953.41
+CUST134,July,Groceries,Debit Card,12646.4
+CUST142,September,Electronics,Debit Card,15076.21
+CUST293,August,Apparel,UPI,720.85
+CUST005,October,Electronics,UPI,12105.64
+CUST238,August,Apparel,Debit Card,7663.95
+CUST167,May,Electronics,Debit Card,7844.63
+CUST174,June,Travel,UPI,10791.94
+CUST157,July,Apparel,Net Banking,19361.62
+CUST379,September,Electronics,Debit Card,8166.56
+CUST032,July,Entertainment,UPI,8019.17
+CUST472,August,Entertainment,Credit Card,16792.97
+CUST401,September,Entertainment,UPI,2144.32
+CUST433,June,Entertainment,Debit Card,11400.49
+CUST316,October,Apparel,Net Banking,7838.88
+CUST033,September,Travel,Credit Card,11904.25
+CUST373,August,Groceries,Debit Card,16617.67
+CUST435,May,Travel,Debit Card,4748.35
+CUST224,May,Groceries,Credit Card,5031.51
+CUST203,June,Apparel,UPI,7576.2
+CUST429,September,Travel,Credit Card,18917.8
+CUST342,July,Groceries,Net Banking,15183.74
+CUST333,September,Travel,Debit Card,4198.89
+CUST001,May,Travel,Debit Card,561.47
+CUST244,May,Electronics,UPI,19557.23
+CUST141,August,Entertainment,Net Banking,2524.02
+CUST377,June,Travel,Net Banking,2792.29
+CUST148,August,Groceries,UPI,19509.02
+CUST162,July,Electronics,UPI,5461.05
+CUST184,October,Groceries,Debit Card,6427.13
+CUST101,September,Apparel,Debit Card,6893.69
+CUST215,October,Electronics,Credit Card,7566.23
+CUST048,October,Travel,Credit Card,5180.12
+CUST316,September,Apparel,UPI,5269.37
+CUST163,July,Groceries,Net Banking,4547.4
+CUST287,October,Apparel,UPI,11369.05
+CUST156,September,Travel,Net Banking,12780.41
+CUST336,July,Electronics,Net Banking,10242.29
+CUST093,September,Electronics,UPI,775.84
+CUST092,September,Travel,UPI,16092.33
+CUST159,July,Electronics,Net Banking,8963.73
+CUST447,July,Apparel,UPI,17480.93
+CUST228,September,Electronics,Credit Card,11359.25
+CUST234,October,Entertainment,UPI,7597.84
+CUST423,August,Travel,Debit Card,15485.04
+CUST047,July,Groceries,Credit Card,17599.68
+CUST295,September,Groceries,Net Banking,5147.06
+CUST393,September,Electronics,Credit Card,13067.79
+CUST394,July,Entertainment,Net Banking,3554.41
+CUST326,September,Electronics,Net Banking,16441.22
+CUST145,September,Travel,Credit Card,15604.79
+CUST392,September,Electronics,Debit Card,9216.09
+CUST331,August,Electronics,Net Banking,4491.37
+CUST478,May,Electronics,Net Banking,16406.63
+CUST264,October,Travel,UPI,9294.04
+CUST487,June,Groceries,Debit Card,12710.11
+CUST054,October,Entertainment,UPI,13992.17
+CUST487,August,Apparel,Net Banking,19213.5
+CUST360,June,Entertainment,Net Banking,17275.25
+CUST157,August,Electronics,Net Banking,16928.83
+CUST466,June,Electronics,Credit Card,5539.05
+CUST007,September,Electronics,Credit Card,18426.83
+CUST197,September,Travel,Credit Card,893.98
+CUST487,July,Groceries,Credit Card,12809.97
+CUST030,June,Entertainment,Debit Card,11652.9
+CUST025,October,Entertainment,Credit Card,7710.6
+CUST368,May,Entertainment,Net Banking,10914.2
+CUST183,June,Entertainment,Credit Card,8740.6
+CUST242,July,Electronics,UPI,15363.2
+CUST118,June,Entertainment,UPI,2908.93
+CUST202,September,Entertainment,Credit Card,5623.69
+CUST299,July,Apparel,Debit Card,5293.37
+CUST391,September,Travel,Net Banking,11045.44
+CUST411,August,Electronics,UPI,1821.99
+CUST288,September,Entertainment,Net Banking,3606.85
+CUST146,June,Electronics,Net Banking,11991.39
+CUST298,September,Entertainment,UPI,11697.68
+CUST301,September,Electronics,UPI,3339.45
+CUST355,July,Groceries,UPI,16705.72
+CUST071,June,Groceries,UPI,7952.98
+CUST009,July,Entertainment,UPI,9279.1
+CUST481,May,Apparel,UPI,18325.48
+CUST203,October,Groceries,Net Banking,5901.74
+CUST365,May,Apparel,Credit Card,19434.63
+CUST442,July,Apparel,Credit Card,17967.68
+CUST271,August,Groceries,Credit Card,8202.26
+CUST342,May,Travel,Debit Card,19536.17
+CUST408,September,Apparel,Debit Card,6896.66
+CUST455,October,Entertainment,Debit Card,8121.95
+CUST121,July,Electronics,Net Banking,12577.59
+CUST237,May,Travel,UPI,16684.69
+CUST153,July,Electronics,Debit Card,656.5
+CUST043,July,Entertainment,Debit Card,2218.08
+CUST333,September,Electronics,Debit Card,12704.24
+CUST151,June,Apparel,Net Banking,14502.13
+CUST143,May,Electronics,Credit Card,5427.87
+CUST267,July,Apparel,UPI,15446.3
+CUST075,September,Travel,Debit Card,15780.7
+CUST114,October,Apparel,Debit Card,15872.85
+CUST126,July,Entertainment,Net Banking,649.59
+CUST160,September,Entertainment,Debit Card,2564.64
+CUST171,May,Groceries,Debit Card,14798.36
+CUST127,October,Travel,Credit Card,18175.57
+CUST339,September,Apparel,Net Banking,3406.71
+CUST151,June,Electronics,UPI,16684.38
+CUST480,June,Electronics,Debit Card,7418.22
+CUST375,May,Apparel,Debit Card,15975.11
+CUST021,May,Entertainment,UPI,9476.51
+CUST232,July,Electronics,Net Banking,1544.07
+CUST065,August,Electronics,Credit Card,14294.13
+CUST197,October,Travel,UPI,19579.58
+CUST044,May,Entertainment,UPI,9635.06
+CUST155,October,Electronics,Credit Card,2614.4
+CUST179,June,Apparel,Credit Card,2884.46
+CUST336,May,Entertainment,Net Banking,6339.97
+CUST326,October,Apparel,Net Banking,11619.38
+CUST376,June,Electronics,Credit Card,19399.5
+CUST205,September,Groceries,Debit Card,9507.26
+CUST139,May,Groceries,Net Banking,10660.41
+CUST250,May,Apparel,Credit Card,5629.87
+CUST253,July,Apparel,Net Banking,5716.0
+CUST296,May,Entertainment,Net Banking,10849.67
+CUST276,September,Apparel,Credit Card,8664.71
+CUST046,May,Electronics,UPI,3225.61
+CUST318,July,Travel,Net Banking,18619.4
+CUST074,June,Entertainment,Credit Card,16885.26
+CUST010,October,Entertainment,Debit Card,13649.59
+CUST423,May,Apparel,Debit Card,6887.51
+CUST356,July,Groceries,Debit Card,2438.5
+CUST293,August,Travel,Net Banking,4613.21
+CUST414,May,Apparel,UPI,14951.93
+CUST288,May,Groceries,Debit Card,2408.89
+CUST025,September,Apparel,Net Banking,4899.02
+CUST069,September,Travel,Net Banking,19315.13
+CUST415,June,Entertainment,Net Banking,13243.28
+CUST448,June,Entertainment,Debit Card,555.69
+CUST302,June,Groceries,Net Banking,19081.64
+CUST367,May,Entertainment,Net Banking,6795.28
+CUST253,June,Groceries,Net Banking,3503.07
+CUST287,August,Apparel,Net Banking,9735.42
+CUST173,May,Apparel,Credit Card,2778.68
+CUST329,July,Entertainment,UPI,12288.75
+CUST059,October,Groceries,Credit Card,5707.13
+CUST093,September,Apparel,Debit Card,2789.24
+CUST101,October,Apparel,UPI,17346.03
+CUST490,August,Entertainment,Net Banking,14176.52
+CUST469,October,Apparel,UPI,6851.58
+CUST174,May,Travel,Net Banking,17933.94
+CUST133,August,Apparel,UPI,16855.55
+CUST112,October,Electronics,Net Banking,18725.74
+CUST467,August,Groceries,Credit Card,2759.4
+CUST261,June,Apparel,Debit Card,16976.63
+CUST212,September,Apparel,Debit Card,15264.64
+CUST174,August,Groceries,Credit Card,7271.02
+CUST396,June,Apparel,UPI,10806.21
+CUST198,October,Entertainment,Debit Card,2070.7
+CUST305,September,Electronics,UPI,16544.04
+CUST192,August,Groceries,Net Banking,3435.18
+CUST112,October,Apparel,Credit Card,17306.31
+CUST089,June,Groceries,Credit Card,10423.12
+CUST165,May,Entertainment,UPI,13491.66
+CUST045,September,Travel,Credit Card,4397.94
+CUST304,September,Electronics,Debit Card,576.94
+CUST113,June,Electronics,Debit Card,4953.0
+CUST244,October,Entertainment,Debit Card,6472.91
+CUST027,May,Entertainment,Credit Card,8951.43
+CUST385,July,Electronics,UPI,5498.77
+CUST072,August,Apparel,Debit Card,3445.9
+CUST066,July,Electronics,Debit Card,4668.62
+CUST451,August,Apparel,Net Banking,18858.68
+CUST074,September,Groceries,Debit Card,2367.38
+CUST436,October,Electronics,Net Banking,7675.87
+CUST191,September,Groceries,UPI,9135.44
+CUST161,August,Travel,Debit Card,10319.44
+CUST129,October,Entertainment,Net Banking,15583.52
+CUST002,September,Electronics,Net Banking,8587.44
+CUST170,July,Entertainment,Debit Card,16663.27
+CUST251,May,Electronics,Debit Card,11350.92
+CUST119,July,Apparel,Credit Card,7531.63
+CUST497,August,Apparel,UPI,12657.64
+CUST027,May,Apparel,UPI,8243.73
+CUST119,August,Groceries,Net Banking,4542.19
+CUST002,October,Groceries,Credit Card,8957.74
+CUST374,July,Apparel,Credit Card,15772.02
+CUST378,September,Travel,Credit Card,4141.14
+CUST121,May,Entertainment,UPI,2798.85
+CUST134,June,Electronics,UPI,13999.37
+CUST342,September,Travel,Net Banking,5186.26
+CUST064,September,Groceries,Credit Card,9010.91
+CUST142,August,Groceries,UPI,1247.48
+CUST481,July,Groceries,Credit Card,14267.69
+CUST334,September,Electronics,Credit Card,1273.01
+CUST420,October,Entertainment,UPI,8760.69
+CUST241,October,Groceries,Net Banking,17989.36
+CUST118,June,Entertainment,Net Banking,18479.77
+CUST301,July,Electronics,Debit Card,11614.92
+CUST373,July,Apparel,Credit Card,14907.78
+CUST356,August,Entertainment,Credit Card,10507.24
+CUST036,October,Groceries,Credit Card,8418.53
+CUST109,August,Entertainment,Net Banking,9929.49
+CUST115,June,Entertainment,Credit Card,8606.61
+CUST224,September,Electronics,Credit Card,13294.75
+CUST062,August,Apparel,Debit Card,17394.84
+CUST351,July,Travel,UPI,16190.94
+CUST360,July,Travel,Credit Card,17663.85
+CUST437,June,Groceries,UPI,11397.92
+CUST463,June,Electronics,Credit Card,5990.85
+CUST079,June,Electronics,Net Banking,9637.88
+CUST231,September,Groceries,UPI,9729.75
+CUST208,May,Electronics,Debit Card,4257.7
+CUST132,May,Groceries,Net Banking,11045.43
+CUST174,September,Electronics,Net Banking,10285.12
+CUST039,October,Electronics,Net Banking,3880.24
+CUST463,June,Travel,UPI,16057.45
+CUST165,May,Entertainment,Credit Card,14932.78
+CUST429,June,Electronics,Debit Card,16283.89
+CUST232,October,Electronics,Debit Card,13177.88
+CUST431,September,Electronics,Debit Card,2109.88
+CUST279,June,Groceries,Debit Card,3764.18
+CUST369,July,Apparel,Debit Card,13053.35
+CUST170,July,Groceries,UPI,14413.96
+CUST330,October,Electronics,UPI,10881.45
+CUST312,June,Travel,Net Banking,6808.63
+CUST170,August,Travel,Credit Card,1998.62
+CUST493,August,Electronics,Net Banking,11606.66
+CUST489,October,Entertainment,Debit Card,12117.28
+CUST346,October,Groceries,Credit Card,6725.22
+CUST168,October,Groceries,Net Banking,13883.84
+CUST479,September,Electronics,Debit Card,12650.6
+CUST110,July,Apparel,UPI,16373.27
+CUST150,September,Groceries,Net Banking,4221.17
+CUST122,August,Travel,Credit Card,7154.52
+CUST130,May,Travel,Debit Card,13526.95
+CUST087,July,Electronics,Credit Card,13818.32
+CUST018,May,Groceries,UPI,11501.77
+CUST466,July,Electronics,Credit Card,13900.14
+CUST080,August,Electronics,UPI,7499.09
+CUST001,July,Electronics,UPI,2870.01
+CUST060,July,Groceries,Net Banking,11020.65
+CUST290,July,Groceries,Debit Card,19557.46
+CUST338,September,Travel,UPI,5214.67
+CUST212,September,Electronics,Net Banking,2271.74
+CUST002,July,Groceries,Credit Card,3575.21
+CUST009,May,Entertainment,UPI,8648.15
+CUST098,September,Electronics,Credit Card,9459.01
+CUST387,October,Travel,Debit Card,11514.27
+CUST111,June,Apparel,Debit Card,9091.14
+CUST371,May,Electronics,UPI,8390.55
+CUST174,May,Apparel,Debit Card,12531.81
+CUST427,October,Electronics,UPI,16784.82
+CUST103,May,Apparel,UPI,8433.18
+CUST282,June,Entertainment,Debit Card,7140.93
+CUST458,September,Entertainment,Debit Card,10513.12
+CUST131,August,Entertainment,Net Banking,19918.75
+CUST200,June,Apparel,Debit Card,15090.88
+CUST198,June,Entertainment,Debit Card,5862.39
+CUST254,May,Groceries,Credit Card,15812.05
+CUST271,May,Electronics,Debit Card,12033.71
+CUST226,July,Electronics,UPI,10667.48
+CUST148,August,Apparel,Credit Card,3196.84
+CUST113,October,Apparel,Credit Card,5075.79
+CUST332,October,Electronics,Net Banking,19536.14
+CUST055,May,Entertainment,Net Banking,17471.87
+CUST158,September,Apparel,Net Banking,1651.72
+CUST212,October,Entertainment,Credit Card,1944.45
+CUST453,August,Entertainment,Credit Card,11655.16
+CUST500,September,Travel,UPI,4881.9
+CUST030,September,Entertainment,Debit Card,1625.64
+CUST042,July,Entertainment,Net Banking,2164.2
+CUST401,October,Apparel,Net Banking,2229.07
+CUST298,October,Travel,Net Banking,18083.35
+CUST414,October,Entertainment,UPI,17981.62
+CUST234,July,Electronics,Credit Card,16961.69
+CUST270,August,Entertainment,UPI,10998.75
+CUST003,September,Travel,Net Banking,13607.37
+CUST070,August,Groceries,Net Banking,4211.97
+CUST304,August,Entertainment,Credit Card,10171.6
+CUST365,August,Groceries,UPI,11003.34
+CUST263,August,Electronics,Debit Card,3022.84
+CUST011,May,Apparel,Debit Card,17467.67
+CUST333,June,Electronics,Debit Card,5722.44
+CUST227,May,Electronics,Net Banking,2527.38
+CUST013,June,Travel,Debit Card,2206.31
+CUST006,May,Apparel,Debit Card,6023.75
+CUST260,May,Groceries,UPI,590.9
+CUST073,August,Apparel,Credit Card,4981.52
+CUST370,September,Groceries,Net Banking,8943.38
+CUST079,May,Electronics,Net Banking,11205.0
+CUST406,May,Groceries,Net Banking,19100.6
+CUST441,September,Groceries,Debit Card,11166.88
+CUST342,September,Groceries,UPI,10171.32
+CUST421,July,Electronics,UPI,8073.47
+CUST134,May,Groceries,Credit Card,9631.51
+CUST256,May,Travel,Net Banking,10848.78
+CUST055,October,Entertainment,Credit Card,5257.05
+CUST489,September,Electronics,UPI,16955.02
+CUST277,October,Groceries,Credit Card,10517.37
+CUST191,May,Electronics,Credit Card,18284.33
+CUST166,May,Travel,Net Banking,6531.43
+CUST441,October,Apparel,Credit Card,6540.54
+CUST309,July,Entertainment,Credit Card,14649.48
+CUST247,October,Travel,Net Banking,13699.5
+CUST263,September,Travel,Debit Card,6118.52
+CUST279,August,Travel,Debit Card,10675.96
+CUST485,June,Electronics,Credit Card,10395.59
+CUST091,July,Electronics,Credit Card,5950.35
+CUST077,September,Groceries,Credit Card,12164.32
+CUST145,June,Travel,Debit Card,698.31
+CUST372,September,Groceries,Debit Card,12705.75
+CUST337,October,Travel,Debit Card,19141.33
+CUST301,June,Electronics,Credit Card,19480.82
+CUST471,May,Groceries,Debit Card,16072.5
+CUST026,September,Groceries,Net Banking,7448.39
+CUST247,June,Apparel,UPI,3272.19
+CUST086,August,Entertainment,Credit Card,9803.14
+CUST086,September,Entertainment,Debit Card,1120.39
+CUST489,June,Apparel,Debit Card,10883.14
+CUST300,June,Groceries,Net Banking,1725.16
+CUST363,September,Electronics,Net Banking,16091.91
+CUST414,August,Travel,Net Banking,18446.55
+CUST102,July,Electronics,Credit Card,18626.88
+CUST500,June,Travel,Net Banking,12600.9
+CUST435,June,Apparel,UPI,9033.21
+CUST217,May,Electronics,UPI,14016.68
+CUST156,September,Entertainment,Debit Card,6824.88
+CUST299,June,Groceries,UPI,12949.2
+CUST197,May,Entertainment,UPI,1462.41
+CUST333,September,Travel,Net Banking,10976.95
+CUST368,September,Apparel,Net Banking,11696.74
+CUST059,July,Groceries,Debit Card,19060.46
+CUST177,May,Apparel,Net Banking,15477.95
+CUST458,August,Travel,Net Banking,15161.66
+CUST485,August,Travel,UPI,6191.14
+CUST138,July,Travel,Credit Card,10564.09
+CUST247,June,Electronics,Credit Card,8202.37
+CUST315,August,Electronics,Credit Card,14112.74
+CUST485,May,Apparel,UPI,10786.38
+CUST329,June,Groceries,Credit Card,3337.41
+CUST264,June,Groceries,Debit Card,12960.45
+CUST315,September,Apparel,Debit Card,3386.53
+CUST292,October,Electronics,UPI,10861.67
+CUST271,July,Travel,Credit Card,5726.9
+CUST150,May,Apparel,Credit Card,7638.61
+CUST226,September,Entertainment,UPI,8292.58
+CUST098,May,Entertainment,Net Banking,7187.74
+CUST191,July,Groceries,UPI,3135.27
+CUST097,July,Apparel,Net Banking,14815.92
+CUST259,May,Apparel,Net Banking,13126.47
+CUST340,August,Electronics,Credit Card,19095.23
+CUST363,October,Apparel,UPI,16998.88
+CUST255,August,Apparel,Credit Card,16421.43
+CUST125,October,Travel,Debit Card,2529.82
+CUST068,October,Apparel,Debit Card,17538.39
+CUST179,May,Apparel,Debit Card,19557.89
+CUST134,June,Travel,Credit Card,14473.64
+CUST011,May,Travel,Credit Card,11845.88
+CUST276,June,Entertainment,UPI,7570.47
+CUST121,June,Entertainment,Credit Card,9539.18
+CUST177,August,Electronics,Net Banking,8352.55
+CUST449,July,Travel,Debit Card,4393.84
+CUST374,July,Travel,Credit Card,11028.55
+CUST225,August,Apparel,UPI,902.11
+CUST425,October,Electronics,UPI,12861.35
+CUST283,July,Apparel,Credit Card,10544.05
+CUST463,August,Entertainment,Debit Card,19605.37
+CUST024,May,Groceries,Credit Card,5902.99
+CUST454,July,Apparel,Credit Card,17854.93
+CUST136,July,Travel,Debit Card,12527.65
+CUST386,October,Travel,UPI,14353.19
+CUST091,September,Groceries,UPI,11775.75
+CUST136,October,Groceries,Credit Card,6207.62
+CUST062,August,Electronics,Debit Card,18343.91
+CUST412,June,Electronics,Net Banking,10536.91
+CUST384,August,Entertainment,Credit Card,8527.92
+CUST118,May,Electronics,UPI,610.8
+CUST194,August,Electronics,Credit Card,926.94
+CUST057,July,Travel,Net Banking,11855.02
+CUST149,August,Groceries,Debit Card,7742.17
+CUST240,June,Travel,Debit Card,14201.13
+CUST266,June,Travel,Net Banking,5165.32
+CUST009,May,Entertainment,Credit Card,2695.8
+CUST012,May,Electronics,Credit Card,13682.72
+CUST099,May,Travel,Credit Card,7711.83
+CUST427,September,Electronics,Net Banking,4450.18
+CUST078,October,Groceries,Credit Card,18951.43
+CUST196,September,Groceries,Net Banking,7112.03
+CUST479,May,Groceries,Debit Card,7590.91
+CUST144,July,Groceries,Credit Card,3107.08
+CUST005,August,Apparel,UPI,1416.4
+CUST500,October,Electronics,UPI,1598.62
+CUST108,October,Groceries,Net Banking,12264.53
+CUST498,May,Electronics,Credit Card,16055.31
+CUST039,June,Travel,Net Banking,10752.14
+CUST102,July,Apparel,Net Banking,3621.75
+CUST465,May,Electronics,Credit Card,5392.59
+CUST084,October,Entertainment,Net Banking,19569.11
+CUST143,May,Travel,UPI,3504.96
+CUST333,September,Groceries,Debit Card,3299.65
+CUST277,September,Entertainment,Debit Card,16396.88
+CUST075,July,Entertainment,Debit Card,5190.16
+CUST152,June,Entertainment,UPI,12727.98
+CUST474,May,Apparel,UPI,12502.66
+CUST205,August,Apparel,Net Banking,2494.23
+CUST409,September,Travel,UPI,3584.49
+CUST382,May,Travel,Debit Card,11640.14
+CUST188,July,Groceries,UPI,8502.08
+CUST041,August,Apparel,Debit Card,2107.19
+CUST037,May,Groceries,Net Banking,3758.85
+CUST292,October,Travel,Credit Card,12953.03
+CUST258,June,Travel,Net Banking,18475.18
+CUST471,June,Entertainment,Credit Card,16003.17
+CUST139,September,Groceries,Net Banking,10621.6
+CUST035,September,Groceries,Net Banking,18512.17
+CUST008,July,Entertainment,Debit Card,5104.72
+CUST487,June,Groceries,Credit Card,2518.75
+CUST318,August,Groceries,Credit Card,4311.43
+CUST472,July,Electronics,Net Banking,9617.19
+CUST309,May,Entertainment,Debit Card,2700.79
+CUST440,October,Groceries,Credit Card,6546.68
+CUST260,May,Groceries,Credit Card,1679.74
+CUST402,July,Electronics,Debit Card,9965.32
+CUST179,May,Apparel,UPI,11799.84
+CUST113,August,Entertainment,Net Banking,19441.09
+CUST019,July,Apparel,Net Banking,8001.1
+CUST128,October,Groceries,Debit Card,15792.2
+CUST351,July,Travel,Net Banking,5720.31
+CUST098,June,Electronics,UPI,15189.69
+CUST315,October,Groceries,UPI,2393.72
+CUST036,July,Travel,UPI,9208.85
+CUST416,May,Travel,Net Banking,9046.1
+CUST251,September,Electronics,Credit Card,1530.37
+CUST268,May,Apparel,UPI,15765.16
+CUST036,September,Apparel,UPI,18839.16
+CUST467,June,Apparel,UPI,8107.88
+CUST343,August,Apparel,Credit Card,1688.85
+CUST349,September,Apparel,Net Banking,19275.28
+CUST009,June,Groceries,Debit Card,8621.7
+CUST494,August,Entertainment,Net Banking,3933.87
+CUST063,September,Entertainment,UPI,5778.56
+CUST150,May,Groceries,Debit Card,16732.14
+CUST161,August,Groceries,Debit Card,13495.58
+CUST279,July,Entertainment,Credit Card,17346.44
+CUST470,September,Groceries,Net Banking,15064.07
+CUST039,August,Entertainment,Debit Card,4579.61
+CUST440,July,Travel,Net Banking,9072.17
+CUST462,September,Apparel,Net Banking,12710.71
+CUST240,October,Groceries,UPI,8757.29
+CUST279,May,Electronics,UPI,16908.19
+CUST142,June,Travel,UPI,16183.48
+CUST129,September,Entertainment,UPI,12391.51
+CUST021,May,Travel,Debit Card,12388.3
+CUST472,October,Apparel,UPI,9080.43
+CUST092,June,Electronics,Debit Card,3866.25
+CUST493,October,Entertainment,UPI,8988.24
+CUST048,October,Travel,Debit Card,817.9
+CUST277,October,Entertainment,Credit Card,7056.42
+CUST417,May,Travel,Net Banking,4274.14
+CUST213,July,Groceries,Credit Card,8510.11
+CUST491,August,Groceries,Net Banking,15848.12
+CUST033,September,Electronics,Debit Card,12726.42
+CUST334,May,Apparel,Net Banking,9412.42
+CUST300,July,Travel,UPI,6135.45
+CUST068,August,Groceries,Debit Card,5134.58
+CUST400,September,Electronics,Credit Card,8893.22
+CUST193,June,Entertainment,UPI,16814.13
+CUST344,September,Entertainment,Net Banking,6102.15
+CUST040,September,Entertainment,Credit Card,3310.55
+CUST195,June,Travel,UPI,12379.76
+CUST426,June,Electronics,Debit Card,15571.46
+CUST039,July,Apparel,UPI,1533.58
+CUST156,May,Apparel,Debit Card,15917.48
+CUST378,August,Electronics,Debit Card,5079.26
+CUST380,October,Entertainment,Credit Card,8390.57
+CUST398,July,Travel,Credit Card,5128.4
+CUST268,June,Electronics,Debit Card,6622.02
+CUST273,October,Travel,UPI,9415.63
+CUST269,July,Electronics,UPI,7787.84
+CUST404,July,Apparel,Debit Card,18012.68
+CUST155,July,Groceries,Debit Card,19602.3
+CUST281,September,Apparel,Net Banking,6494.63
+CUST492,August,Travel,Debit Card,5574.69
+CUST197,May,Electronics,Debit Card,14132.95
+CUST415,August,Apparel,Credit Card,10108.88
+CUST130,July,Travel,Debit Card,3640.36
+CUST492,June,Travel,UPI,18478.09
+CUST205,October,Electronics,Credit Card,19149.66
+CUST172,October,Entertainment,Credit Card,13343.78
+CUST106,August,Apparel,Net Banking,1913.59
+CUST310,October,Entertainment,Debit Card,7450.41
+CUST458,May,Entertainment,Credit Card,17108.55
+CUST202,September,Electronics,Debit Card,4149.16
+CUST023,July,Entertainment,Net Banking,6461.84
+CUST090,June,Groceries,Debit Card,4714.69
+CUST238,September,Travel,Credit Card,13182.61
+CUST276,May,Groceries,Debit Card,3638.02
+CUST022,July,Electronics,UPI,9838.49
+CUST196,June,Groceries,Debit Card,1018.54
+CUST498,July,Travel,Credit Card,4185.69
+CUST047,May,Entertainment,Net Banking,19473.75
+CUST291,September,Apparel,Net Banking,6526.35
+CUST117,September,Apparel,Debit Card,2181.42
+CUST466,June,Travel,Net Banking,6255.82
+CUST159,August,Entertainment,Net Banking,7792.53
+CUST215,June,Groceries,Net Banking,17989.27
+CUST001,September,Travel,Debit Card,1747.89
+CUST331,September,Apparel,Net Banking,3919.04
+CUST115,July,Entertainment,Debit Card,12106.8
+CUST289,June,Apparel,Credit Card,6125.59
+CUST465,August,Electronics,Debit Card,8532.8
+CUST048,August,Electronics,Debit Card,4368.89
+CUST455,June,Groceries,Credit Card,14074.3
+CUST321,July,Electronics,Net Banking,15738.45
+CUST252,October,Apparel,Credit Card,4835.07
+CUST425,July,Entertainment,Credit Card,18975.39
+CUST016,August,Groceries,Net Banking,19032.61
+CUST366,June,Apparel,UPI,17551.41
+CUST223,October,Electronics,Net Banking,5921.37
+CUST455,September,Electronics,Net Banking,708.05
+CUST105,August,Travel,Credit Card,4500.82
+CUST272,September,Travel,Credit Card,9402.28
+CUST057,September,Electronics,UPI,17538.74
+CUST131,May,Travel,Credit Card,19783.2
+CUST339,August,Travel,Net Banking,7766.47
+CUST204,May,Electronics,Net Banking,15874.82
+CUST265,June,Groceries,Net Banking,3543.4
+CUST399,July,Entertainment,UPI,7998.37
+CUST076,September,Entertainment,Credit Card,18846.54
+CUST295,October,Entertainment,Net Banking,3164.07
+CUST101,June,Entertainment,UPI,3772.53
+CUST058,July,Apparel,UPI,600.14
+CUST291,July,Apparel,Debit Card,6075.21
+CUST085,June,Entertainment,Credit Card,15371.76
+CUST115,July,Travel,UPI,6205.78
+CUST409,October,Entertainment,Debit Card,9188.53
+CUST162,July,Apparel,Debit Card,7806.35
+CUST208,June,Electronics,Credit Card,14058.39
+CUST246,May,Entertainment,Debit Card,19500.55
+CUST423,August,Groceries,Debit Card,5656.53
+CUST065,October,Groceries,Debit Card,8536.93
+CUST481,September,Groceries,Net Banking,6480.31
+CUST432,June,Groceries,Net Banking,8532.77
+CUST428,May,Electronics,UPI,3113.96
+CUST254,September,Electronics,Debit Card,1326.68
+CUST110,October,Groceries,Credit Card,2355.13
+CUST314,July,Travel,Credit Card,8968.95
+CUST481,September,Groceries,UPI,10746.72
+CUST032,July,Entertainment,UPI,5079.07
+CUST443,October,Apparel,UPI,14663.96
+CUST260,July,Entertainment,Debit Card,14753.46
+CUST343,May,Entertainment,Debit Card,4190.46
+CUST292,June,Electronics,Credit Card,15468.24
+CUST248,June,Electronics,Net Banking,13792.03
+CUST356,May,Groceries,Debit Card,18996.97
+CUST439,May,Apparel,Credit Card,3040.95
+CUST185,October,Travel,Debit Card,18131.17
+CUST303,October,Travel,Net Banking,6381.66
+CUST164,May,Electronics,UPI,14160.15
+CUST256,August,Entertainment,Net Banking,10760.93
+CUST149,September,Apparel,Net Banking,12922.96
+CUST410,September,Electronics,UPI,3987.14
+CUST282,June,Apparel,Credit Card,11831.61
+CUST291,June,Entertainment,Debit Card,16723.35
+CUST277,August,Entertainment,Credit Card,1362.62
+CUST334,August,Entertainment,Net Banking,4246.12
+CUST113,July,Travel,UPI,4562.71
+CUST106,October,Groceries,UPI,2086.18
+CUST425,May,Apparel,Debit Card,12855.06
+CUST453,May,Apparel,Net Banking,3864.91
+CUST218,September,Electronics,Net Banking,14073.44
+CUST460,June,Groceries,Debit Card,11085.89
+CUST143,July,Groceries,Debit Card,19346.98
+CUST257,May,Electronics,Debit Card,4525.93
+CUST058,June,Apparel,UPI,741.7
+CUST198,May,Entertainment,Debit Card,11148.82
+CUST381,June,Groceries,Net Banking,1103.69
+CUST102,July,Groceries,UPI,10498.19
+CUST037,July,Apparel,UPI,11720.86
+CUST489,August,Travel,Debit Card,17821.22
+CUST390,May,Entertainment,Net Banking,3775.54
+CUST299,May,Electronics,UPI,2860.33
+CUST453,October,Travel,Debit Card,2775.5
+CUST022,August,Entertainment,Debit Card,752.16
+CUST348,June,Electronics,UPI,3193.66
+CUST070,September,Groceries,Net Banking,10959.63
+CUST218,August,Groceries,UPI,15383.91
+CUST350,June,Travel,Debit Card,4992.97
+CUST161,May,Groceries,UPI,3897.27
+CUST449,August,Apparel,Net Banking,16089.17
+CUST476,July,Electronics,UPI,4282.84
+CUST019,June,Groceries,Debit Card,12251.8
+CUST083,October,Entertainment,Debit Card,13674.44
+CUST276,May,Travel,UPI,15422.55
+CUST394,September,Travel,Net Banking,8213.72
+CUST315,May,Apparel,UPI,19830.66
+CUST034,September,Entertainment,Credit Card,19495.72
+CUST032,August,Apparel,Credit Card,16544.7
+CUST137,August,Travel,UPI,10753.85
+CUST391,May,Entertainment,Net Banking,7427.82
+CUST155,September,Apparel,Debit Card,13114.33
+CUST058,September,Entertainment,Net Banking,4997.26
+CUST043,July,Apparel,Debit Card,18792.26
+CUST193,August,Travel,Net Banking,12192.22
+CUST308,September,Travel,Net Banking,8157.04
+CUST411,July,Groceries,Debit Card,4376.03
+CUST229,May,Groceries,UPI,7310.12
+CUST419,August,Electronics,UPI,10632.5
+CUST430,May,Entertainment,Credit Card,9951.8
+CUST312,May,Travel,Credit Card,19893.15
+CUST024,June,Apparel,Credit Card,10820.11
+CUST452,October,Apparel,Net Banking,14129.15
+CUST081,October,Apparel,Debit Card,14570.58
+CUST107,July,Groceries,Net Banking,500.58
+CUST271,September,Groceries,Debit Card,16954.44
+CUST011,June,Electronics,UPI,10189.81
+CUST149,October,Electronics,Debit Card,17279.0
+CUST285,August,Electronics,Credit Card,5567.92
+CUST071,May,Entertainment,UPI,14173.57
+CUST304,June,Electronics,Credit Card,16074.06
+CUST372,August,Electronics,Credit Card,13606.59
+CUST012,May,Entertainment,Net Banking,19375.52
+CUST061,August,Travel,Net Banking,8761.41
+CUST390,July,Travel,Debit Card,11821.98
+CUST407,October,Entertainment,UPI,17782.65
+CUST099,August,Apparel,Debit Card,2875.64
+CUST193,May,Travel,Net Banking,8525.65
+CUST405,August,Groceries,Credit Card,6057.27
+CUST128,June,Apparel,Debit Card,4116.61
+CUST288,May,Travel,UPI,5067.99
+CUST009,August,Electronics,Debit Card,17821.11
+CUST079,June,Travel,Debit Card,5890.56
+CUST166,July,Entertainment,Credit Card,10625.21
+CUST449,July,Groceries,Debit Card,2136.98
+CUST173,May,Entertainment,Net Banking,579.35
+CUST272,July,Electronics,Debit Card,8253.19
+CUST488,September,Electronics,Credit Card,12810.66
+CUST113,August,Travel,UPI,19199.0
+CUST364,July,Travel,Net Banking,7229.7
+CUST145,June,Entertainment,Debit Card,9288.76
+CUST373,September,Entertainment,Credit Card,3025.1
+CUST025,October,Apparel,Credit Card,17501.38
+CUST155,September,Electronics,Debit Card,10559.73
+CUST236,June,Travel,Credit Card,15346.0
+CUST281,September,Electronics,Net Banking,1827.13
+CUST467,August,Travel,Credit Card,17104.85
+CUST078,June,Groceries,Credit Card,9323.72
+CUST175,October,Entertainment,Net Banking,11188.01
+CUST175,September,Groceries,Credit Card,13290.91
+CUST371,September,Travel,Debit Card,10980.19
+CUST296,July,Electronics,Net Banking,17326.14
+CUST379,October,Electronics,Net Banking,1971.53
+CUST244,June,Groceries,Net Banking,15470.9
+CUST291,May,Travel,Credit Card,1119.86
+CUST137,May,Electronics,Net Banking,7246.28
+CUST342,October,Entertainment,Credit Card,14756.76
+CUST464,June,Electronics,Net Banking,4396.28
+CUST035,May,Apparel,Debit Card,13996.21
+CUST128,May,Travel,UPI,18098.71
+CUST027,August,Electronics,UPI,1428.95
+CUST243,September,Groceries,Debit Card,10407.81
+CUST153,September,Travel,Debit Card,13547.75
+CUST061,June,Groceries,UPI,6489.36
+CUST261,May,Groceries,Net Banking,16849.85
+CUST308,August,Apparel,Debit Card,1113.07
+CUST254,June,Electronics,Net Banking,10448.82
+CUST370,May,Electronics,Net Banking,8175.17
+CUST309,August,Groceries,Credit Card,8329.1
+CUST419,October,Groceries,Debit Card,5955.69
+CUST464,August,Entertainment,UPI,16111.45
+CUST128,June,Entertainment,Net Banking,14460.7
+CUST260,May,Electronics,UPI,19369.9
+CUST029,October,Groceries,UPI,12441.93
+CUST078,October,Travel,Debit Card,5392.41
+CUST248,September,Entertainment,Net Banking,6775.03
+CUST014,June,Apparel,Net Banking,16476.45
+CUST338,June,Travel,UPI,14871.46
+CUST064,May,Entertainment,Debit Card,14346.42
+CUST173,October,Apparel,Debit Card,6478.25
+CUST464,September,Apparel,Credit Card,3597.79
+CUST156,August,Apparel,Net Banking,13430.71
+CUST477,October,Apparel,Credit Card,17818.05
+CUST226,June,Groceries,Net Banking,16432.02
+CUST185,September,Electronics,Debit Card,1828.19
+CUST424,July,Electronics,Credit Card,10958.18
+CUST482,October,Groceries,UPI,6662.75
+CUST168,September,Electronics,Debit Card,10122.49
+CUST288,September,Apparel,Net Banking,17804.86
+CUST332,October,Travel,Debit Card,14756.75
+CUST250,July,Travel,Net Banking,10272.47
+CUST268,August,Entertainment,Credit Card,10783.53
+CUST355,September,Electronics,Debit Card,1007.58
+CUST049,July,Entertainment,UPI,7192.73
+CUST182,May,Travel,Credit Card,3456.33
+CUST415,September,Electronics,Net Banking,4562.68
+CUST328,October,Electronics,Net Banking,3582.6
+CUST206,September,Travel,Debit Card,1745.8
+CUST485,September,Electronics,Credit Card,9531.51
+CUST264,October,Entertainment,Debit Card,5797.17
+CUST184,August,Groceries,Credit Card,12059.63
+CUST249,May,Entertainment,Net Banking,10950.34
+CUST243,August,Groceries,UPI,5204.22
+CUST043,August,Electronics,UPI,12485.98
+CUST475,October,Entertainment,Net Banking,6007.75
+CUST412,June,Travel,Credit Card,19784.27
+CUST146,June,Groceries,Debit Card,11968.27
+CUST188,September,Travel,Debit Card,16539.59
+CUST033,June,Entertainment,Net Banking,19859.25
+CUST469,October,Travel,Net Banking,2788.92
+CUST447,May,Electronics,Net Banking,12610.03
+CUST401,July,Electronics,Net Banking,1209.78
+CUST158,August,Groceries,Net Banking,9280.12
+CUST248,June,Travel,UPI,6570.83
+CUST077,June,Groceries,UPI,9675.24
+CUST079,June,Entertainment,Net Banking,5111.78
+CUST413,May,Entertainment,UPI,12738.11
+CUST471,July,Groceries,Debit Card,16612.39
+CUST317,May,Travel,Credit Card,931.91
+CUST201,July,Electronics,Net Banking,15336.35
+CUST233,July,Travel,Debit Card,15411.38
+CUST208,July,Apparel,Credit Card,6904.39
+CUST025,July,Entertainment,Credit Card,18439.83
+CUST435,September,Travel,Debit Card,3070.47
+CUST394,August,Groceries,Credit Card,18332.59
+CUST237,July,Apparel,Net Banking,6058.12
+CUST154,May,Travel,Net Banking,15818.93
+CUST427,October,Apparel,Debit Card,4383.17
+CUST065,June,Electronics,Credit Card,924.6
+CUST192,June,Groceries,Debit Card,12099.69
+CUST178,September,Entertainment,Debit Card,6387.03
+CUST487,August,Groceries,Net Banking,18900.14
+CUST373,September,Apparel,Net Banking,3340.02
+CUST434,September,Electronics,UPI,7474.71
+CUST033,September,Groceries,Debit Card,11643.63
+CUST081,August,Travel,Credit Card,18985.83
+CUST164,June,Groceries,UPI,17188.53
+CUST259,September,Groceries,UPI,10483.71
+CUST423,August,Entertainment,Net Banking,8308.76
+CUST335,September,Apparel,UPI,12821.45
+CUST186,August,Travel,Debit Card,15757.01
+CUST060,September,Groceries,Credit Card,6435.86
+CUST093,October,Apparel,Credit Card,4453.66
+CUST263,September,Entertainment,Net Banking,6337.33
+CUST399,October,Apparel,Debit Card,16917.28
+CUST323,June,Travel,Net Banking,18360.7
+CUST399,October,Apparel,UPI,1103.57
+CUST478,May,Apparel,UPI,2464.24
+CUST245,September,Apparel,Debit Card,5763.25
+CUST355,July,Travel,UPI,15519.78
+CUST390,July,Apparel,Debit Card,1228.32
+CUST048,July,Travel,Debit Card,12527.02
+CUST158,July,Apparel,UPI,4134.03
+CUST354,July,Travel,Credit Card,9290.33
+CUST373,October,Groceries,Debit Card,5303.42
+CUST163,September,Electronics,Debit Card,1279.66
+CUST459,June,Electronics,Credit Card,11643.55
+CUST364,May,Groceries,UPI,17749.44
+CUST010,September,Travel,Credit Card,18185.63
+CUST460,October,Travel,Net Banking,3168.72
+CUST174,May,Travel,Debit Card,14142.81
+CUST237,June,Travel,Net Banking,5627.44
+CUST345,June,Electronics,UPI,14299.32
+CUST376,May,Groceries,Credit Card,18476.93
+CUST358,October,Entertainment,Net Banking,16766.13
+CUST358,August,Apparel,Net Banking,12054.23
+CUST271,October,Electronics,Credit Card,15053.64
+CUST463,June,Groceries,Net Banking,1946.17
+CUST320,July,Entertainment,UPI,6953.26
+CUST120,May,Groceries,Net Banking,19102.23
+CUST013,May,Electronics,UPI,16286.57
+CUST366,May,Apparel,Net Banking,18107.68
+CUST281,October,Entertainment,Net Banking,5376.39
+CUST309,September,Apparel,Credit Card,3674.95
+CUST034,June,Groceries,Credit Card,13064.56
+CUST133,October,Apparel,Debit Card,3599.16
+CUST202,June,Apparel,Credit Card,12675.01
+CUST124,October,Travel,Debit Card,1306.97
+CUST241,August,Entertainment,Net Banking,15706.19
+CUST297,August,Apparel,Credit Card,8268.17
+CUST409,May,Travel,UPI,11672.22
+CUST380,July,Groceries,UPI,7587.91
+CUST083,August,Apparel,UPI,19457.32
+CUST157,May,Electronics,Debit Card,9687.37
+CUST029,May,Groceries,Net Banking,11904.62
+CUST178,May,Groceries,Credit Card,7439.31
+CUST123,August,Entertainment,Credit Card,8437.53
+CUST185,August,Groceries,Net Banking,7255.52
+CUST059,September,Travel,Net Banking,11367.27
+CUST042,September,Electronics,UPI,8393.85
+CUST094,May,Apparel,Credit Card,1958.77
+CUST339,June,Travel,Credit Card,16282.95
+CUST338,September,Apparel,Net Banking,11247.12
+CUST297,May,Electronics,Credit Card,19630.98
+CUST256,July,Electronics,Net Banking,18491.75
+CUST172,October,Entertainment,UPI,16812.2
+CUST417,July,Groceries,Debit Card,15830.97
+CUST339,May,Groceries,Credit Card,8927.85
+CUST408,June,Apparel,Net Banking,6393.37
+CUST490,July,Travel,Net Banking,3501.48
+CUST319,October,Apparel,Debit Card,19089.83
+CUST357,July,Entertainment,UPI,12543.35
+CUST203,September,Electronics,Debit Card,13706.19
+CUST092,October,Apparel,UPI,13229.4
+CUST092,June,Apparel,Credit Card,5788.04
+CUST444,May,Travel,UPI,2641.05
+CUST492,September,Groceries,UPI,9209.67
+CUST222,October,Entertainment,Credit Card,16779.3
+CUST174,August,Entertainment,Net Banking,8242.39
+CUST138,May,Entertainment,Net Banking,17512.72
+CUST450,October,Apparel,Debit Card,9824.89
+CUST296,June,Apparel,Credit Card,9605.59
+CUST204,August,Entertainment,Net Banking,11500.11
+CUST016,September,Travel,UPI,13899.21
+CUST288,October,Apparel,Credit Card,12067.27
+CUST367,June,Electronics,Net Banking,711.12
+CUST053,September,Entertainment,UPI,668.39
+CUST458,June,Electronics,UPI,7691.67
+CUST255,May,Entertainment,Credit Card,18765.0
+CUST472,September,Entertainment,Net Banking,13608.57
+CUST445,September,Apparel,Net Banking,3402.91
+CUST224,September,Entertainment,Debit Card,7468.8
+CUST200,July,Travel,UPI,14332.56
+CUST322,July,Entertainment,Debit Card,5194.98
+CUST348,July,Apparel,Debit Card,3482.06
+CUST234,August,Groceries,Debit Card,16967.02
+CUST342,August,Entertainment,Credit Card,18189.19
+CUST367,June,Entertainment,Net Banking,15597.19
+CUST204,September,Electronics,UPI,11884.25
+CUST385,June,Entertainment,UPI,16436.62
+CUST096,August,Apparel,Net Banking,3604.47
+CUST035,May,Travel,Debit Card,16593.1
+CUST132,August,Travel,Net Banking,8770.19
+CUST065,September,Electronics,Debit Card,7204.56
+CUST415,May,Apparel,Credit Card,19279.01
+CUST489,June,Travel,Net Banking,19254.12
+CUST161,June,Groceries,Credit Card,14193.96
+CUST432,June,Travel,Net Banking,7079.9
+CUST164,June,Entertainment,Credit Card,4010.79
+CUST327,August,Groceries,Debit Card,15183.82
+CUST428,August,Entertainment,Credit Card,6007.55
+CUST410,September,Entertainment,Debit Card,7497.78
+CUST481,August,Apparel,UPI,16640.03
+CUST322,May,Groceries,UPI,14319.61
+CUST259,October,Apparel,Net Banking,11822.21
+CUST437,July,Entertainment,Credit Card,12846.75
+CUST006,August,Travel,Credit Card,3307.13
+CUST363,October,Entertainment,Debit Card,10500.7
+CUST142,May,Entertainment,Credit Card,11718.73
+CUST125,May,Entertainment,Net Banking,15327.05
+CUST232,October,Entertainment,Credit Card,11285.52
+CUST183,September,Groceries,Credit Card,11369.69
+CUST272,August,Groceries,Net Banking,11229.36
+CUST161,May,Apparel,Debit Card,2728.83
+CUST172,August,Apparel,Net Banking,11793.93
+CUST025,August,Apparel,Debit Card,5990.15
+CUST010,October,Travel,Debit Card,14324.21
+CUST461,August,Electronics,Debit Card,17217.1
+CUST183,October,Groceries,Credit Card,8423.37
+CUST082,October,Travel,Net Banking,755.5
+CUST348,July,Travel,Net Banking,5786.84
+CUST096,September,Travel,UPI,16421.78
+CUST467,July,Electronics,Credit Card,2724.4
+CUST150,May,Apparel,Net Banking,6987.2
+CUST035,August,Entertainment,Debit Card,16724.45
+CUST364,August,Entertainment,Net Banking,16196.65
+CUST097,August,Apparel,Net Banking,10042.42
+CUST495,June,Entertainment,Net Banking,15074.04
+CUST328,August,Groceries,Credit Card,2682.03
+CUST436,May,Electronics,Net Banking,2462.6
+CUST143,June,Electronics,Net Banking,17395.88
+CUST198,October,Apparel,Credit Card,9509.77
+CUST052,September,Apparel,UPI,2597.25
+CUST467,July,Entertainment,Debit Card,11799.55
+CUST346,September,Electronics,Credit Card,6735.04
+CUST065,October,Groceries,UPI,17075.77
+CUST041,August,Apparel,Credit Card,9112.52
+CUST375,May,Entertainment,Debit Card,607.72
+CUST123,June,Entertainment,Credit Card,823.54
+CUST180,July,Travel,Credit Card,16728.79
+CUST273,June,Travel,Credit Card,9313.15
+CUST467,August,Entertainment,Credit Card,16204.45
+CUST325,October,Entertainment,Net Banking,15611.53
+CUST252,October,Groceries,UPI,6245.68
+CUST199,May,Groceries,Net Banking,5510.06
+CUST374,August,Entertainment,UPI,5831.84
+CUST456,May,Groceries,Net Banking,4754.82
+CUST316,October,Travel,Net Banking,12518.39
+CUST139,May,Travel,Debit Card,16001.22
+CUST278,May,Entertainment,Credit Card,16550.62
+CUST052,October,Entertainment,UPI,3295.76
+CUST078,July,Electronics,UPI,2723.79
+CUST199,July,Travel,UPI,3417.75
+CUST195,May,Electronics,Net Banking,5282.18
+CUST125,July,Apparel,Debit Card,19998.33
+CUST328,August,Groceries,Debit Card,8640.17
+CUST471,October,Apparel,Credit Card,9499.03
+CUST246,October,Groceries,UPI,563.23
+CUST106,July,Apparel,Debit Card,18914.71
+CUST334,August,Groceries,Debit Card,574.87
+CUST294,May,Groceries,Credit Card,6670.04
+CUST223,October,Apparel,UPI,9009.38
+CUST011,October,Groceries,Net Banking,16289.9
+CUST471,May,Entertainment,Credit Card,10880.31
+CUST178,June,Apparel,Debit Card,11987.03
+CUST030,July,Electronics,Credit Card,4758.02
+CUST058,July,Groceries,Debit Card,12239.79
+CUST366,August,Entertainment,Credit Card,16409.38
+CUST441,August,Entertainment,Net Banking,10733.05
+CUST255,July,Electronics,Credit Card,14669.63
+CUST409,September,Apparel,Debit Card,5748.83
+CUST284,May,Apparel,Debit Card,19886.81
+CUST075,June,Electronics,Net Banking,10841.14
+CUST101,October,Electronics,Net Banking,17677.25
+CUST187,October,Apparel,UPI,7568.86
+CUST455,July,Entertainment,Net Banking,14543.41
+CUST257,June,Entertainment,Debit Card,13808.43
+CUST465,August,Travel,Credit Card,15985.09
+CUST020,July,Entertainment,Net Banking,16249.53
+CUST213,August,Entertainment,Debit Card,11057.47
+CUST290,October,Travel,Debit Card,8534.86
+CUST024,June,Apparel,UPI,11036.44
+CUST435,October,Groceries,Credit Card,9382.3
+CUST417,October,Apparel,UPI,9618.01
+CUST282,September,Travel,Credit Card,15379.22
+CUST045,May,Entertainment,Debit Card,14360.96
+CUST326,October,Travel,Debit Card,11155.95
+CUST360,July,Groceries,Credit Card,6502.96
+CUST369,June,Electronics,Net Banking,13185.1
+CUST049,June,Travel,Net Banking,19044.81
+CUST296,August,Groceries,Credit Card,5097.41
+CUST088,August,Groceries,Debit Card,5484.91
+CUST247,September,Apparel,Net Banking,19245.8
+CUST080,May,Apparel,UPI,5171.32
+CUST375,July,Travel,Credit Card,14138.34
+CUST392,June,Electronics,Net Banking,18972.64
+CUST409,August,Travel,Credit Card,8878.91
+CUST468,July,Apparel,Debit Card,2620.58
+CUST465,August,Travel,Credit Card,1134.63
+CUST205,October,Travel,Net Banking,15984.45
+CUST411,May,Electronics,Net Banking,11590.1
+CUST207,May,Groceries,Credit Card,11068.53
+CUST192,July,Entertainment,Debit Card,9681.85
+CUST042,August,Groceries,Debit Card,8836.44
+CUST361,August,Groceries,UPI,5661.04
+CUST056,June,Entertainment,UPI,12593.25
+CUST212,August,Groceries,Credit Card,15215.98
+CUST476,August,Apparel,Net Banking,12382.29
+CUST396,May,Electronics,Net Banking,3765.62
+CUST400,August,Groceries,UPI,7881.79
+CUST255,June,Entertainment,Credit Card,11800.8
+CUST068,August,Apparel,Credit Card,15900.29
+CUST137,July,Entertainment,Credit Card,15450.35
+CUST239,September,Electronics,Credit Card,7833.5
+CUST212,July,Groceries,UPI,3342.95
+CUST256,July,Electronics,Net Banking,16038.27
+CUST448,September,Apparel,Credit Card,7398.13
+CUST400,August,Electronics,UPI,18083.63
+CUST277,October,Entertainment,Credit Card,4558.02
+CUST007,October,Apparel,Debit Card,5237.05
+CUST416,July,Travel,Debit Card,7559.34
+CUST230,July,Apparel,Debit Card,13384.95
+CUST499,October,Entertainment,Credit Card,5394.66
+CUST034,September,Groceries,Credit Card,5282.56
+CUST149,August,Apparel,Debit Card,9131.03
+CUST294,July,Electronics,Credit Card,9747.23
+CUST139,September,Electronics,Credit Card,5652.29
+CUST024,May,Groceries,Credit Card,9476.23
+CUST161,July,Electronics,UPI,4129.46
+CUST336,May,Entertainment,UPI,18479.73
+CUST036,May,Groceries,UPI,13292.58
+CUST166,June,Apparel,Debit Card,4910.33
+CUST156,July,Apparel,UPI,8190.9
+CUST230,May,Electronics,UPI,10869.44
+CUST357,September,Entertainment,Credit Card,6238.25
+CUST457,July,Entertainment,Credit Card,16571.62
+CUST351,June,Entertainment,UPI,15981.86
+CUST278,May,Electronics,Credit Card,9680.64
+CUST306,June,Electronics,Credit Card,6207.3
+CUST464,July,Travel,Debit Card,3788.8
+CUST442,August,Groceries,UPI,11196.33
+CUST401,September,Entertainment,Debit Card,2366.87
+CUST269,June,Travel,Debit Card,14414.87
+CUST147,June,Groceries,UPI,5131.87
+CUST245,September,Travel,Credit Card,4010.42
+CUST320,August,Groceries,Debit Card,18749.11
+CUST057,July,Travel,Credit Card,17686.8
+CUST062,June,Travel,Credit Card,15340.44
+CUST218,May,Travel,Credit Card,7109.75
+CUST260,July,Apparel,Credit Card,4915.29
+CUST122,June,Groceries,Debit Card,6191.68
+CUST473,May,Electronics,UPI,19022.66
+CUST044,September,Entertainment,Debit Card,16721.59
+CUST048,October,Groceries,Debit Card,14751.29
+CUST395,June,Electronics,Credit Card,17533.03
+CUST321,October,Entertainment,Credit Card,18715.42
+CUST348,September,Entertainment,Credit Card,13824.42
+CUST061,September,Apparel,UPI,2843.98
+CUST470,May,Groceries,Debit Card,3291.06
+CUST229,July,Travel,UPI,9600.64
+CUST329,October,Groceries,UPI,9543.0
+CUST232,October,Apparel,Debit Card,12566.26
+CUST238,June,Travel,Debit Card,9823.31
+CUST228,August,Apparel,UPI,3632.42
+CUST251,October,Groceries,UPI,9768.82
+CUST126,August,Groceries,Debit Card,2954.01
+CUST214,June,Apparel,Credit Card,5904.56
+CUST295,June,Apparel,Net Banking,9650.4
+CUST128,October,Groceries,Credit Card,2484.65
+CUST293,June,Apparel,Credit Card,10913.42
+CUST370,July,Travel,Net Banking,2692.44
+CUST070,May,Travel,Credit Card,6669.1
+CUST226,August,Entertainment,Debit Card,18117.32
+CUST325,August,Travel,UPI,9889.78
+CUST392,October,Entertainment,Credit Card,16461.75
+CUST124,October,Apparel,Debit Card,1655.46
+CUST026,May,Apparel,Net Banking,12466.47
+CUST346,August,Travel,Credit Card,12015.02
+CUST440,May,Apparel,Net Banking,17073.58
+CUST346,June,Travel,Credit Card,1472.88
+CUST384,July,Entertainment,Net Banking,8747.44
+CUST411,June,Apparel,Net Banking,11674.55
+CUST216,May,Apparel,Net Banking,19378.31
+CUST212,October,Apparel,UPI,13938.26
+CUST002,September,Entertainment,Net Banking,19036.02
+CUST256,August,Travel,Debit Card,7759.52
+CUST011,June,Groceries,UPI,1896.51
+CUST491,September,Groceries,Net Banking,6439.95
+CUST392,May,Travel,Net Banking,16132.42
+CUST286,September,Groceries,Debit Card,4941.24
+CUST482,May,Groceries,Debit Card,7567.06
+CUST111,July,Entertainment,Credit Card,12205.69
+CUST061,September,Entertainment,Debit Card,18424.96
+CUST177,July,Apparel,Credit Card,2137.74
+CUST398,July,Apparel,UPI,17522.51
+CUST303,October,Electronics,Net Banking,9936.09
+CUST128,October,Electronics,Credit Card,10481.63
+CUST331,October,Apparel,Net Banking,10872.25
+CUST454,July,Apparel,UPI,17497.17
+CUST172,August,Electronics,Debit Card,5995.87
+CUST167,September,Electronics,UPI,7454.8
+CUST163,August,Groceries,Debit Card,1413.92
+CUST196,June,Travel,Net Banking,6167.52
+CUST184,May,Apparel,Debit Card,6130.62
+CUST143,June,Groceries,UPI,18885.45
+CUST087,September,Apparel,Debit Card,10504.28
+CUST056,July,Travel,Net Banking,868.29
+CUST123,July,Travel,Credit Card,8558.9
+CUST269,September,Groceries,Credit Card,15305.38
+CUST277,October,Groceries,Debit Card,16867.76
+CUST277,September,Apparel,Credit Card,1924.04
+CUST118,August,Groceries,Net Banking,7929.08
+CUST482,August,Electronics,Net Banking,16826.78
+CUST003,May,Travel,Credit Card,5813.81
+CUST423,October,Groceries,UPI,11275.08
+CUST187,August,Groceries,Net Banking,9092.51
+CUST157,May,Electronics,Net Banking,1971.47
+CUST185,May,Apparel,Net Banking,2713.03
+CUST259,August,Travel,Net Banking,17733.2
+CUST147,September,Electronics,Credit Card,9341.71
+CUST131,August,Apparel,Debit Card,18929.06
+CUST291,June,Apparel,Debit Card,18066.56
+CUST091,June,Electronics,Debit Card,4234.48
+CUST094,October,Entertainment,Credit Card,726.19
+CUST090,June,Entertainment,Debit Card,5041.32
+CUST344,September,Travel,UPI,16374.7
+CUST037,June,Groceries,Credit Card,3162.21
+CUST229,August,Travel,Credit Card,13368.26
+CUST281,July,Electronics,Net Banking,16705.46
+CUST433,September,Electronics,Credit Card,1149.3
+CUST405,July,Travel,Net Banking,5393.06
+CUST488,June,Electronics,Net Banking,10706.88
+CUST383,July,Entertainment,UPI,1949.53
+CUST194,June,Entertainment,Net Banking,9987.04
+CUST253,May,Entertainment,UPI,18415.35
+CUST265,August,Electronics,Net Banking,14241.48
+CUST470,August,Groceries,UPI,9453.09
+CUST150,June,Groceries,Debit Card,13058.15
+CUST477,July,Entertainment,Net Banking,9692.91
+CUST071,June,Travel,UPI,5293.03
+CUST229,June,Apparel,Net Banking,13162.25
+CUST453,July,Electronics,Credit Card,18878.61
+CUST034,June,Entertainment,Debit Card,15188.46
+CUST056,August,Travel,Credit Card,4945.39
+CUST147,May,Groceries,Credit Card,13464.15
+CUST344,June,Entertainment,Credit Card,17914.83
+CUST150,October,Electronics,Credit Card,17566.15
+CUST146,May,Apparel,UPI,7637.37
+CUST276,August,Groceries,UPI,18327.15
+CUST431,October,Groceries,Credit Card,2626.2
+CUST409,July,Entertainment,Net Banking,14403.63
+CUST094,October,Groceries,UPI,16088.09
+CUST071,June,Groceries,Net Banking,8702.02
+CUST301,August,Groceries,Net Banking,5184.62
+CUST081,May,Apparel,UPI,17475.88
+CUST448,October,Travel,Debit Card,19756.73
+CUST302,August,Entertainment,UPI,2297.0
+CUST016,June,Electronics,Net Banking,13246.44
+CUST482,August,Electronics,UPI,6284.08
+CUST320,August,Groceries,Debit Card,5397.81
+CUST189,October,Apparel,Credit Card,14239.35
+CUST443,June,Electronics,Debit Card,10979.83
+CUST263,October,Electronics,Net Banking,17123.52
+CUST001,July,Apparel,UPI,12777.92
+CUST176,May,Electronics,Debit Card,11922.47
+CUST308,October,Groceries,Debit Card,7528.56
+CUST280,August,Electronics,Net Banking,1873.32
+CUST311,August,Travel,Net Banking,8456.55
+CUST174,May,Entertainment,Credit Card,2156.77
+CUST190,August,Groceries,Net Banking,11326.58
+CUST142,June,Groceries,UPI,16813.36
+CUST161,July,Entertainment,UPI,7689.84
+CUST382,August,Electronics,Credit Card,12371.43
+CUST103,June,Apparel,Debit Card,5504.08
+CUST183,May,Electronics,Net Banking,8803.78
+CUST321,September,Apparel,Net Banking,9151.65
+CUST049,July,Groceries,UPI,17974.64
+CUST455,August,Entertainment,Net Banking,14915.62
+CUST307,August,Apparel,Debit Card,13329.92
+CUST464,August,Travel,Net Banking,2000.88
+CUST442,September,Travel,UPI,6758.63
+CUST129,June,Groceries,Credit Card,14419.16
+CUST127,May,Apparel,UPI,9432.94
+CUST383,June,Electronics,Debit Card,14916.23
+CUST283,October,Entertainment,Credit Card,8961.04
+CUST314,August,Groceries,Net Banking,16479.83
+CUST111,May,Entertainment,UPI,525.31
+CUST497,May,Entertainment,Debit Card,10227.23
+CUST019,July,Groceries,Net Banking,11880.66
+CUST278,June,Electronics,Net Banking,2061.57
+CUST489,May,Travel,Net Banking,19312.95
+CUST150,September,Entertainment,Debit Card,10407.37
+CUST453,August,Apparel,Credit Card,15605.71
+CUST369,October,Apparel,Net Banking,16613.81
+CUST345,July,Travel,Debit Card,14328.13
+CUST392,August,Apparel,Net Banking,9243.22
+CUST195,May,Travel,Net Banking,13011.65
+CUST122,September,Groceries,Debit Card,16707.59
+CUST413,May,Groceries,Net Banking,9488.72
+CUST342,August,Travel,Credit Card,7405.25
+CUST032,May,Travel,Credit Card,19737.57
+CUST461,July,Apparel,Net Banking,11580.82
+CUST423,August,Groceries,Net Banking,8300.54
+CUST302,October,Apparel,Net Banking,4558.22
+CUST164,July,Groceries,Debit Card,11529.26
+CUST362,June,Travel,UPI,9659.0
+CUST401,September,Groceries,Net Banking,10737.23
+CUST413,June,Entertainment,Credit Card,9803.37
+CUST147,October,Electronics,Net Banking,7723.66
+CUST386,June,Groceries,Debit Card,3390.24
+CUST272,May,Entertainment,Net Banking,18701.54
+CUST068,October,Groceries,Credit Card,2517.35
+CUST179,May,Groceries,Credit Card,894.55
+CUST437,July,Electronics,Net Banking,18400.12
+CUST457,August,Travel,Credit Card,8404.24
+CUST173,September,Apparel,Credit Card,13288.83
+CUST311,August,Electronics,Credit Card,5074.54
+CUST367,September,Electronics,Debit Card,11264.17
+CUST235,June,Apparel,Credit Card,15755.14
+CUST480,August,Entertainment,UPI,8003.4
+CUST250,May,Electronics,UPI,9575.28
+CUST219,August,Travel,Debit Card,3807.92
+CUST283,June,Electronics,Net Banking,19275.32
+CUST186,October,Entertainment,Net Banking,7042.44
+CUST238,June,Groceries,Credit Card,11506.07
+CUST088,May,Travel,Debit Card,12014.81
+CUST219,July,Travel,Debit Card,5947.32
+CUST370,September,Travel,UPI,11587.25
+CUST258,October,Electronics,Credit Card,2170.96
+CUST016,May,Groceries,Credit Card,16827.22
+CUST173,July,Groceries,Net Banking,4279.05
+CUST367,July,Apparel,UPI,17444.44
+CUST181,August,Entertainment,Debit Card,4895.95
+CUST491,September,Travel,Credit Card,12700.42
+CUST341,July,Apparel,UPI,17818.95
+CUST209,October,Travel,Debit Card,17931.83
+CUST086,June,Apparel,Debit Card,18858.07
+CUST421,August,Groceries,Net Banking,7178.75
+CUST482,October,Entertainment,Debit Card,10288.87
+CUST140,July,Travel,UPI,4333.51
+CUST024,September,Groceries,Net Banking,4336.67
+CUST361,July,Entertainment,Credit Card,1236.42
+CUST470,May,Groceries,Debit Card,2864.87
+CUST199,May,Apparel,Debit Card,5659.32
+CUST439,July,Apparel,Debit Card,3906.69
+CUST178,May,Apparel,Debit Card,3910.92
+CUST489,October,Travel,Debit Card,13253.38
+CUST141,June,Groceries,Credit Card,3817.96
+CUST290,June,Apparel,UPI,3344.97
+CUST098,June,Electronics,Debit Card,15187.47
+CUST212,July,Groceries,Net Banking,16813.27
+CUST156,September,Groceries,Credit Card,1394.03
+CUST178,June,Entertainment,Debit Card,15835.75
+CUST361,May,Electronics,Credit Card,13592.62
+CUST017,September,Electronics,Net Banking,4809.05
+CUST381,October,Electronics,Debit Card,3661.18
+CUST102,May,Groceries,Net Banking,3186.26
+CUST335,May,Travel,Net Banking,1708.46
+CUST233,August,Apparel,Debit Card,13962.01
+CUST093,July,Groceries,Debit Card,6473.57
+CUST214,June,Electronics,Credit Card,15380.14
+CUST346,October,Apparel,Debit Card,720.1
+CUST444,May,Travel,Debit Card,16590.67
+CUST280,August,Groceries,UPI,11607.76
+CUST251,May,Electronics,UPI,2187.28
+CUST347,July,Entertainment,Credit Card,12278.86
+CUST360,August,Groceries,UPI,13631.57
+CUST114,October,Entertainment,Debit Card,19600.51
+CUST209,August,Groceries,Credit Card,14281.13
+CUST081,October,Groceries,Net Banking,15479.15
+CUST216,July,Apparel,UPI,17041.76
+CUST058,July,Entertainment,Credit Card,2329.09
+CUST087,July,Apparel,UPI,7387.67
+CUST054,August,Apparel,Credit Card,3331.21
+CUST011,May,Apparel,UPI,19344.44
+CUST436,August,Electronics,Credit Card,9962.45
+CUST183,October,Travel,UPI,3767.36
+CUST127,July,Entertainment,Credit Card,6595.73
+CUST276,October,Electronics,Debit Card,11444.9
+CUST293,July,Groceries,UPI,11899.43
+CUST166,October,Groceries,Net Banking,12743.59
+CUST205,September,Apparel,Credit Card,15221.31
+CUST421,August,Groceries,UPI,7114.71
+CUST163,June,Electronics,Net Banking,5591.74
+CUST122,September,Electronics,Debit Card,5002.25
+CUST256,August,Electronics,Credit Card,15878.89
+CUST464,July,Travel,Debit Card,12305.7
+CUST031,September,Travel,Net Banking,15484.6
+CUST251,October,Apparel,Credit Card,15203.16
+CUST049,October,Groceries,Credit Card,19854.05
+CUST341,July,Apparel,Net Banking,1875.39
+CUST236,May,Electronics,Credit Card,17317.77
+CUST009,June,Groceries,Debit Card,19154.37
+CUST058,August,Entertainment,Net Banking,6247.91
+CUST194,July,Apparel,Net Banking,7366.28
+CUST339,June,Apparel,UPI,10768.89
+CUST206,June,Apparel,Net Banking,10955.93
+CUST176,June,Entertainment,Debit Card,4946.99
+CUST101,October,Entertainment,Debit Card,9908.9
+CUST139,July,Electronics,Credit Card,17923.8
+CUST081,June,Groceries,UPI,12020.49
+CUST071,May,Electronics,Credit Card,1162.9
+CUST324,July,Groceries,Credit Card,9396.5
+CUST096,June,Travel,Debit Card,1190.72
+CUST325,May,Groceries,Debit Card,14291.89
+CUST381,October,Entertainment,Net Banking,16360.81
+CUST213,October,Electronics,Debit Card,16028.45
+CUST044,September,Apparel,UPI,16778.72
+CUST117,August,Apparel,Debit Card,647.19
+CUST014,October,Electronics,Net Banking,16099.91
+CUST436,June,Entertainment,Credit Card,3030.89
+CUST260,July,Entertainment,Debit Card,12146.5
+CUST069,May,Apparel,Net Banking,10774.93
+CUST118,July,Entertainment,UPI,511.28
+CUST029,July,Travel,Net Banking,13459.83
+CUST436,October,Travel,UPI,11491.21
+CUST179,August,Groceries,UPI,18919.57
+CUST081,May,Apparel,Credit Card,10573.58
+CUST276,October,Apparel,Net Banking,18268.15
+CUST207,October,Travel,UPI,14253.81
+CUST453,June,Electronics,UPI,7426.1
+CUST433,September,Groceries,Net Banking,8692.74
+CUST018,May,Electronics,Net Banking,7717.89
+CUST432,May,Entertainment,Debit Card,3478.9
+CUST496,September,Groceries,UPI,7240.97
+CUST007,July,Entertainment,UPI,15785.57
+CUST017,October,Travel,Credit Card,10050.82
+CUST247,August,Travel,Debit Card,4854.58
+CUST057,August,Travel,Credit Card,10906.76
+CUST298,October,Groceries,Debit Card,9256.94
+CUST375,October,Electronics,Debit Card,16008.48
+CUST432,July,Apparel,Net Banking,17528.69
+CUST311,August,Travel,Net Banking,7666.33
+CUST427,September,Apparel,Debit Card,4639.44
+CUST252,September,Travel,Debit Card,5271.81
+CUST289,June,Electronics,Debit Card,14238.57
+CUST209,June,Travel,Credit Card,12133.89
+CUST278,October,Electronics,Net Banking,9796.96
+CUST078,June,Groceries,Credit Card,5249.01
+CUST093,July,Entertainment,Credit Card,16506.48
+CUST383,September,Entertainment,Credit Card,8322.62
+CUST001,May,Travel,Debit Card,11979.81
+CUST120,October,Entertainment,UPI,13813.07
+CUST264,July,Groceries,Debit Card,2069.29
+CUST175,June,Groceries,Net Banking,6159.64
+CUST278,May,Apparel,Net Banking,13291.27
+CUST088,September,Electronics,Debit Card,12536.09
+CUST272,October,Travel,UPI,15579.91
+CUST021,September,Entertainment,UPI,9729.35
+CUST451,July,Apparel,UPI,3876.47
+CUST389,July,Travel,Credit Card,10170.29
+CUST474,June,Electronics,Debit Card,5146.87
+CUST406,August,Travel,UPI,9632.16
+CUST394,September,Travel,Debit Card,11098.84
+CUST177,September,Entertainment,Debit Card,18048.91
+CUST112,May,Groceries,UPI,2399.57
+CUST241,August,Travel,UPI,3837.17
+CUST074,October,Electronics,Net Banking,16067.82
+CUST464,October,Electronics,Credit Card,6253.45
+CUST010,September,Groceries,Credit Card,4560.24
+CUST123,August,Apparel,UPI,9404.78
+CUST279,October,Groceries,Net Banking,18381.67
+CUST447,May,Electronics,Debit Card,1767.67
+CUST341,May,Electronics,Net Banking,4487.93
+CUST012,May,Entertainment,Net Banking,11019.64
+CUST215,September,Groceries,UPI,13324.02
+CUST283,October,Apparel,UPI,6621.39
+CUST057,October,Travel,Net Banking,11495.6
+CUST238,August,Electronics,Credit Card,11144.76
+CUST420,June,Travel,UPI,13414.1
+CUST006,August,Apparel,Debit Card,8143.88
+CUST470,May,Apparel,Net Banking,17414.87
+CUST410,July,Entertainment,Net Banking,9995.97
+CUST298,August,Entertainment,Debit Card,7274.99
+CUST061,June,Groceries,Debit Card,16736.99
+CUST384,June,Groceries,UPI,5524.85
+CUST356,June,Apparel,Net Banking,11316.53
+CUST497,July,Travel,Debit Card,18028.37
+CUST274,October,Groceries,UPI,6681.68
+CUST375,May,Entertainment,Net Banking,12228.36
+CUST425,May,Groceries,Debit Card,4593.0
+CUST056,August,Entertainment,Credit Card,17383.14
+CUST337,August,Apparel,Credit Card,19075.84
+CUST016,June,Groceries,UPI,4602.53
+CUST114,August,Travel,Debit Card,3578.29
+CUST345,August,Electronics,Net Banking,19741.19
+CUST066,June,Electronics,Debit Card,1728.81
+CUST336,June,Apparel,Debit Card,18563.82
+CUST423,July,Groceries,UPI,18113.37
+CUST167,September,Apparel,UPI,9018.87
+CUST447,October,Electronics,Debit Card,14203.24
+CUST266,June,Electronics,Debit Card,14195.99
+CUST206,August,Groceries,Net Banking,18724.64
+CUST148,June,Apparel,UPI,13015.22
+CUST296,October,Travel,Net Banking,1016.7
+CUST389,October,Groceries,Debit Card,3238.05
+CUST499,August,Apparel,Credit Card,964.09
+CUST379,September,Travel,Net Banking,9228.07
+CUST405,June,Apparel,Debit Card,6438.99
+CUST388,August,Entertainment,Credit Card,6273.18
+CUST470,August,Entertainment,UPI,13774.44
+CUST118,July,Electronics,Debit Card,11648.78
+CUST086,September,Entertainment,Debit Card,10138.25
+CUST298,May,Entertainment,Credit Card,8523.54
+CUST275,July,Travel,Net Banking,752.74
+CUST241,June,Electronics,Net Banking,18548.68
+CUST290,July,Groceries,Net Banking,11882.7
+CUST207,May,Electronics,Net Banking,17653.54
+CUST410,June,Apparel,Credit Card,755.31
+CUST130,June,Entertainment,Debit Card,14599.66
+CUST401,August,Groceries,Debit Card,9169.26
+CUST137,June,Groceries,Credit Card,19424.34
+CUST209,October,Entertainment,Debit Card,18452.98
+CUST229,September,Electronics,Net Banking,12557.76
+CUST360,July,Travel,Credit Card,2589.77
+CUST359,October,Apparel,Debit Card,3605.16
+CUST375,August,Travel,UPI,18917.59
+CUST008,October,Travel,Debit Card,15995.55
+CUST468,June,Entertainment,Net Banking,17955.29
+CUST029,October,Apparel,Debit Card,1695.54
+CUST409,August,Groceries,UPI,3531.49
+CUST149,August,Entertainment,UPI,3048.83
+CUST406,July,Apparel,Debit Card,2425.49
+CUST334,September,Groceries,Net Banking,11325.55
+CUST021,May,Apparel,Net Banking,8647.55
+CUST102,August,Apparel,Debit Card,14794.94
+CUST260,May,Entertainment,Credit Card,5476.94
+CUST395,September,Entertainment,Net Banking,14899.72
+CUST151,August,Entertainment,Net Banking,7882.92
+CUST420,August,Travel,Debit Card,2792.73
+CUST281,May,Travel,Debit Card,16253.69
+CUST344,July,Entertainment,Net Banking,15006.57
+CUST265,May,Electronics,Net Banking,7286.56
+CUST438,July,Groceries,Debit Card,3512.08
+CUST123,June,Apparel,Credit Card,2749.46
+CUST157,May,Travel,Net Banking,18632.5
+CUST410,August,Travel,Debit Card,15025.93
+CUST306,May,Apparel,Debit Card,8036.61
+CUST333,October,Travel,Credit Card,3725.08
+CUST219,June,Groceries,Debit Card,1487.12
+CUST164,September,Groceries,Net Banking,5742.81
+CUST245,June,Electronics,Credit Card,12137.49
+CUST113,May,Apparel,Debit Card,1753.14
+CUST277,May,Entertainment,Net Banking,11381.96
+CUST408,September,Entertainment,Credit Card,4970.74
+CUST115,July,Entertainment,Net Banking,3252.82
+CUST010,September,Entertainment,Debit Card,3577.26
+CUST372,May,Entertainment,Credit Card,12390.92
+CUST042,May,Electronics,UPI,7213.17
+CUST259,October,Entertainment,UPI,12627.15
+CUST333,June,Entertainment,UPI,4349.48
+CUST261,August,Electronics,Net Banking,5302.57
+CUST066,July,Travel,Net Banking,19479.02
+CUST253,July,Apparel,Credit Card,6124.1
+CUST058,September,Travel,UPI,2079.86
+CUST126,September,Electronics,Net Banking,11616.18
+CUST487,October,Electronics,UPI,14338.14
+CUST491,June,Entertainment,UPI,16881.0
+CUST172,September,Travel,Credit Card,5527.17
+CUST420,May,Electronics,Debit Card,4176.21
+CUST110,August,Electronics,UPI,19126.17
+CUST051,October,Groceries,Credit Card,17487.17
+CUST003,October,Apparel,Debit Card,6117.64
+CUST459,October,Groceries,Debit Card,19634.5
+CUST235,August,Groceries,Debit Card,18897.57
+CUST363,September,Travel,Debit Card,18132.15
+CUST330,July,Travel,UPI,14570.24
+CUST416,August,Groceries,Credit Card,12375.39
+CUST303,August,Electronics,Debit Card,19075.64
+CUST086,October,Apparel,Debit Card,16142.88
+CUST145,June,Groceries,Credit Card,2368.38
+CUST470,June,Travel,Debit Card,17975.3
+CUST044,June,Apparel,Credit Card,5462.21
+CUST156,October,Travel,Net Banking,18457.5
+CUST482,September,Travel,Net Banking,1281.11
+CUST498,June,Entertainment,Net Banking,9412.08
+CUST304,September,Travel,Credit Card,17765.28
+CUST133,May,Travel,UPI,19801.75
+CUST038,September,Entertainment,Credit Card,17377.15
+CUST211,October,Apparel,Credit Card,10653.7
+CUST336,July,Apparel,Debit Card,18361.76
+CUST045,September,Apparel,Credit Card,789.02
+CUST125,June,Apparel,Net Banking,13827.27
+CUST041,July,Groceries,Credit Card,7720.64
+CUST311,October,Apparel,Debit Card,12312.51
+CUST319,June,Groceries,Net Banking,1715.99
+CUST370,September,Entertainment,Net Banking,14243.86
+CUST252,August,Electronics,Net Banking,10935.77
+CUST272,May,Electronics,Debit Card,4087.9
+CUST441,August,Travel,Debit Card,6151.62
+CUST433,June,Groceries,Net Banking,14967.62
+CUST304,August,Entertainment,Net Banking,12120.57
+CUST274,September,Apparel,Debit Card,15712.37
+CUST149,June,Electronics,Credit Card,6787.51
+CUST389,October,Travel,Net Banking,18981.92
+CUST226,August,Entertainment,Credit Card,7888.77
+CUST019,October,Electronics,Debit Card,9297.58
+CUST406,July,Travel,Debit Card,10985.4
+CUST292,September,Electronics,Debit Card,10582.25
+CUST454,August,Electronics,UPI,11357.82
+CUST048,October,Entertainment,UPI,7109.33
+CUST264,October,Travel,Net Banking,8997.18
+CUST306,August,Electronics,Net Banking,12058.87
+CUST384,July,Groceries,Net Banking,10699.11
+CUST220,June,Entertainment,UPI,5689.84
+CUST198,May,Apparel,Debit Card,853.27
+CUST376,September,Groceries,UPI,9700.65
+CUST065,September,Entertainment,Debit Card,9818.99
+CUST327,October,Entertainment,Debit Card,11083.31
+CUST119,May,Groceries,UPI,11246.16
+CUST480,September,Electronics,Debit Card,2880.63
+CUST365,August,Electronics,Credit Card,5001.02
+CUST136,October,Groceries,Net Banking,10081.18
+CUST304,August,Apparel,Debit Card,9447.38
+CUST033,May,Groceries,UPI,18121.62
+CUST474,September,Electronics,Credit Card,15245.67
+CUST282,August,Travel,Debit Card,14205.37
+CUST037,July,Groceries,UPI,16165.42
+CUST116,September,Entertainment,Credit Card,4490.23
+CUST327,September,Groceries,UPI,19660.8
+CUST129,August,Travel,UPI,11490.51
+CUST343,July,Travel,UPI,17871.26
+CUST031,September,Entertainment,Debit Card,9791.53
+CUST388,May,Travel,Credit Card,7709.23
+CUST141,July,Electronics,UPI,17933.75

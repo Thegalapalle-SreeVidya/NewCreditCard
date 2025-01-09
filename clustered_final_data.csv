@@ -1,0 +1,361 @@
+age_group,city,occupation,gender,marital_status,avg_income,avg_spend_per_month,avg_credit_card_spend_per_month,income_utilization_perc,credit_card_spends_perc,cluster
+25-34,Delhi-NCR,Business Owners,Female,married,39749,14634.0,2090.0,36.82,14.28,1
+45+,Chennai,Salaried IT Employees,Female,single,118912,24398.0,8262.0,20.52,33.86,4
+35-45,Hyderabad,Business Owners,Female,married,143413,17393.0,4649.0,12.13,26.73,4
+45+,Hyderabad,Business Owners,Female,single,113072,15855.0,5267.0,14.02,33.22,4
+45+,Chennai,Freelancers,Male,single,125954,25497.0,6107.0,20.24,23.95,4
+35-45,Delhi-NCR,Salaried IT Employees,Female,married,101894,22246.0,30215.0,21.83,135.82,2
+45+,Delhi-NCR,Government Employees,Male,single,26710,20605.0,16136.0,77.14,78.31,0
+25-34,Chennai,Business Owners,Female,married,61731,20933.0,10543.0,33.91,50.37,1
+45+,Chennai,Freelancers,Male,married,108092,36744.0,22288.0,33.99,60.66,0
+45+,Delhi-NCR,Government Employees,Male,married,93866,30398.0,12429.0,32.38,40.89,4
+45+,Hyderabad,Salaried IT Employees,Female,single,146537,29837.0,10942.0,20.36,36.67,4
+21-24,Chennai,Salaried Other Employees,Male,single,111645,21104.0,12628.0,18.9,59.84,0
+35-45,Chennai,Salaried Other Employees,Female,married,113121,21442.0,4164.0,18.95,19.42,1
+21-24,Bengaluru,Business Owners,Female,single,64473,27617.0,16303.0,42.83,59.03,0
+35-45,Chennai,Freelancers,Female,single,44455,19670.0,24867.0,44.25,126.42,2
+25-34,Mumbai,Freelancers,Male,single,106264,23388.0,14120.0,22.01,60.37,4
+21-24,Mumbai,Salaried Other Employees,Male,single,138266,18187.0,15311.0,13.15,84.19,1
+45+,Chennai,Freelancers,Female,married,67896,14988.0,23949.0,22.07,159.79,2
+45+,Bengaluru,Government Employees,Female,married,69516,11035.0,8943.0,15.87,81.04,1
+45+,Delhi-NCR,Salaried IT Employees,Female,married,70760,37111.0,28450.0,52.45,76.66,0
+45+,Bengaluru,Government Employees,Male,single,141798,23298.0,14756.0,16.43,63.34,4
+25-34,Mumbai,Government Employees,Female,single,91842,23449.0,10256.0,25.53,43.74,4
+25-34,Delhi-NCR,Salaried IT Employees,Male,single,61850,14948.0,7594.0,24.17,50.8,1
+25-34,Mumbai,Salaried IT Employees,Male,married,119978,18396.0,3945.0,15.33,21.44,1
+45+,Chennai,Business Owners,Male,single,132070,18031.0,2867.0,13.65,15.9,4
+21-24,Mumbai,Business Owners,Male,married,81364,12813.0,12547.0,15.75,97.92,1
+21-24,Chennai,Government Employees,Female,married,97950,25932.0,33490.0,26.47,129.15,2
+45+,Delhi-NCR,Freelancers,Male,married,104955,27411.0,12367.0,26.12,45.12,4
+35-45,Mumbai,Freelancers,Male,married,92446,18472.0,15008.0,19.98,81.25,4
+21-24,Bengaluru,Government Employees,Female,married,115525,27357.0,12530.0,23.68,45.8,1
+21-24,Bengaluru,Business Owners,Male,single,71595,22596.0,14398.0,31.56,63.72,0
+25-34,Chennai,Business Owners,Male,married,62301,18497.0,5867.0,29.69,31.72,0
+45+,Mumbai,Salaried Other Employees,Female,married,121440,17833.0,7931.0,14.68,44.47,4
+45+,Hyderabad,Salaried IT Employees,Male,single,119724,13884.0,14536.0,11.6,104.7,3
+25-34,Hyderabad,Freelancers,Female,single,115913,15437.0,3311.0,13.32,21.45,4
+35-45,Hyderabad,Freelancers,Male,single,132315,20319.0,10601.0,15.36,52.17,4
+21-24,Chennai,Salaried Other Employees,Female,married,133651,22040.0,11094.0,16.49,50.34,1
+45+,Bengaluru,Business Owners,Female,single,97093,22114.0,12157.0,22.78,54.97,3
+45+,Delhi-NCR,Freelancers,Male,single,132376,16338.0,8302.0,12.34,50.81,4
+35-45,Chennai,Salaried Other Employees,Male,married,41692,21739.0,12152.0,52.14,55.9,0
+25-34,Hyderabad,Business Owners,Male,single,29068,9462.0,12626.0,32.55,133.44,0
+25-34,Hyderabad,Freelancers,Female,single,104541,22973.0,33198.0,21.98,144.51,2
+45+,Bengaluru,Government Employees,Female,single,71309,23778.0,8054.0,33.35,33.87,0
+25-34,Delhi-NCR,Salaried Other Employees,Female,married,119202,31748.0,19854.0,26.63,62.54,0
+45+,Delhi-NCR,Business Owners,Male,single,56419,20417.0,9885.0,36.19,48.42,4
+25-34,Delhi-NCR,Government Employees,Female,married,84382,24528.0,18737.0,29.07,76.39,0
+45+,Bengaluru,Business Owners,Male,single,145246,19822.0,14835.0,13.65,74.84,4
+35-45,Mumbai,Freelancers,Female,married,82590,19790.0,12068.0,23.96,60.98,4
+25-34,Bengaluru,Business Owners,Female,married,99617,22941.0,10057.0,23.03,43.84,1
+45+,Mumbai,Government Employees,Female,married,33409,16525.0,22329.0,49.46,135.12,2
+25-34,Chennai,Salaried IT Employees,Female,single,51505,26636.0,14297.0,51.72,53.68,0
+25-34,Mumbai,Business Owners,Female,single,125580,19855.0,13356.0,15.81,67.27,4
+21-24,Delhi-NCR,Salaried IT Employees,Male,married,72636,29401.0,13677.0,40.48,46.52,0
+45+,Hyderabad,Freelancers,Female,single,76008,19131.0,19473.0,25.17,101.79,3
+25-34,Hyderabad,Salaried IT Employees,Male,single,25504,14813.0,3329.0,58.08,22.47,0
+45+,Mumbai,Business Owners,Male,single,142370,26918.0,15340.0,18.91,56.99,4
+35-45,Mumbai,Business Owners,Female,single,144578,18848.0,11782.0,13.04,62.51,4
+21-24,Delhi-NCR,Freelancers,Female,married,76658,31183.0,18588.0,40.68,59.61,0
+25-34,Mumbai,Freelancers,Female,single,147256,30102.0,7609.0,20.44,25.28,4
+45+,Bengaluru,Business Owners,Male,single,148096,35110.0,12158.0,23.71,34.63,4
+45+,Mumbai,Freelancers,Male,single,31702,21716.0,16709.0,68.5,76.94,0
+45+,Chennai,Salaried IT Employees,Male,married,54732,23718.0,11430.0,43.33,48.19,0
+21-24,Hyderabad,Business Owners,Female,single,31855,28082.0,12210.0,88.16,43.48,0
+35-45,Delhi-NCR,Salaried Other Employees,Male,single,34232,13751.0,6814.0,40.17,49.55,1
+45+,Mumbai,Salaried IT Employees,Female,single,130631,20021.0,4982.0,15.33,24.88,4
+45+,Chennai,Government Employees,Male,single,81930,26892.0,17059.0,32.82,63.44,0
+45+,Bengaluru,Government Employees,Male,married,33470,19977.0,9815.0,59.69,49.13,0
+25-34,Bengaluru,Business Owners,Male,married,129508,26374.0,19532.0,20.36,74.06,4
+21-24,Bengaluru,Business Owners,Female,single,124047,12794.0,6966.0,10.31,54.45,3
+45+,Hyderabad,Salaried IT Employees,Female,single,43230,24291.0,18843.0,56.19,77.57,0
+21-24,Bengaluru,Freelancers,Female,single,81851,11960.0,9718.0,14.61,81.25,3
+35-45,Hyderabad,Freelancers,Male,single,121122,14610.0,19195.0,12.06,131.38,3
+25-34,Bengaluru,Business Owners,Female,single,115877,22034.0,14780.0,19.01,67.08,3
+45+,Delhi-NCR,Business Owners,Female,married,70462,14194.0,12762.0,20.14,89.91,3
+45+,Hyderabad,Freelancers,Female,married,115545,18766.0,8917.0,16.24,47.52,4
+25-34,Delhi-NCR,Freelancers,Female,single,32051,17479.0,8460.0,54.53,48.4,0
+45+,Mumbai,Government Employees,Female,married,39073,11966.0,15372.0,30.62,128.46,2
+25-34,Bengaluru,Freelancers,Female,married,69454,18345.0,9803.0,26.41,53.44,1
+21-24,Delhi-NCR,Government Employees,Male,single,126699,15295.0,9157.0,12.07,59.87,1
+45+,Mumbai,Salaried IT Employees,Male,single,62765,19294.0,14903.0,30.74,77.24,4
+45+,Chennai,Business Owners,Female,single,45719,12223.0,8632.0,26.74,70.62,3
+45+,Hyderabad,Salaried IT Employees,Female,single,117402,11034.0,3707.0,9.4,33.6,4
+45+,Mumbai,Freelancers,Male,married,123622,27292.0,11431.0,22.08,41.88,4
+45+,Chennai,Salaried Other Employees,Male,married,127786,21362.0,11122.0,16.72,52.06,4
+21-24,Delhi-NCR,Freelancers,Male,single,29535,23435.0,14296.0,79.35,61.0,0
+25-34,Bengaluru,Salaried IT Employees,Male,single,75062,9127.0,1001.0,12.16,10.97,1
+45+,Bengaluru,Salaried IT Employees,Female,married,20218,19441.0,15889.0,96.16,81.73,0
+45+,Hyderabad,Government Employees,Female,married,40823,22651.0,9459.0,55.49,41.76,0
+35-45,Hyderabad,Business Owners,Male,married,38838,18609.0,26591.0,47.91,142.89,2
+35-45,Bengaluru,Salaried Other Employees,Female,married,29807,13876.0,12047.0,46.55,86.82,0
+21-24,Hyderabad,Government Employees,Male,single,54502,23181.0,13965.0,42.53,60.24,0
+25-34,Chennai,Business Owners,Female,married,128746,30487.0,18627.0,23.68,61.1,0
+35-45,Chennai,Freelancers,Male,married,99911,13670.0,15366.0,13.68,112.41,3
+35-45,Delhi-NCR,Salaried Other Employees,Male,single,77118,15420.0,17380.0,20.0,112.71,3
+45+,Bengaluru,Government Employees,Female,single,70696,7830.0,10431.0,11.08,133.22,3
+25-34,Mumbai,Freelancers,Female,single,23204,30139.0,13243.0,129.89,43.94,0
+21-24,Mumbai,Business Owners,Female,married,108073,18732.0,2078.0,17.33,11.09,4
+21-24,Mumbai,Government Employees,Female,married,102027,14962.0,8615.0,14.66,57.58,1
+45+,Mumbai,Freelancers,Female,single,46404,12356.0,2355.0,26.63,19.06,0
+45+,Hyderabad,Salaried IT Employees,Female,single,146133,16556.0,27103.0,11.33,163.71,2
+21-24,Bengaluru,Salaried Other Employees,Male,married,74602,25163.0,21456.0,33.73,85.27,0
+35-45,Mumbai,Government Employees,Female,married,141612,17022.0,13261.0,12.02,77.91,4
+45+,Hyderabad,Salaried Other Employees,Female,married,109191,20470.0,7023.0,18.75,34.31,4
+35-45,Hyderabad,Salaried Other Employees,Male,married,103139,10471.0,4490.0,10.15,42.88,1
+35-45,Hyderabad,Freelancers,Female,married,57145,16034.0,7057.0,28.06,44.01,0
+25-34,Chennai,Freelancers,Female,single,54471,29767.0,19608.0,54.65,65.87,0
+25-34,Chennai,Salaried IT Employees,Female,single,37643,30466.0,11947.0,80.93,39.21,0
+21-24,Delhi-NCR,Freelancers,Male,single,141739,15900.0,9539.0,11.22,59.99,1
+45+,Mumbai,Business Owners,Female,married,110672,20769.0,5048.0,18.77,24.31,4
+35-45,Bengaluru,Government Employees,Female,single,82511,26429.0,7736.0,32.03,29.27,0
+35-45,Chennai,Salaried IT Employees,Female,married,97089,15185.0,12909.0,15.64,85.01,1
+35-45,Chennai,Government Employees,Male,married,143257,28059.0,11184.0,19.59,39.86,4
+21-24,Delhi-NCR,Salaried Other Employees,Male,single,147071,20843.0,18575.0,14.17,89.12,1
+35-45,Chennai,Government Employees,Male,married,70892,27343.0,9634.0,38.57,35.23,0
+35-45,Hyderabad,Salaried IT Employees,Female,single,90385,18698.0,14419.0,20.69,77.12,4
+25-34,Chennai,Freelancers,Male,single,63993,16273.0,16611.0,25.43,102.08,3
+45+,Bengaluru,Government Employees,Male,single,126585,34719.0,16730.0,27.43,48.19,4
+21-24,Mumbai,Freelancers,Male,single,97623,17847.0,11402.0,18.28,63.89,1
+35-45,Delhi-NCR,Freelancers,Male,single,133100,20917.0,13107.0,15.72,62.66,4
+25-34,Mumbai,Business Owners,Male,married,34478,26069.0,12053.0,75.61,46.23,0
+25-34,Chennai,Business Owners,Female,single,45260,20429.0,17470.0,45.14,85.52,0
+45+,Mumbai,Salaried IT Employees,Male,married,117384,21102.0,11447.0,17.98,54.25,4
+25-34,Hyderabad,Salaried Other Employees,Female,married,106375,15680.0,17437.0,14.74,111.21,2
+21-24,Hyderabad,Government Employees,Female,single,95678,23287.0,24578.0,24.34,105.54,2
+35-45,Chennai,Government Employees,Male,married,138395,23122.0,11788.0,16.71,50.98,4
+35-45,Bengaluru,Government Employees,Male,single,65841,26100.0,12552.0,39.64,48.09,0
+35-45,Mumbai,Freelancers,Male,single,27537,19114.0,17209.0,69.41,90.03,0
+25-34,Bengaluru,Government Employees,Male,married,111767,22447.0,10450.0,20.08,46.55,4
+35-45,Delhi-NCR,Freelancers,Female,married,70883,9848.0,4314.0,13.89,43.81,1
+35-45,Chennai,Business Owners,Female,single,42658,15372.0,9706.0,36.04,63.14,3
+25-34,Bengaluru,Salaried Other Employees,Male,single,80843,20586.0,17349.0,25.46,84.28,0
+25-34,Mumbai,Salaried Other Employees,Female,married,116730,21715.0,13872.0,18.6,63.88,1
+25-34,Mumbai,Freelancers,Female,single,42099,27844.0,13326.0,66.14,47.86,0
+45+,Mumbai,Government Employees,Female,single,21866,26282.0,13754.0,120.2,52.33,0
+25-34,Delhi-NCR,Freelancers,Female,single,63310,29403.0,9435.0,46.44,32.09,0
+21-24,Delhi-NCR,Business Owners,Female,single,36189,20900.0,13493.0,57.75,64.56,0
+25-34,Delhi-NCR,Business Owners,Female,married,75086,18234.0,19930.0,24.28,109.3,2
+25-34,Delhi-NCR,Salaried Other Employees,Male,single,112454,15037.0,11100.0,13.37,73.82,1
+45+,Chennai,Government Employees,Female,married,49704,23816.0,17035.0,47.92,71.53,0
+35-45,Bengaluru,Government Employees,Female,married,99663,17916.0,15918.0,17.98,88.85,1
+25-34,Chennai,Business Owners,Male,single,87512,15185.0,18745.0,17.35,123.44,3
+35-45,Hyderabad,Salaried IT Employees,Female,married,71494,27932.0,14042.0,39.07,50.27,0
+45+,Chennai,Business Owners,Male,married,90408,16623.0,12724.0,18.39,76.54,3
+45+,Hyderabad,Freelancers,Female,single,35817,9257.0,3621.0,25.85,39.12,0
+35-45,Chennai,Salaried Other Employees,Female,married,136232,13693.0,4011.0,10.05,29.29,1
+25-34,Chennai,Salaried Other Employees,Female,single,76974,17410.0,8750.0,22.62,50.26,1
+21-24,Mumbai,Salaried Other Employees,Male,married,56681,13137.0,9602.0,23.18,73.09,1
+35-45,Delhi-NCR,Business Owners,Female,married,65776,9385.0,2844.0,14.27,30.3,1
+21-24,Bengaluru,Freelancers,Male,married,123473,10792.0,10224.0,8.74,94.74,3
+21-24,Bengaluru,Salaried Other Employees,Female,married,124525,21316.0,7790.0,17.12,36.55,1
+25-34,Mumbai,Government Employees,Female,married,117997,15334.0,5556.0,13.0,36.23,1
+25-34,Hyderabad,Government Employees,Male,single,41711,38925.0,16449.0,93.32,42.26,0
+45+,Mumbai,Salaried IT Employees,Female,married,120285,23313.0,12744.0,19.38,54.66,4
+45+,Chennai,Freelancers,Female,single,27820,22429.0,5045.0,80.62,22.49,0
+21-24,Bengaluru,Salaried IT Employees,Female,single,108775,17018.0,9602.0,15.65,56.42,3
+21-24,Delhi-NCR,Salaried Other Employees,Male,single,38372,17463.0,10855.0,45.51,62.16,0
+35-45,Hyderabad,Government Employees,Male,married,51452,17940.0,2138.0,34.87,11.92,4
+25-34,Bengaluru,Freelancers,Male,married,75651,19117.0,11583.0,25.27,60.59,4
+25-34,Delhi-NCR,Business Owners,Male,married,130235,29310.0,4812.0,22.51,16.42,4
+45+,Hyderabad,Salaried IT Employees,Male,single,95737,16563.0,16729.0,17.3,101.0,3
+21-24,Chennai,Salaried Other Employees,Male,married,22971,27314.0,7717.0,118.91,28.25,0
+45+,Mumbai,Business Owners,Male,married,42103,9213.0,3456.0,21.88,37.51,0
+45+,Bengaluru,Business Owners,Female,single,100829,15010.0,9511.0,14.89,63.36,3
+35-45,Chennai,Government Employees,Female,single,84566,17047.0,12060.0,20.16,70.75,3
+45+,Chennai,Government Employees,Female,single,91150,14464.0,11534.0,15.87,79.74,3
+21-24,Bengaluru,Government Employees,Female,single,85229,16814.0,17409.0,19.73,103.54,3
+21-24,Hyderabad,Business Owners,Male,married,75947,10658.0,2560.0,14.03,24.02,3
+45+,Delhi-NCR,Business Owners,Male,married,83858,20854.0,33021.0,24.87,158.34,2
+35-45,Bengaluru,Salaried IT Employees,Female,married,88702,24912.0,2617.0,28.09,10.5,1
+35-45,Bengaluru,Freelancers,Female,single,67585,19668.0,10971.0,29.1,55.78,3
+21-24,Chennai,Salaried Other Employees,Female,married,87787,16628.0,2604.0,18.94,15.66,1
+21-24,Chennai,Salaried IT Employees,Male,married,148033,16116.0,9360.0,10.89,58.08,1
+45+,Mumbai,Business Owners,Male,single,134415,17188.0,7403.0,12.79,43.07,4
+35-45,Bengaluru,Freelancers,Male,married,127348,23180.0,16613.0,18.2,71.67,4
+25-34,Chennai,Business Owners,Male,single,101536,6881.0,4850.0,6.78,70.48,3
+25-34,Mumbai,Freelancers,Male,single,33850,19115.0,3826.0,56.47,20.02,0
+21-24,Delhi-NCR,Salaried Other Employees,Female,married,115145,17020.0,14538.0,14.78,85.42,1
+21-24,Hyderabad,Salaried IT Employees,Female,single,115385,21211.0,19177.0,18.38,90.41,2
+25-34,Bengaluru,Salaried IT Employees,Female,single,23689,11891.0,10508.0,50.2,88.37,0
+45+,Delhi-NCR,Freelancers,Male,single,43917,20444.0,17185.0,46.55,84.06,0
+21-24,Delhi-NCR,Salaried Other Employees,Male,married,35599,12527.0,18683.0,35.19,149.14,0
+45+,Mumbai,Salaried Other Employees,Female,single,79309,21488.0,11069.0,27.09,51.51,4
+35-45,Mumbai,Business Owners,Male,single,72448,12063.0,14266.0,16.65,118.26,0
+35-45,Bengaluru,Business Owners,Female,married,123084,17803.0,13208.0,14.46,74.19,1
+35-45,Chennai,Salaried IT Employees,Female,married,57170,18698.0,5359.0,32.71,28.66,1
+25-34,Mumbai,Government Employees,Female,single,91591,12009.0,10654.0,13.11,88.72,3
+45+,Chennai,Salaried IT Employees,Male,married,73500,21788.0,8580.0,29.64,39.38,0
+35-45,Mumbai,Freelancers,Male,married,105276,22037.0,8510.0,20.93,38.62,4
+21-24,Bengaluru,Salaried IT Employees,Female,single,81926,9432.0,10607.0,11.51,112.46,3
+45+,Hyderabad,Salaried Other Employees,Female,single,50212,12960.0,7566.0,25.81,58.38,0
+21-24,Delhi-NCR,Salaried IT Employees,Female,single,52947,12189.0,7110.0,23.02,58.33,1
+45+,Delhi-NCR,Government Employees,Female,married,121857,16779.0,16779.0,13.77,100.0,2
+45+,Mumbai,Government Employees,Male,single,117071,12898.0,9163.0,11.02,71.04,4
+35-45,Mumbai,Business Owners,Female,single,46047,15350.0,7889.0,33.34,51.39,0
+35-45,Chennai,Salaried Other Employees,Male,married,112618,10594.0,4040.0,9.41,38.13,1
+25-34,Bengaluru,Government Employees,Male,single,21689,15907.0,14372.0,73.34,90.35,0
+25-34,Delhi-NCR,Salaried IT Employees,Male,single,34289,12366.0,13368.0,36.06,108.1,0
+25-34,Chennai,Salaried Other Employees,Female,single,45432,19287.0,11286.0,42.45,58.52,0
+21-24,Hyderabad,Government Employees,Male,married,136462,13842.0,16962.0,10.14,122.54,1
+35-45,Delhi-NCR,Salaried IT Employees,Female,single,71908,17326.0,15755.0,24.09,90.93,2
+45+,Bengaluru,Government Employees,Male,single,138655,15960.0,15960.0,11.51,100.0,4
+35-45,Mumbai,Freelancers,Male,married,36239,9608.0,10061.0,26.51,104.71,3
+25-34,Delhi-NCR,Government Employees,Male,married,107266,17770.0,11944.0,16.57,67.21,1
+45+,Delhi-NCR,Salaried Other Employees,Male,married,108838,9311.0,9282.0,8.55,99.69,1
+21-24,Chennai,Salaried Other Employees,Male,married,105165,18680.0,10945.0,17.76,58.59,1
+25-34,Mumbai,Business Owners,Female,married,118690,10956.0,8074.0,9.23,73.69,1
+45+,Mumbai,Salaried IT Employees,Female,single,21756,16660.0,9003.0,76.58,54.04,0
+35-45,Mumbai,Salaried Other Employees,Female,married,50324,12739.0,5630.0,25.31,44.19,1
+35-45,Hyderabad,Salaried IT Employees,Male,married,97815,13347.0,8367.0,13.65,62.69,1
+25-34,Delhi-NCR,Government Employees,Male,single,72219,9096.0,4835.0,12.6,53.16,1
+35-45,Hyderabad,Business Owners,Male,single,24148,10549.0,6124.0,43.68,58.05,0
+45+,Delhi-NCR,Salaried IT Employees,Female,married,128451,21887.0,33565.0,17.04,153.36,2
+25-34,Hyderabad,Salaried Other Employees,Male,single,21040,15392.0,15414.0,73.16,100.14,0
+21-24,Mumbai,Freelancers,Female,single,40524,26593.0,15879.0,65.62,59.71,0
+35-45,Bengaluru,Freelancers,Male,single,145555,10799.0,6961.0,7.42,64.46,3
+45+,Bengaluru,Salaried IT Employees,Male,married,111671,24689.0,6036.0,22.11,24.45,4
+25-34,Mumbai,Salaried Other Employees,Female,married,57782,7684.0,3907.0,13.3,50.85,1
+35-45,Chennai,Freelancers,Male,married,63370,14170.0,18384.0,22.36,129.74,3
+25-34,Chennai,Freelancers,Male,married,90163,11911.0,8818.0,13.21,74.03,3
+35-45,Chennai,Government Employees,Male,single,140646,16400.0,15305.0,11.66,93.32,4
+25-34,Chennai,Salaried Other Employees,Male,single,33037,16727.0,9661.0,50.63,57.76,0
+25-34,Mumbai,Government Employees,Female,single,100893,18469.0,9402.0,18.31,50.91,4
+35-45,Hyderabad,Business Owners,Female,married,43542,13068.0,9313.0,30.01,71.27,0
+45+,Bengaluru,Business Owners,Female,single,37033,10142.0,19530.0,27.39,192.57,2
+35-45,Mumbai,Salaried IT Employees,Female,single,58512,17083.0,5372.0,29.2,31.45,0
+45+,Delhi-NCR,Freelancers,Male,married,28670,21726.0,11015.0,75.78,50.7,0
+35-45,Hyderabad,Salaried Other Employees,Female,single,108775,17127.0,26231.0,15.75,153.16,2
+25-34,Mumbai,Business Owners,Female,married,25751,13841.0,17346.0,53.75,125.32,2
+21-24,Chennai,Salaried IT Employees,Female,married,34557,16186.0,13605.0,46.84,84.05,0
+25-34,Mumbai,Freelancers,Male,married,136115,16919.0,10493.0,12.43,62.02,1
+25-34,Mumbai,Freelancers,Male,married,22866,12292.0,14129.0,53.76,114.94,0
+45+,Delhi-NCR,Salaried Other Employees,Male,single,107287,12134.0,18631.0,11.31,153.54,3
+25-34,Hyderabad,Government Employees,Female,married,116301,13652.0,12067.0,11.74,88.39,1
+25-34,Mumbai,Salaried Other Employees,Male,married,111773,19910.0,7891.0,17.81,39.63,1
+25-34,Hyderabad,Government Employees,Female,single,32494,14047.0,4920.0,43.23,35.03,0
+21-24,Hyderabad,Salaried Other Employees,Male,married,44640,13361.0,14211.0,29.93,106.36,1
+45+,Mumbai,Government Employees,Female,single,35500,16315.0,10913.0,45.96,66.89,0
+35-45,Delhi-NCR,Business Owners,Male,married,29326,14126.0,8209.0,48.17,58.11,0
+21-24,Hyderabad,Government Employees,Male,married,80806,6197.0,2572.0,7.67,41.5,1
+25-34,Chennai,Business Owners,Female,married,116349,9982.0,7352.0,8.58,73.65,1
+25-34,Hyderabad,Salaried IT Employees,Male,married,58492,16073.0,13950.0,27.48,86.79,1
+21-24,Mumbai,Salaried IT Employees,Female,single,88981,15346.0,6548.0,17.25,42.67,1
+45+,Delhi-NCR,Freelancers,Female,single,101073,12422.0,16162.0,12.29,130.11,3
+21-24,Mumbai,Government Employees,Female,married,112981,13712.0,19481.0,12.14,142.07,2
+45+,Hyderabad,Salaried IT Employees,Male,single,144559,15558.0,19001.0,10.76,122.13,3
+35-45,Mumbai,Salaried Other Employees,Male,single,56971,22052.0,14670.0,38.71,66.52,4
+45+,Bengaluru,Salaried IT Employees,Male,single,125378,11947.0,6207.0,9.53,51.95,3
+35-45,Mumbai,Government Employees,Female,single,89133,11998.0,10666.0,13.46,88.9,3
+45+,Bengaluru,Salaried IT Employees,Female,married,33824,11464.0,8885.0,33.89,77.5,0
+21-24,Hyderabad,Freelancers,Female,single,57970,16755.0,5075.0,28.9,30.29,0
+45+,Chennai,Business Owners,Female,married,116016,14707.0,19893.0,12.68,135.26,2
+45+,Mumbai,Salaried Other Employees,Female,married,96425,9688.0,4823.0,10.05,49.78,1
+35-45,Bengaluru,Salaried IT Employees,Female,married,35576,12403.0,14113.0,34.86,113.79,0
+25-34,Chennai,Business Owners,Male,married,118954,932.0,932.0,0.78,100.0,3
+35-45,Bengaluru,Salaried IT Employees,Female,single,132560,11465.0,4311.0,8.65,37.6,3
+21-24,Bengaluru,Salaried IT Employees,Male,single,49198,13915.0,4429.0,28.28,31.83,1
+25-34,Delhi-NCR,Government Employees,Male,married,33153,14535.0,18715.0,43.84,128.76,0
+45+,Mumbai,Salaried Other Employees,Male,single,120013,24958.0,12448.0,20.8,49.88,4
+21-24,Hyderabad,Salaried IT Employees,Male,single,121055,9396.0,9396.0,7.76,100.0,1
+35-45,Chennai,Business Owners,Male,single,50325,7175.0,2682.0,14.26,37.38,3
+35-45,Hyderabad,Salaried Other Employees,Male,single,24259,8390.0,3337.0,34.59,39.77,1
+21-24,Bengaluru,Salaried Other Employees,Female,single,107406,14992.0,3725.0,13.96,24.85,1
+45+,Chennai,Government Employees,Male,single,93996,15854.0,12404.0,16.87,78.24,4
+21-24,Bengaluru,Government Employees,Female,single,116664,15786.0,19076.0,13.53,120.84,3
+35-45,Hyderabad,Freelancers,Male,single,20977,12318.0,11009.0,58.72,89.37,0
+45+,Chennai,Business Owners,Female,single,132712,11788.0,12605.0,8.88,106.93,3
+45+,Bengaluru,Salaried IT Employees,Female,single,108643,17447.0,16532.0,16.06,94.76,3
+45+,Delhi-NCR,Salaried Other Employees,Female,married,121122,21087.0,20176.0,17.41,95.68,2
+45+,Chennai,Government Employees,Female,married,30384,9579.0,1689.0,31.53,17.63,1
+35-45,Mumbai,Salaried IT Employees,Female,married,51716,16530.0,17915.0,31.96,108.38,2
+25-34,Mumbai,Freelancers,Female,single,52903,10637.0,6737.0,20.11,63.34,0
+45+,Delhi-NCR,Salaried Other Employees,Female,single,73662,6592.0,12279.0,8.95,186.27,3
+25-34,Mumbai,Government Employees,Male,single,27442,13590.0,13824.0,49.52,101.72,0
+35-45,Delhi-NCR,Business Owners,Male,single,140306,15463.0,13557.0,11.02,87.67,4
+35-45,Bengaluru,Salaried Other Employees,Male,single,46917,14541.0,5729.0,30.99,39.4,1
+35-45,Bengaluru,Salaried Other Employees,Female,married,48992,10583.0,9290.0,21.6,87.78,0
+25-34,Delhi-NCR,Salaried Other Employees,Female,single,72731,14677.0,6352.0,20.18,43.28,1
+21-24,Delhi-NCR,Business Owners,Female,single,88957,7378.0,6238.0,8.29,84.55,3
+21-24,Chennai,Salaried IT Employees,Female,married,70659,17578.0,26757.0,24.88,152.22,2
+45+,Mumbai,Freelancers,Female,single,144047,6830.0,7415.0,4.74,108.57,3
+45+,Mumbai,Salaried Other Employees,Female,married,96002,20133.0,12218.0,20.97,60.69,4
+35-45,Hyderabad,Freelancers,Male,single,48741,17356.0,16409.0,35.61,94.54,0
+25-34,Bengaluru,Government Employees,Female,single,105636,11148.0,1147.0,10.55,10.29,3
+35-45,Delhi-NCR,Salaried IT Employees,Male,married,141976,12901.0,12999.0,9.09,100.76,1
+21-24,Delhi-NCR,Salaried Other Employees,Female,single,55623,14400.0,8966.0,25.89,62.26,1
+21-24,Hyderabad,Salaried Other Employees,Female,married,24714,15043.0,26801.0,60.87,178.16,2
+25-34,Hyderabad,Salaried Other Employees,Male,single,27186,16727.0,14138.0,61.53,84.52,0
+35-45,Mumbai,Salaried IT Employees,Male,married,20320,11709.0,12819.0,57.62,109.48,0
+25-34,Delhi-NCR,Freelancers,Female,married,54408,9138.0,6601.0,16.8,72.24,1
+21-24,Mumbai,Government Employees,Female,married,54109,4610.0,4141.0,8.52,89.83,1
+35-45,Bengaluru,Salaried IT Employees,Female,single,123182,7989.0,8391.0,6.49,105.03,3
+25-34,Chennai,Business Owners,Female,single,80790,11763.0,12371.0,14.56,105.17,3
+45+,Hyderabad,Salaried IT Employees,Male,single,125810,8396.0,8323.0,6.67,99.13,3
+35-45,Delhi-NCR,Salaried IT Employees,Female,married,65265,13355.0,8528.0,20.46,63.86,1
+45+,Bengaluru,Salaried IT Employees,Female,married,48599,6991.0,6991.0,14.39,100.0,1
+25-34,Chennai,Government Employees,Male,single,53712,21018.0,10170.0,39.13,48.39,0
+35-45,Chennai,Freelancers,Male,married,90047,14005.0,16462.0,15.55,117.54,3
+25-34,Delhi-NCR,Business Owners,Female,married,131893,7021.0,13068.0,5.32,186.13,3
+35-45,Delhi-NCR,Salaried Other Employees,Female,married,107438,13733.0,18333.0,12.78,133.5,2
+25-34,Bengaluru,Government Employees,Female,single,20264,13593.0,17533.0,67.08,128.99,0
+25-34,Mumbai,Salaried IT Employees,Female,married,79128,17974.0,5128.0,22.72,28.53,1
+35-45,Bengaluru,Salaried Other Employees,Female,married,74937,15791.0,8893.0,21.07,56.32,1
+35-45,Bengaluru,Business Owners,Male,single,137245,7948.0,6057.0,5.79,76.21,3
+25-34,Bengaluru,Salaried Other Employees,Male,single,58175,17444.0,11307.0,29.99,64.82,0
+25-34,Hyderabad,Salaried Other Employees,Female,married,146938,7588.0,3580.0,5.16,47.18,1
+25-34,Delhi-NCR,Freelancers,Male,married,30183,13905.0,10697.0,46.07,76.93,0
+21-24,Bengaluru,Government Employees,Female,married,113092,7836.0,755.0,6.93,9.64,1
+25-34,Mumbai,Salaried IT Employees,Female,married,145020,22377.0,19784.0,15.43,88.41,2
+35-45,Hyderabad,Government Employees,Male,married,126129,17311.0,14742.0,13.72,85.16,1
+35-45,Mumbai,Salaried IT Employees,Female,single,60315,11798.0,14694.0,19.56,124.55,3
+35-45,Delhi-NCR,Salaried IT Employees,Female,married,62226,14409.0,12375.0,23.16,85.88,1
+21-24,Hyderabad,Freelancers,Male,married,67899,11147.0,7433.0,16.42,66.68,1
+35-45,Hyderabad,Salaried Other Employees,Female,married,116641,19218.0,19218.0,16.48,100.0,2
+35-45,Chennai,Freelancers,Male,married,94490,8898.0,4328.0,9.42,48.64,3
+25-34,Hyderabad,Salaried Other Employees,Male,married,88177,11798.0,10958.0,13.38,92.88,1
+45+,Delhi-NCR,Salaried Other Employees,Female,married,93316,16428.0,18975.0,17.6,115.5,2
+35-45,Bengaluru,Salaried Other Employees,Male,single,131829,14342.0,19957.0,10.88,139.15,3
+45+,Chennai,Business Owners,Male,married,45424,15094.0,13127.0,33.23,86.97,3
+21-24,Mumbai,Salaried Other Employees,Female,married,138014,15725.0,9952.0,11.39,63.29,1
+35-45,Bengaluru,Freelancers,Male,married,132912,8122.0,2626.0,6.11,32.33,3
+21-24,Chennai,Salaried Other Employees,Male,married,37179,19855.0,1149.0,53.4,5.79,0
+21-24,Delhi-NCR,Salaried Other Employees,Female,single,26791,5373.0,9382.0,20.06,174.61,0
+25-34,Hyderabad,Salaried Other Employees,Male,married,134717,8656.0,6497.0,6.43,75.06,1
+45+,Chennai,Government Employees,Female,married,134803,21322.0,12847.0,15.82,60.25,1
+25-34,Mumbai,Freelancers,Female,single,125377,8766.0,14019.0,6.99,159.92,3
+35-45,Chennai,Business Owners,Female,single,57977,8712.0,10581.0,15.03,121.45,3
+45+,Delhi-NCR,Business Owners,Male,married,106567,10897.0,6547.0,10.23,60.08,4
+45+,Chennai,Salaried Other Employees,Male,single,60431,17879.0,12793.0,29.59,71.55,0
+25-34,Bengaluru,Salaried IT Employees,Female,married,25587,11974.0,17968.0,46.8,150.06,0
+45+,Delhi-NCR,Freelancers,Female,single,62945,11379.0,12603.0,18.08,110.76,3
+35-45,Delhi-NCR,Salaried Other Employees,Female,single,97831,15813.0,18159.0,16.16,114.84,2
+35-45,Mumbai,Business Owners,Female,single,132777,29956.0,11645.0,22.56,38.87,4
+35-45,Mumbai,Salaried IT Employees,Female,single,136128,10473.0,14074.0,7.69,134.38,3
+25-34,Bengaluru,Business Owners,Female,married,123901,15968.0,25826.0,12.89,161.74,2
+45+,Bengaluru,Business Owners,Female,single,100291,12488.0,12488.0,12.45,100.0,3
+35-45,Mumbai,Salaried IT Employees,Male,single,109274,14309.0,17109.0,13.09,119.57,3
+21-24,Mumbai,Salaried Other Employees,Male,single,143512,22336.0,11644.0,15.56,52.13,1
+25-34,Chennai,Salaried IT Employees,Female,married,132064,20716.0,5991.0,15.69,28.92,1
+25-34,Bengaluru,Business Owners,Female,married,20770,10268.0,4926.0,49.44,47.97,1
+45+,Chennai,Business Owners,Female,single,116288,15523.0,11256.0,13.35,72.51,3
+25-34,Hyderabad,Government Employees,Male,single,58441,12848.0,9720.0,21.98,75.65,1
+35-45,Hyderabad,Salaried Other Employees,Female,single,92354,16376.0,19397.0,17.73,118.45,2
+25-34,Chennai,Freelancers,Female,married,117731,22025.0,12128.0,18.71,55.06,1
+25-34,Bengaluru,Government Employees,Male,single,131980,12275.0,16793.0,9.3,136.81,3
+35-45,Hyderabad,Salaried IT Employees,Male,single,74510,12506.0,15246.0,16.78,121.91,3
+25-34,Mumbai,Business Owners,Female,single,28839,18609.0,17818.0,64.53,95.75,0
+35-45,Delhi-NCR,Salaried IT Employees,Female,married,116755,7159.0,10334.0,6.13,144.35,3
+21-24,Chennai,Salaried Other Employees,Male,married,112295,17145.0,8194.0,15.27,47.79,1
+45+,Delhi-NCR,Salaried IT Employees,Male,single,80050,9226.0,9964.0,11.53,108.0,3
+35-45,Delhi-NCR,Business Owners,Female,married,109829,21379.0,21379.0,19.47,100.0,2
+45+,Bengaluru,Freelancers,Male,single,74085,20123.0,7664.0,27.16,38.09,4
+21-24,Mumbai,Salaried IT Employees,Male,single,110061,13509.0,7668.0,12.27,56.76,1
+45+,Mumbai,Salaried IT Employees,Female,married,69911,19710.0,3299.0,28.19,16.74,4
+35-45,Delhi-NCR,Salaried Other Employees,Male,single,81847,16710.0,14123.0,20.42,84.52,3
+21-24,Delhi-NCR,Government Employees,Male,married,145845,26774.0,14856.0,18.36,55.49,4
+45+,Delhi-NCR,Government Employees,Male,married,88611,7095.0,664.0,8.01,9.36,3
+35-45,Mumbai,Government Employees,Male,married,58304,7348.0,7456.0,12.6,101.47,3
+21-24,Chennai,Government Employees,Male,single,41289,10880.0,10120.0,26.35,93.01,0
+25-34,Mumbai,Freelancers,Male,single,117315,8430.0,8430.0,7.19,100.0,3
+21-24,Mumbai,Freelancers,Female,single,102057,11211.0,14553.0,10.99,129.81,3
